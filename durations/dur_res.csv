@@ -1,0 +1,2697 @@
+vowel,duration,word,num_syl,syl_in_word,part_of_speech,part_of_word,first,final,nasal,speaker
+ɔ,0.12420621624426076,﻿ ɔdumɛ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.11578545582096922, ﻿ ɔdumɛ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.15157368762004353, ɔdumɛ  ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.12420621624426076, ɔdumɛ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.11578545582096922, ɔdumɛ  ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.15157368762004353, ɔdumɛ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.10995677123935632,﻿ ɔdumɛ  ,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.05614813850520317, ﻿ ɔdumɛ,2,3,N,root,no,no,nasal,tim
+ɛ,0.06784566736045417, ɔdumɛ  ,3,3,N,root,no,yes,not nasal,tim
+ɔ,0.10995677123935632,﻿ ɔdumɛ  ,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.05614813850520317, ﻿ ɔdumɛ,2,3,N,root,no,no,nasal,tim
+ɛ,0.05614813850520317, ɔdumɛ  ,3,3,N,root,no,yes,not nasal,tim
+ɔ,0.08656171352885522, ɔdumɛ,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.042111103878902156, ɔdumɛ  ,2,3,N,root,no,no,nasal,tim
+ɛ,0.05380863273415315, ɔdumɛ,3,3,N,root,no,yes,not nasal,tim
+ɔ,0.12217761059602772,dɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.10860232052980123,dɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.06981577748344314,dɔ,1,1,V,root,no,yes,not nasal,tim
+ʋ,0.05153069290444634, gʋdʋ  ,1,2,NUM,root,no,no,not nasal,tim
+ʋ,0.07480261873226013, gʋdʋ,2,2,NUM,root,no,yes,not nasal,tim
+ʋ,0.0482061320719005, gʋdʋ  ,1,2,NUM,root,no,no,not nasal,tim
+ʋ,0.05485525373699218, gʋdʋ,2,2,NUM,root,no,yes,not nasal,tim
+ə,0.055470913150429624, gəfu  ,1,2,N,pref,no,no,not nasal,tim
+u,0.06907698618731928, gəfu,2,2,N,root,no,yes,not nasal,tim
+ə,0.07252467890255332, gəfu  ,1,2,N,pref,no,no,not nasal,tim
+u,0.07634176726584485, gəfu,2,2,N,root,no,yes,not nasal,tim
+ə,0.050237808136238016, gəfu  ,1,2,N,pref,no,no,not nasal,tim
+u,0.08274462516556014, gəfu,2,2,N,root,no,yes,not nasal,tim
+ə,0.04580506035950549, gəfɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.06649121665090263, gəfɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.04432747776726842, gəfɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.06353605146640717, gəfɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.04728264295175677, gəfɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.07535671220435347, gəfɛ,2,2,N,root,no,yes,not nasal,tim
+o,0.0679995822138153, otʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.07523358032166527, otʋ,2,2,N,root,no,yes,not nasal,tim
+o,0.07504888249764008, otʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.0623047326395465, otʋ,2,2,N,root,no,yes,not nasal,tim
+o,0.08157487228002935, otʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.05547091315041541, otʋ,2,2,N,root,no,yes,not nasal,tim
+o,0.05540934720907842, otʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.08619231788078707, otʋ,2,2,N,root,no,yes,not nasal,tim
+o,0.07541827814569047, otʋ  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.06772253547777041, otʋ,2,2,N,root,no,yes,not nasal,tim
+o,0.06772253547777041, otʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.08773146641436824, otʋ,2,2,N,root,no,yes,not nasal,tim
+ə,0.038786543046356314, gəkɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.09419589025543473, gəkɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.038786543046370525, gəkɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.12005358561968649, gəkɛ,2,2,N,root,no,yes,not nasal,tim
+ɛ,0.09712896276106164,fɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.10550214920597512,fɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.09377968818310478,fɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.11377385960264519,sɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.11106495818354745,sɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.08643858164616347,sɛ,1,1,V,root,no,yes,not nasal,tim
+a,0.08723810116745767, fal  ,1,1,V,root,no,no,not nasal,tim
+a,0.09579085618389627, fal,1,1,V,root,no,no,not nasal,tim
+a,0.09408030518059718, fal  ,1,1,V,root,no,no,not nasal,tim
+ɔɔ,0.12713366887419397, nsɔɔ  ,1,1,N,root,no,yes,not nasal,tim
+ɔɔ,0.13439844995269823, nsɔɔ,1,1,N,root,no,yes,not nasal,tim
+ɔɔ,0.14892801210976359, nsɔɔ  ,1,1,N,root,no,yes,not nasal,tim
+ɔ,0.10421574720905369, nsɔ  ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.10421574720908211, nsɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.10250729233681, nsɔ  ,1,1,V,root,no,yes,not nasal,tim
+a,0.07314033831596589, sal  ,1,1,V,root,no,no,not nasal,tim
+a,0.08976314247871642, sal,1,1,V,root,no,no,not nasal,tim
+a,0.08477630122990831, sal  ,1,1,V,root,no,no,not nasal,tim
+ʋ,0.07978945998107179,tʋ,1,1,V,root,no,yes,not nasal,tim
+ʋ,0.11820660737939193,tʋ,1,1,V,root,no,yes,not nasal,tim
+ʋ,0.0960428684957435,tʋ,1,1,V,root,no,yes,not nasal,tim
+u,0.07363286584674711,du,1,1,V,root,no,yes,not nasal,tim
+u,0.07203215137181473,du,1,1,V,root,no,yes,not nasal,tim
+u,0.09444215402081113,du,1,1,V,root,no,yes,not nasal,tim
+ə,0.047221077010419776, gəcɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.07083161551560124, gəcɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.03632390539263497, gəcɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.08172878713338605, gəcɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.0399562959318871, gəcɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.0799125918637742, gəcɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.04432747776726842, gəcɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.0627972601702993, gəcɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.03693956480603333, gəcɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.0794200643330214, gəcɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.038786543046342103, gəcɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.05910330368968175, gəcɛ,2,2,N,root,no,yes,not nasal,tim
+a,0.04826769801326236, gaca  ,1,2,N,pref,no,no,not nasal,tim
+a,0.06550616158938283, gaca,2,2,N,root,no,yes,not nasal,tim
+a,0.06378231523177647, gaca  ,1,2,N,pref,no,no,not nasal,tim
+a,0.0620584688741701, gaca,2,2,N,root,no,yes,not nasal,tim
+a,0.07240154701986512, gaca  ,1,2,N,pref,no,no,not nasal,tim
+a,0.07240154701992196, gaca,2,2,N,root,no,yes,not nasal,tim
+a,0.07757308609274105, nta  ,1,1,V,root,no,yes,not nasal,tim
+a,0.10158380321666982, nta,1,1,V,root,no,yes,not nasal,tim
+a,0.049868412488194735, nta  ,1,1,V,root,no,yes,not nasal,tim
+ə,0.051715390728475086, nəntali  ,1,3,V,root,no,no,nasal,tim
+a,0.04802143424785754, nəntali,2,3,V,root,no,no,not nasal,tim
+ə,0.0497760635761324, nəntali  ,1,3,V,root,no,no,nasal,tim
+a,0.05570178543047177, nəntali,2,3,V,root,no,no,not nasal,tim
+ə,0.05713319356664215, nəntali  ,1,3,V,root,no,no,nasal,tim
+a,0.11420482119200415, nəntali,2,3,V,root,no,no,not nasal,tim
+i,0.03764662251654727, nəntali,3,3,V,root,no,yes,not nasal,tim
+aa,0.1182066073793635, ntaa,1,1,V,root,no,yes,not nasal,tim
+aa,0.1182066073793635, ntaa  ,1,1,V,root,no,yes,not nasal,tim
+aa,0.11032616688743246, ntaa,1,1,V,root,no,yes,not nasal,tim
+a,0.0689538543046524, ganan  ,1,2,N,pref,no,no,nasal,tim
+a,0.06033462251656374, ganan,2,2,N,root,no,no,nasal,tim
+a,0.07326347019863988, ganan  ,1,2,N,pref,no,no,nasal,tim
+a,0.05387019867549725, ganan,2,2,N,root,no,no,nasal,tim
+a,0.07634176726588748, ganan  ,1,2,N,pref,no,no,nasal,tim
+a,0.06402857899718129, ganan,2,2,N,root,no,no,nasal,tim
+a,0.08163643822138056,da,1,1,V,root,no,yes,not nasal,tim
+a,0.08323715269631293,da,1,1,V,root,no,yes,not nasal,tim
+a,0.10244572639544458,da,1,1,V,root,no,yes,not nasal,tim
+o,0.08234391371809124, olo  ,1,2,N,pref,yes,no,nasal,tim
+o,0.08803929612105321, olo,2,2,N,root,no,yes,nasal,tim
+o,0.12459453362936301, olo  ,1,2,N,pref,yes,no,nasal,tim
+o,0.08354280735784414, olo,2,2,N,root,no,yes,nasal,tim
+o,0.11532319243139, olo  ,1,2,N,pref,yes,no,nasal,tim
+o,0.053808632734160255, olo,2,2,N,root,no,yes,nasal,tim
+o,0.06815349706715779, oko  ,1,2,N,pref,yes,no,nasal,tim
+o,0.07978945998110021, oko,2,2,N,root,no,yes,nasal,tim
+o,0.09641226414379389, oko  ,1,2,N,pref,yes,no,nasal,tim
+o,0.07677272885524644, oko,2,2,N,root,no,yes,nasal,tim
+o,0.09462685184485054, oko  ,1,2,N,pref,yes,no,nasal,tim
+o,0.08569979035002007, oko,2,2,N,root,no,yes,nasal,tim
+o,0.10571822138120979, ɔlʋ  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.11343524692529172, ɔlʋ,2,2,N,root,no,yes,nasal,tim
+o,0.1294968913786647, ɔlʋ  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.1340673698978776, ɔlʋ,2,2,N,root,no,yes,nasal,tim
+o,0.12173471183621132, ɔlʋ  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.10969148446190502, ɔlʋ,2,2,N,root,no,yes,nasal,tim
+ɔ,0.095065953200276, ɔlɔ  ,1,2,V,pref,yes,no,not nasal,tim
+ɔ,0.07346005474568074, ɔlɔ,2,2,V,root,no,yes,not nasal,tim
+ɔ,0.11235067196400905, ɔlɔ  ,1,2,V,pref,yes,no,not nasal,tim
+ɔ,0.08210241412751884, ɔlɔ,2,2,V,root,no,yes,not nasal,tim
+ɔ,0.10506132740187013, ɔlɔ  ,1,2,V,pref,yes,no,not nasal,tim
+ɔ,0.11672725139453632, ɔlɔ,2,2,V,root,no,yes,not nasal,tim
+ɔ,0.1100272388536041, ɔlɔ  ,1,2,V,pref,yes,no,not nasal,tim
+ɔ,0.11665796945845841, ɔlɔ,2,2,V,root,no,yes,not nasal,tim
+ɔ,0.13495725878527765, ɔlɔ  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.09378385779990595, ɔlɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.14293835519424647, ɔlɔ  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.06862233497554371, ɔlɔ,2,2,N,root,no,yes,not nasal,tim
+aa,0.20215364989974205, saa  ,1,1,V,root,no,yes,not nasal,tim
+aa,0.17489697800317572, saa,1,1,V,root,no,yes,not nasal,tim
+aa,0.1776581970469806, saa  ,1,1,V,root,no,yes,not nasal,tim
+a,0.095730750075802,sa,1,1,V,root,no,yes,not nasal,tim
+a,0.08974757819606793,sa,1,1,V,root,no,yes,not nasal,tim
+ɛɛ,0.09750354174389031, cɛɛ  ,1,1,V,root,no,yes,not nasal,tim
+ɛɛ,0.12054983342886771, cɛɛ,1,1,V,root,no,yes,not nasal,tim
+ɛɛ,0.1542328751222044, cɛɛ  ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.07728263677995528,cɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.08758698835060841,cɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.09102177220751173,cɛ,1,1,V,root,no,yes,not nasal,tim
+a,0.10005192976672106, kpalɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.059554720099242786, kpalɩ,2,2,V,root,no,yes,not nasal,tim
+a,0.13578476182630084, kpalɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.05717253129529354, kpalɩ,2,2,V,root,no,yes,not nasal,tim
+a,0.09312696231336304, kpalɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.06132751176733109, kpalɩ,2,2,V,root,no,yes,not nasal,tim
+ɛ,0.095730750075802, kpɛ  ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.09750354174389031, kpɛ,2,1,V,root,no,yes,not nasal,tim
+ɛ,0.09750354174389031, kpɛ  ,1,1,V,root,no,yes,not nasal,tim
+a,0.10991308342045158, kpɛ,2,1,V,root,no,yes,not nasal,tim
+i,0.06559329171864192, mali  ,1,2,V,root,no,no,not nasal,tim
+a,0.12492641285939499, mali,2,2,V,root,no,yes,not nasal,tim
+i,0.06551019210917275, mali  ,1,2,V,root,no,no,not nasal,tim
+a,0.11730894866059316, mali,2,2,V,root,no,yes,not nasal,tim
+i,0.08074512050666272, mali  ,1,2,V,root,no,no,not nasal,tim
+a,0.04786537503787258, ŋmali  ,2,2,V,root,no,yes,not nasal,tim
+a,0.0997195313290149, ŋmali,1,2,V,root,no,no,not nasal,tim
+a,0.10570270320874897, ŋmali  ,2,2,V,root,no,yes,not nasal,tim
+u,0.06515009380166248, gunu  ,1,2,N,pref,no,no,nasal,tim
+u,0.11323706779808163, gunu,2,2,N,root,no,yes,nasal,tim
+u,0.0585021250464024, gunu  ,1,2,N,pref,no,no,nasal,tim
+u,0.09395795840782739, gunu,2,2,N,root,no,yes,nasal,tim
+u,0.05672933337825725, gunu  ,1,2,N,pref,no,no,nasal,tim
+u,0.10282191674809837, gunu,2,2,N,root,no,yes,nasal,tim
+e,0.05141095837404919, genu  ,1,2,N,pref,no,no,nasal,tim
+u,0.06438628141597746, genu,2,2,N,root,no,yes,nasal,tim
+e,0.07229336860746116, genu  ,1,2,N,pref,no,no,nasal,tim
+u,0.0655158653005401, genu,2,2,N,root,no,yes,nasal,tim
+e,0.05941622075022224, genu  ,1,2,N,pref,no,no,nasal,tim
+u,0.05789272791037092, genu,2,2,N,root,no,yes,nasal,tim
+a,0.1412693360493904,na,1,1,V,root,no,yes,not nasal,tim
+a,0.12232262509701286,na,1,1,V,root,no,yes,not nasal,tim
+a,0.14016134125677127,na,1,1,V,root,no,yes,not nasal,tim
+a,0.0993871328912519,ɲa,1,1,V,root,no,yes,not nasal,tim
+a,0.10703229695980099,ɲa,1,1,V,root,no,yes,not nasal,tim
+a,0.12996778916544827,ɲa,1,1,V,root,no,yes,not nasal,tim
+a,0.09074477350941379,ŋa,1,1,V,root,no,yes,not nasal,tim
+a,0.0885841836640111,ŋa,1,1,V,root,no,yes,not nasal,tim
+ə,0.05819742647838666, gənanbi  ,1,3,N,pref,no,no,nasal,tim
+a,0.07936012701600248, gənanbi  ,2,3,N,root,no,no,nasal,tim
+ɩ,0.04232540107511795, gənanbi,3,3,N,root,no,yes,not nasal,tim
+ə,0.03968006350805808, gənanbi  ,1,3,N,pref,no,no,nasal,tim
+a,0.10052282755350461, gənanbi,2,3,N,root,no,no,nasal,tim
+ɩ,0.06877877674719457, gənanbi  ,3,3,N,root,no,yes,not nasal,tim
+ə,0.04448599092063432, gənanbi,1,3,N,pref,no,no,nasal,tim
+a,0.08694989134494335, gəŋaŋbi  ,2,3,N,root,no,no,nasal,tim
+ɩ,0.06672898638100833, gəŋaŋbi,3,3,N,root,no,yes,not nasal,tim
+ə,0.059887118537062634, gəŋaŋbi  ,1,3,N,pref,no,no,nasal,tim
+a,0.11717044931151577, gəŋaŋbi,2,3,N,root,no,no,nasal,tim
+ɩ,0.05467954301207101, gəŋaŋbi  ,3,3,N,root,no,yes,not nasal,tim
+ə,0.08393060553521536, gəŋaŋbi,1,3,N,pref,no,no,nasal,tim
+a,0.10071672664230391, gəŋaŋbi,2,3,N,root,no,no,nasal,tim
+ɩ,0.06434679757694539, gəŋaŋbi  ,3,3,N,root,no,yes,not nasal,tim
+ə,0.08758698835060841, gəŋaŋbi,1,3,N,pref,no,no,nasal,tim
+a,0.08476160162956603, gəŋaŋbi  ,2,3,N,root,no,no,nasal,tim
+ɩ,0.0706346680246952, gəŋaŋbi,3,3,N,root,no,yes,not nasal,tim
+a,0.09888853523455055,ja,1,1,V,root,no,yes,not nasal,tim
+a,0.06498389458272413,ja,1,1,V,root,no,yes,not nasal,tim
+a,0.07628544146666627,ja,1,1,V,root,no,yes,not nasal,tim
+a,0.06880647661705552, jan  ,1,1,V,root,no,no,nasal,tim
+a,0.06370970057139402, jan,1,1,V,root,no,no,nasal,tim
+a,0.07135486463982943, jan  ,1,1,V,root,no,no,nasal,tim
+a,0.11334786727718438, maka  ,1,2,V,root,no,no,not nasal,tim
+a,0.08930438027914533, maka,2,2,V,root,no,yes,not nasal,tim
+a,0.10304351570653125, maka  ,1,2,V,root,no,no,not nasal,tim
+a,0.07041306906614864, maka,2,2,V,root,no,yes,not nasal,tim
+a,0.0738478529231088, maka  ,1,2,N,pref,no,no,not nasal,tim
+a,0.07041306906614864, maka,2,2,N,root,no,yes,not nasal,tim
+a,0.08919358079981521, maka  ,1,2,N,pref,no,no,not nasal,tim
+a,0.10082752612152035, maka,2,2,N,root,no,yes,not nasal,tim
+ɩ,0.09783235537508972, ɩɲɔ  ,1,2,N,pref,yes,no,nasal,tim
+ɔ,0.107697093835327, ɩɲɔ,2,2,N,root,no,yes,not nasal,tim
+ɛ,0.13761295323399736, ɛɲɔ  ,1,2,V,pref,yes,no,nasal,tim
+ɔ,0.09573075007585885, ɛɲɔ,2,2,V,root,no,yes,not nasal,tim
+ɛ,0.12947751944363972, ɛɲɔ  ,1,2,V,pref,yes,no,nasal,tim
+ɔ,0.12631140635005522, ɛɲɔ,2,2,V,root,no,yes,not nasal,tim
+ɛ,0.12963539072768526, ɛɲɔ  ,1,2,V,pref,yes,no,nasal,tim
+ɔ,0.10636750008427498, ɛɲɔ,2,2,V,root,no,yes,not nasal,tim
+ɩ,0.12007893564202732, ɩɲɔ  ,1,2,N,pref,yes,no,nasal,tim
+ɔ,0.08935616243968525, ɩɲɔ,2,2,N,root,no,yes,not nasal,tim
+ɩ,0.10370831258217095, ɩɲɔ  ,1,2,N,pref,yes,no,nasal,tim
+ɔ,0.10611357775428587, ɩɲɔ,2,2,N,root,no,yes,not nasal,tim
+ɩ,0.0885841836640111, ɩɲɔ  ,1,2,N,pref,yes,no,nasal,tim
+ɔ,0.10154772273665458, ɩɲɔ,2,2,N,root,no,yes,not nasal,tim
+ɛ,0.11789064592665,yɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.10946988550335846,yɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.10736469539756399,yɛ,1,1,V,root,no,yes,not nasal,tim
+i,0.14736330740834092,yi,1,1,V,root,no,yes,not nasal,tim
+i,0.11368026571506107,yi,1,1,V,root,no,yes,not nasal,tim
+i,0.10946988550347214,yi,1,1,V,root,no,yes,not nasal,tim
+i,0.08631279433916461,ji,1,1,V,root,no,yes,not nasal,tim
+i,0.0863127943392783,ji,1,1,V,root,no,yes,not nasal,tim
+i,0.09473355476256984,ji,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.12420621624426076,yɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.11578545582096922,yɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.15157368762004353,yɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.07584923973509916, gɔlɔ  ,1,2,N,pref,no,no,not nasal,tim
+ɔ,0.07855814115421023, ﻿ gɔlɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.06501363405865668, gɔlɔ  ,1,2,N,pref,no,no,not nasal,tim
+ɔ,0.05824138051088035, gɔlɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.06636808476821265, gɔlɔ  ,1,2,N,pref,no,no,not nasal,tim
+ɔ,0.07855814115421111, gɔlɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.06723000794702116, gɔnɔ  ,1,2,N,pref,no,no,nasal,tim
+ɔ,0.09124072507095349, gɔnɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.051222863197729396, gɔnɔ  ,1,2,N,pref,no,no,nasal,tim
+ɔ,0.06402857899715997, gɔnɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.056919495330244985, gɔnɔ  ,1,2,N,pref,no,no,nasal,tim
+ɔ,0.056919495330244985, gɔnɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.08066445562914026, ɔkɛ  ,1,2,N,pref,yes,no,not nasal,tim
+ɛ,0.09136385695364169, ɔkɛ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.07668037994323385, ɔkɛ  ,1,2,N,pref,yes,no,not nasal,tim
+ɛ,0.06199690293283311, ɔkɛ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.09952134418164604, ɔkɛ  ,1,2,N,pref,yes,no,not nasal,tim
+ɛ,0.08157487228003646, ɔkɛ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.07455939451277516, ɔkpɛ  ,1,2,N,pref,yes,no,not nasal,tim
+ɛ,0.0677225354777633, ɔkpɛ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.07159934688137781, ɔkpɛ  ,1,2,N,pref,yes,no,not nasal,tim
+ɛ,0.0715993468813707, ɔkpɛ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.06030621425549043, ɔkpɛ  ,1,2,N,pref,yes,no,not nasal,tim
+ɛ,0.053211365519551634, ɔkpɛ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.08930800983916498, ɔŋɛ  ,1,2,N,pref,yes,no,nasal,tim
+ɛ,0.07831187738883472, ɔŋɛ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.10740983765374068, ɔŋɛ  ,1,2,N,pref,yes,no,nasal,tim
+ɛ,0.07978945998107889, ɔŋɛ,2,2,N,root,no,yes,not nasal,tim
+ii,0.10989520529801666, kii  ,1,1,V,root,no,yes,not nasal,tim
+ii,0.13920059337748114, kii,1,1,V,root,no,yes,not nasal,tim
+ii,0.13187424635762568, kii  ,1,1,V,root,no,yes,not nasal,tim
+ɩ,0.07415617634815419,wi,1,1,V,root,no,yes,not nasal,tim
+i,0.08736207076631786,wi,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.09525299829705602, ɔŋmaŋ  ,1,2,N,pref,yes,no,nasal,tim
+a,0.06501363405865845, ɔŋmaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.10815942478713225, ɔŋmaŋ  ,1,2,N,pref,yes,no,nasal,tim
+a,0.08249836140018374, ɔŋmaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.11571879962157539, ɔŋmaŋ  ,1,2,N,pref,yes,no,nasal,tim
+a,0.09487311561021272, ɔŋmaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.08719044541150822, ɔŋaŋ  ,1,2,N,pref,yes,no,nasal,tim
+a,0.0685228927152366, ɔŋaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.10115284162723981, ɔŋaŋ  ,1,2,N,pref,yes,no,nasal,tim
+a,0.0619969029328189, ɔŋaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.09185372639542777, ɔŋaŋ  ,1,2,N,pref,yes,no,nasal,tim
+a,0.06036540548723224, ɔŋaŋ,2,2,N,root,no,no,nasal,tim
+ə,0.05122286319772229, gəkpa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.06883072242194999, gəkpa,2,2,N,root,no,yes,not nasal,tim
+ə,0.04520027285060735, gəkpa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.11398329675370178, gəkpa,2,2,N,root,no,yes,not nasal,tim
+ə,0.049130731359355195, gəkpa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.08647008719246685, gəkpa,2,2,N,root,no,yes,not nasal,tim
+ə,0.03521571844842697, gəkpa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.08163643822138056, gəkpa,2,2,N,root,no,yes,not nasal,tim
+ə,0.044820005298021215, gəkpa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.060827150047316536, gəkpa,2,2,N,root,no,yes,not nasal,tim
+ə,0.03743209233678613, gəkpa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.060827150047316536, gəkpa,2,2,N,root,no,yes,not nasal,tim
+ə,0.041618576348156466, gəgba  ,1,2,N,pref,no,no,not nasal,tim
+a,0.07843500927151581, gəgba,2,2,N,root,no,yes,not nasal,tim
+ə,0.05922643557235574, gəgba  ,1,2,N,pref,no,no,not nasal,tim
+a,0.07043143689688236, gəgba,2,2,N,root,no,yes,not nasal,tim
+ə,0.04617445600757719, gəgba  ,1,2,N,pref,no,no,not nasal,tim
+a,0.07541827814569047, gəgba,2,2,N,root,no,yes,not nasal,tim
+a,0.08274462516556014, ŋmal  ,1,1,V,root,no,no,not nasal,tim
+a,0.10860232052976926, ŋmal,1,1,V,root,no,no,not nasal,tim
+a,0.09696635761588368, ŋmal  ,1,1,V,root,no,no,not nasal,tim
+u,0.07757308609271263, pul  ,1,1,V,root,no,no,not nasal,tim
+u,0.08034355345319, pul,1,1,V,root,no,no,not nasal,tim
+a,0.07843500927151581, kpa  ,1,1,V,root,no,yes,not nasal,tim
+a,0.08803929612111006, kpa,1,1,V,root,no,yes,not nasal,tim
+a,0.07843500927151581, kpa  ,1,1,V,root,no,yes,not nasal,tim
+a,0.1017685010406808, kpal  ,1,1,V,root,no,no,not nasal,tim
+a,0.09641226414382231, kpal,1,1,V,root,no,no,not nasal,tim
+a,0.09641226414379389, kpal  ,1,1,V,root,no,no,not nasal,tim
+a,0.11722155231788634,pa,1,1,V,root,no,yes,not nasal,tim
+a,0.12584078410594657,pa,1,1,V,root,no,yes,not nasal,tim
+a,0.11549770596025155,pa,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.08038235912962932, ɔpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.08200583386945937, ɔpa,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.090871329422896, ɔpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.08422220775781852, ɔpa,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.09530407719961431, ɔpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.06649121665088842, ɔpa,2,2,N,root,no,yes,not nasal,tim
+ɛ,0.12971943841060352, ŋmɛ  ,1,1,V,root,no,yes,nasal,tim
+ɛ,0.09530407719961431, ŋmɛ,1,1,V,root,no,yes,nasal,tim
+ɛ,0.09795141267738927, ŋmɛ  ,1,1,V,root,no,yes,nasal,tim
+ə,0.07511044843897707, gəŋməl  ,1,2,N,pref,no,no,nasal,tim
+ə,0.08262149328288615, gəŋməl,2,2,N,root,no,no,not nasal,tim
+ə,0.067599403595068, gəŋməl  ,1,2,N,pref,no,no,nasal,tim
+ə,0.07511044843897707, gəŋməl,2,2,N,root,no,no,not nasal,tim
+ə,0.08637701570478384, gəŋməl  ,1,2,N,pref,no,no,nasal,tim
+ə,0.06947716480607369, gəŋməl,2,2,N,root,no,no,not nasal,tim
+ə,0.04131074664138623, gəbəl  ,1,2,N,pref,no,no,not nasal,tim
+ə,0.058210597540210074, gəbəl,2,2,N,root,no,no,not nasal,tim
+ə,0.052577313907249845, gəbəl  ,1,2,N,pref,no,no,not nasal,tim
+ə,0.050699552696301, gəbəl,2,2,N,root,no,no,not nasal,tim
+i,0.11497439545883026, bili  ,1,2,V,root,no,no,not nasal,tim
+i,0.05365471788081777, bili,2,2,V,root,no,yes,not nasal,tim
+i,0.11752938202459973, bili  ,1,2,V,root,no,no,not nasal,tim
+i,0.07409461040680299, bili,2,2,V,root,no,yes,not nasal,tim
+i,0.10832527379375279, bili  ,1,2,V,root,no,no,not nasal,tim
+i,0.10195319886474863, bili,2,2,V,root,no,yes,not nasal,tim
+i,0.09952134418165315, biri  ,1,2,V,root,no,no,not nasal,tim
+i,0.06008835875115892, biri,2,2,V,root,no,yes,not nasal,tim
+i,0.11266567265846561, biri  ,1,2,V,root,no,no,not nasal,tim
+i,0.06008835875115892, biri,2,2,V,root,no,yes,not nasal,tim
+i,0.1464653744559996, biri  ,1,2,V,root,no,no,not nasal,tim
+i,0.09576582175969861, biri,2,2,V,root,no,yes,not nasal,tim
+ɔ,0.08927061494796362, ɔlɔbʋ  ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.04820613207192537, ɔlɔbʋ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.09703283405855245, ɔlɔbʋ  ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.07141649195835953, ɔlɔbʋ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.10510154474928868, ɔlɔbʋ  ,1,3,N,pref,yes,no,not nasal,tim
+ɔ,0.07320190425730289, ɔlɔbʋ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.09057520378428308, ɔnɔbʋ  ,1,3,N,pref,yes,no,nasal,tim
+ɔ,0.09179481854300775, ɔnɔbʋ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.08960922762537393, ɔnɔbʋ  ,1,3,N,pref,yes,no,nasal,tim
+ɔ,0.10709395496684238, ɔnɔbʋ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.0854723390728509, ɔnɔbʋ  ,1,3,N,pref,yes,no,nasal,tim
+ɔ,0.10490836404920856, ɔnɔbʋ,2,3,N,root,no,no,not nasal,tim
+o,0.09675034399242577, oyi  ,1,2,N,pref,yes,no,not nasal,tim
+i,0.12645644351937335, oyi,2,2,N,root,no,yes,not nasal,tim
+o,0.09217371428570687, oyi  ,1,2,N,pref,yes,no,not nasal,tim
+i,0.11174218353835386, oyi,2,2,N,root,no,yes,not nasal,tim
+o,0.08623061494796502, oyi  ,1,2,N,pref,yes,no,not nasal,tim
+o,0.1354052420056746, oyu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.09795141267738927, oyu  ,2,2,N,root,no,yes,not nasal,tim
+o,0.08428377369915552, oyu,1,2,N,pref,yes,no,not nasal,tim
+u,0.11617493131507217, oyu  ,2,2,N,root,no,yes,not nasal,tim
+o,0.13442495818350153, oyu,1,2,N,pref,yes,no,not nasal,tim
+u,0.08883965335854782, oyu  ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.061504375402080314, ɔcɩ  ,1,2,N,pref,yes,no,not nasal,tim
+ɩ,0.10306138580892821, ɔcɩ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.08864309403975312, ɔcɩ  ,1,2,N,pref,yes,no,not nasal,tim
+ɩ,0.11303506830654442, ɔcɩ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.0942527394512922, ɔcɩ  ,1,2,N,pref,yes,no,not nasal,tim
+ɩ,0.09973682497633263, ɔcɩ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.0748026187322921, ɔcʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.09973682497633263, ɔcʋ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.08523036821190999, ɔcʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.1154977059603084, ɔcʋ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.11092941986748883, ɔcʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.093087703311312, ɔcʋ,2,2,N,root,no,yes,not nasal,tim
+ə,0.07865049006625213, gəbi  ,1,2,N,pref,no,no,not nasal,tim
+i,0.08763911750236275, gəbi,2,2,N,root,no,yes,not nasal,tim
+ə,0.07190901948916917, gəbi  ,1,2,N,pref,no,no,not nasal,tim
+i,0.13707656840114169, gəbi,2,2,N,root,no,yes,not nasal,tim
+ə,0.09438058807944572, gəbi  ,1,2,N,pref,no,no,not nasal,tim
+i,0.1348294115420572, gəbi,2,2,N,root,no,yes,not nasal,tim
+ə,0.05861077615895738, gəki  ,1,2,N,pref,no,no,not nasal,tim
+i,0.06033462251656374, gəki,2,2,N,root,no,yes,not nasal,tim
+ə,0.04826769801326236, gəki  ,1,2,N,pref,no,no,not nasal,tim
+i,0.07929693245034741, gəki,2,2,N,root,no,yes,not nasal,tim
+ə,0.05516308344368781, gəki  ,1,2,N,pref,no,no,not nasal,tim
+i,0.06378231523177647, gəki,2,2,N,root,no,yes,not nasal,tim
+e,0.08274462516556014, gbe  ,1,1,V,root,no,yes,not nasal,tim
+e,0.09752045108797347, gbe,1,1,V,root,no,yes,not nasal,tim
+e,0.0799433748344427, gbe  ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.11845287114476832, gbɛ  ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.10564715534530933, gbɛ,1,1,V,root,no,yes,not nasal,tim
+ɛ,0.13285930141910285, gbɛ  ,1,1,V,root,no,yes,not nasal,tim
+ə,0.03684721589399942, gəse  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.11442030198674047, gəse,2,2,N,root,no,yes,not nasal,tim
+ə,0.05430116026491305, gəse  ,1,2,N,pref,no,no,not nasal,tim
+e,0.095027030463541, gəse,2,2,N,root,no,yes,not nasal,tim
+ə,0.04266519735097063, gəse  ,1,2,N,pref,no,no,not nasal,tim
+e,0.12023828344371168, gəse,2,2,N,root,no,yes,not nasal,tim
+ə,0.06784566736047282, gəsɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.14270985203410191, gəsɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.06550616158943967, gəsɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.11463578278147679, gəsɛ,2,2,N,root,no,yes,not nasal,tim
+ə,0.05233105014195871, gəsɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.11303506830654442, gəsɛ,2,2,N,root,no,yes,not nasal,tim
+o,0.05180773964048058, oge  ,1,2,N,pref,yes,no,not nasal,tim
+e,0.08163643822138056, oge,2,2,N,root,no,yes,not nasal,tim
+o,0.058087465657536086, oge  ,1,2,N,pref,yes,no,not nasal,tim
+e,0.07535671220438189, oge,2,2,N,root,no,yes,not nasal,tim
+o,0.08006650671711668, oge  ,1,2,N,pref,yes,no,not nasal,tim
+e,0.08163643822138056, oge,2,2,N,root,no,yes,not nasal,tim
+o,0.09952134418165315, ogo  ,1,2,N,pref,yes,no,not nasal,tim
+o,0.09013253812679523, ogo,2,2,N,root,no,yes,not nasal,tim
+o,0.09952134418165315, ogo  ,1,2,N,pref,yes,no,not nasal,tim
+o,0.10703238902556222, ogo,2,2,N,root,no,yes,not nasal,tim
+o,0.10515462781455653, ogo  ,1,2,N,pref,yes,no,not nasal,tim
+o,0.11078791144745992, ogo,2,2,N,root,no,yes,not nasal,tim
+a,0.07720369044466224, gapɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.08246757842948682, gapɛ,2,2,N,root,no,yes,not nasal,tim
+a,0.0666759144748994, gapɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.09825924238407424, gapɛ,2,2,N,root,no,yes,not nasal,tim
+a,0.054393509176975385, gapɛ  ,1,2,N,pref,no,no,not nasal,tim
+ɛ,0.06141202649007482, gapɛ,2,2,N,root,no,yes,not nasal,tim
+a,0.05448585808892403, gapa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.08172878713344289, gapa,2,2,N,root,no,yes,not nasal,tim
+a,0.056302053358535886, gapa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.0853611776726666, gapa,2,2,N,root,no,yes,not nasal,tim
+a,0.05266966281931218, gapa  ,1,2,N,pref,no,no,not nasal,tim
+a,0.07991259186383104, gapa,2,2,N,root,no,yes,not nasal,tim
+a,0.10429270463566809, aba  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.08533039470194126, aba,2,2,N,root,no,yes,not nasal,tim
+a,0.075849239735021, aba  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.11614414834434683, aba,2,2,N,root,no,yes,not nasal,tim
+a,0.08770068344369975, aba  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.11851443708610532, aba,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.09388806054869292, ɔba  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.11078791144745992, ɔba,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.09576582175975545, ɔba  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.06759940359518168, ɔba,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.09567155967965846, ɔba  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.12768776234622692, ɔba,2,2,N,root,no,yes,not nasal,tim
+a,0.09201029933774407,ca,1,1,V,root,no,yes,not nasal,tim
+a,0.09456528590351354,ca,1,1,V,root,no,yes,not nasal,tim
+a,0.09062506565760486,ca,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.1454495364239392,cɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.11081869441818526,cɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.13621464522236693,cɔ,1,1,V,root,no,yes,not nasal,tim
+o,0.08422220775776168, loŋɔ  ,1,2,N,root,no,no,nasal,tim
+ɔ,0.10416957275310779, loŋɔ,2,2,N,root,no,yes,not nasal,tim
+o,0.07978945998104337, loŋɔ  ,1,2,N,root,no,no,nasal,tim
+ɔ,0.10195319886474863, loŋɔ,2,2,N,root,no,yes,not nasal,tim
+o,0.093087703311312, loŋɔ  ,1,2,N,root,no,no,nasal,tim
+ɔ,0.1086023205298261, loŋɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.06698374418158437, lɔŋɔ  ,1,2,N,root,no,no,nasal,tim
+ɔ,0.06501363405868688, lɔŋɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.08077451504254896, lɔŋɔ  ,1,2,N,root,no,no,nasal,tim
+ɔ,0.0738791296121235, lɔŋɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.0748641846736291, lɔŋɔ  ,1,2,N,root,no,no,nasal,tim
+ɔ,0.05910330368965333, lɔŋɔ,2,2,N,root,no,yes,not nasal,tim
+o,0.07434034134348622, oku  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.0912407250709748, oku,2,2,N,root,no,yes,not nasal,tim
+o,0.14584018467360238, oku  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.0976435829707043, oku,2,2,N,root,no,yes,not nasal,tim
+o,0.08661374910116138, oku  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.08163643822138056, oku,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.10170693509928697, ɔpa  ,1,2,V,pref,yes,no,not nasal,tim
+a,0.07991259186383104, ɔpa,2,2,V,root,no,yes,not nasal,tim
+ɔ,0.11751216802269937, ɔpa  ,1,2,V,pref,yes,no,not nasal,tim
+a,0.11986888779563287, ɔpa,2,2,V,root,no,yes,not nasal,tim
+a,0.08074319924310203, apa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.10155248741727974, apa,2,2,N,root,no,yes,not nasal,tim
+a,0.0912407250709748, apa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.09924429744569352, apa,2,2,N,root,no,yes,not nasal,tim
+a,0.0976435829707043, apa  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.10355391333962416, ɔpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.07141649195841637, ɔpa,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.12140803632917141, ɔpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.09998308874173745, ɔpa,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.122097316934628, ɔpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.0785581411541898, ɔpa,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.05380863273410341, ɔkpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.10195319886463494, ɔkpa,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.06513676594136086, ɔkpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.06230473263951808, ɔkpa,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.0943554348014004, ɔkpa  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.08370062487210817, ɔkpa,2,2,N,root,no,yes,not nasal,tim
+i,0.07889910917691623,ipu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.0762802013245043, ipu,2,2,N,root,no,yes,not nasal,tim
+i,0.09826923897824003, ipu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.08717737294228911, ipu,2,2,N,root,no,yes,not nasal,tim
+i,0.10521011466414265, ipu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.08172878713339671, ipu,2,2,N,root,no,yes,not nasal,tim
+i,0.08815186225165661, ibu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.07692664370861024, ibu,2,2,N,root,no,yes,not nasal,tim
+i,0.09216010898769866, ibu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.0964122641438081, ibu,2,2,N,root,no,yes,not nasal,tim
+i,0.10139910539262331, ibu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.10306138580889268, ibu,2,2,N,root,no,yes,not nasal,tim
+i,0.13508298959318665, ibumi  ,1,3,V,pref,yes,no,not nasal,tim
+u,0.0906558486281952, ibumi,2,3,V,root,no,no,nasal,tim
+i,0.07310955534531871, ibumi  ,3,3,V,root,no,yes,not nasal,tim
+i,0.16713754399243186, ibumi,1,3,V,pref,yes,no,not nasal,tim
+u,0.13744596404919918, ibumi  ,2,3,V,root,no,no,nasal,tim
+i,0.0906558486281881, ibumi,3,3,V,root,no,yes,not nasal,tim
+a,0.19395886017029085, npa  ,1,1,N,root,no,yes,not nasal,tim
+a,0.13378279053925723, npa,1,1,N,root,no,yes,not nasal,tim
+a,0.08810086206244705, npa  ,1,1,N,root,no,yes,not nasal,tim
+a,0.16087180473036966, npa,1,1,N,root,no,yes,not nasal,tim
+a,0.11756016499526822, nkpa  ,1,1,V,root,no,yes,not nasal,tim
+a,0.08868573850520534, nkpa,1,1,V,root,no,yes,not nasal,tim
+a,0.11756016499526822, nkpa  ,1,1,V,root,no,yes,not nasal,tim
+a,0.13818475534532126, nkpa,1,1,V,root,no,yes,not nasal,tim
+u,0.05556593884610095, pul  ,1,1,V,root,no,no,not nasal,tim
+u,0.0627972601702993, pul,1,1,V,root,no,no,not nasal,tim
+u,0.05538107623092969, pul  ,1,1,V,root,no,no,not nasal,tim
+o,0.049983394512779, fol  ,1,1,V,root,no,no,not nasal,tim
+o,0.07535671220435347, fol,1,1,V,root,no,no,not nasal,tim
+o,0.05186735830584155, fol  ,1,1,V,root,no,no,not nasal,tim
+u,0.05638734053476924, fʋl  ,1,1,V,root,no,no,not nasal,tim
+u,0.061399548582329544, fʋl,1,1,V,root,no,no,not nasal,tim
+a,0.06609345998106164, apu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.10666299337748342, apu,2,2,N,root,no,yes,not nasal,tim
+a,0.0965046130558278, apu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.06602947209080412, apu,2,2,N,root,no,yes,not nasal,tim
+a,0.0785581411541898, apu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.08803929612108163, apu,2,2,N,root,no,yes,not nasal,tim
+a,0.05057642081362701, afʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.0897323595080195, afʋ,2,2,N,root,no,yes,not nasal,tim
+a,0.09569369006621287, afʋ  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.07385916000401949, afʋ,2,2,N,root,no,yes,not nasal,tim
+i,0.09092453358559283, ifu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.09653059329741609, ifu,2,2,N,root,no,yes,not nasal,tim
+i,0.09426897256386724, ifu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.11550312923733941, ifu,2,2,N,root,no,yes,not nasal,tim
+i,0.10362378702276942, ifu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.12605626490065447, ifu,2,2,N,root,no,yes,not nasal,tim
+o,0.09073168441358348, ofu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.07761273217039388, ofu,2,2,N,root,no,yes,not nasal,tim
+o,0.09844275898080923, ofu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.08621391985101923, ofu,2,2,N,root,no,yes,not nasal,tim
+o,0.114283262062429, ofu  ,1,2,N,pref,yes,no,not nasal,tim
+u,0.09404197540206383, ofu,2,2,N,root,no,yes,not nasal,tim
+a,0.06627433112581116, apʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.09363137029330915, apʋ,2,2,N,root,no,yes,not nasal,tim
+a,0.08427343803217013, apʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.09752045108797347, apʋ,2,2,N,root,no,yes,not nasal,tim
+a,0.0903386338694645, apʋ  ,1,2,N,pref,yes,no,not nasal,tim
+ʋ,0.10204554777669728, apʋ,2,2,N,root,no,yes,not nasal,tim
+a,0.10109553831594553, mal  ,1,1,V,root,no,no,not nasal,tim
+a,0.07003125827813506, mal,1,1,V,root,no,no,not nasal,tim
+a,0.10804822705770789, mal  ,1,1,V,root,no,no,not nasal,tim
+aa,0.20152498013243303, baa  ,1,1,V,root,no,yes,not nasal,tim
+aa,0.20868888703881794, baa,1,1,V,root,no,yes,not nasal,tim
+aa,0.23216805298011423, baa  ,1,1,V,root,no,yes,not nasal,tim
+a,0.11004912015135915,ba,1,1,V,root,no,yes,not nasal,tim
+a,0.13205894418163666,ba,1,1,V,root,no,yes,not nasal,tim
+a,0.13513239017885326, gba  ,1,1,V,root,no,yes,not nasal,tim
+a,0.12568140089229018, gba,1,1,V,root,no,yes,not nasal,tim
+a,0.0901111930925822, gba  ,1,1,V,root,no,yes,not nasal,tim
+aa,0.12405537180700321, baali  ,1,2,V,root,no,no,not nasal,tim
+i,0.07061613472086492, baali,2,2,V,root,no,yes,not nasal,tim
+aa,0.13947869250085887, baali  ,1,2,V,root,no,no,not nasal,tim
+i,0.07214415129357121, baali,2,2,V,root,no,yes,not nasal,tim
+aa,0.13601954080655787, baali  ,1,2,V,root,no,no,not nasal,tim
+i,0.08194636748612538, baali,2,2,V,root,no,yes,not nasal,tim
+a,0.08235105187497993, bali  ,1,2,DEM,root,no,no,not nasal,tim
+i,0.05451407659330698, bali,2,2,DEM,root,no,yes,not nasal,tim
+a,0.10438865730628777, bali  ,1,2,DEM,root,no,no,not nasal,tim
+i,0.08351092584501885, bali,2,2,DEM,root,no,yes,not nasal,tim
+a,0.11598739700701799, bali  ,1,2,DEM,root,no,no,not nasal,tim
+i,0.0695924382042108, bali,2,2,DEM,root,no,yes,not nasal,tim
+a,0.1200535856197007, malɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.08643858164617768, malɩ,2,2,V,root,no,yes,not nasal,tim
+a,0.12725680075686796, malɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.07683429479658344, malɩ,2,2,V,root,no,yes,not nasal,tim
+a,0.10703238902556222, lalɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.08246757842954366, lalɩ,2,2,V,root,no,yes,not nasal,tim
+a,0.11426638713339798, lalɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.08927061494796362, lalɩ,2,2,V,root,no,yes,not nasal,tim
+a,0.12676427322611517, lalɩ  ,1,2,V,root,no,no,not nasal,tim
+ɩ,0.05534778126769879, lalɩ,2,2,V,root,no,yes,not nasal,tim
+ɔ,0.13686108760640536,bɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.14646537445605645,bɔ,1,1,V,root,no,yes,not nasal,tim
+ɔ,0.12005358561964385,bɔ,1,1,V,root,no,yes,not nasal,tim
+u,0.09795141267738927,bu,1,1,V,root,no,yes,not nasal,tim
+o,0.11118809006620722,bo,1,1,V,root,no,yes,not nasal,tim
+o,0.08188270198678538, boli  ,1,2,N,root,no,no,not nasal,tim
+i,0.09481154966886152, boli,2,2,N,root,no,yes,not nasal,tim
+o,0.11054164768211194, boli  ,1,2,N,root,no,no,not nasal,tim
+i,0.0853303947019981, boli,2,2,N,root,no,yes,not nasal,tim
+o,0.1260562649006829, boli  ,1,2,N,root,no,no,not nasal,tim
+i,0.08339106754965542, boli,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.08920904900662663, ɔdʋn  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.09558112393568763, ɔdʋn,2,2,N,root,no,no,nasal,tim
+ɔ,0.08841334191112082, ɔdʋn  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.0679687992431468, ɔdʋn,2,2,N,root,no,no,nasal,tim
+ɔ,0.10416529195833846, ɔdʋn  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.07646489914856147, ɔdʋn,2,2,N,root,no,no,nasal,tim
+ɔ,0.07719958524131698, ɔjaŋ  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.0748026187322921, ɔjaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.08095449612108041, ɔjaŋ  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.08810086206244705, ɔjaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.08926589820242725, ɔjaŋ  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.07812717956483084, ɔjaŋ,2,2,N,root,no,no,nasal,tim
+i,0.099376245222345, ijaŋ  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.1004756162724334, ijaŋ,2,2,N,root,no,no,nasal,tim
+i,0.08886614947971339, ijaŋ  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.08471473528857132, ijaŋ,2,2,N,root,no,no,nasal,tim
+i,0.0807745150426058, ijaŋ  ,1,2,N,pref,yes,no,not nasal,tim
+a,0.09062506565749118, ijaŋ,2,2,N,root,no,no,nasal,tim
+ɔ,0.0946213782402765, ɔsʋwɔl  ,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.05430116026491305, ɔsʋwɔl,2,3,N,root,no,no,not nasal,tim
+ɔ,0.04986841248813789, ɔsʋwɔl  ,3,3,N,root,no,no,not nasal,tim
+ɔ,0.09104063576160115, ɔsʋwɔl,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.06242786452224891, ɔsʋwɔl  ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.05462438145696069, ɔsʋwɔl,3,3,N,root,no,no,not nasal,tim
+ɔ,0.09453450293284504, ɔsʋwɔl,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.06642965070955142, ɔsʋwɔl  ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.05748719772941513, ɔsʋwɔl,3,3,N,root,no,no,not nasal,tim
+ɩ,0.11461670387888034, ɩsʋwɔl  ,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.08086686395461129, ɩsʋwɔl,2,3,N,root,no,no,not nasal,tim
+ɔ,0.06010375023652159, ɩsʋwɔl  ,3,3,N,root,no,no,not nasal,tim
+ɩ,0.10990031561021851, ɩsʋwɔl,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.0522848756858707, ɩsʋwɔl  ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.0668760037843299, ɩsʋwɔl,3,3,N,root,no,no,not nasal,tim
+ɩ,0.09608438070011971, ɩsʋwɔl  ,1,3,N,pref,yes,no,not nasal,tim
+ʋ,0.08633084124880952, ɩsʋwɔl,2,3,N,root,no,no,not nasal,tim
+ɔ,0.04377338429515021, ɩsʋwɔl  ,3,3,N,root,no,no,not nasal,tim
+a,0.09404197540209225, gayuwa,1,3,N,pref,no,no,not nasal,tim
+a,0.08883965335860466, gayuwa,2,3,N,root,no,no,not nasal,tim
+a,0.08296010596018277, gayuwa  ,3,3,N,root,no,yes,not nasal,tim
+u,0.036631735099263096, gujo  ,1,2,N,pref,no,no,not nasal,tim
+o,0.06787645033114131, gujo,2,2,N,root,no,yes,not nasal,tim
+u,0.04309615894032959, gujo  ,1,2,N,pref,no,no,not nasal,tim
+o,0.11097260927158459, gujo,2,2,N,root,no,yes,not nasal,tim
+u,0.058179814569484734, gujo  ,1,2,N,pref,no,no,not nasal,tim
+o,0.08834712582779503, gujo,2,2,N,root,no,yes,not nasal,tim
+i,0.1241169377483402, ijo  ,1,2,N,pref,yes,no,not nasal,tim
+o,0.07240154701992196, ijo,2,2,N,root,no,yes,not nasal,tim
+i,0.12625623916733275, ijo  ,1,2,N,pref,yes,no,not nasal,tim
+o,0.08920904900662663, ijo,2,2,N,root,no,yes,not nasal,tim
+i,0.09345709895933396, ijo  ,1,2,N,pref,yes,no,not nasal,tim
+o,0.0849609990539193, ijo,2,2,N,root,no,yes,not nasal,tim
+ɩ,0.10891015023662476, ɩnʋn  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.09013253812679523, ɩnʋn,2,2,N,root,no,no,nasal,tim
+ɩ,0.14535592204356362, ɩnʋn  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.04882179148535215, ɩnʋn,2,2,N,root,no,no,nasal,tim
+ɩ,0.13332104597918715, ɩnʋn  ,1,2,N,pref,yes,no,nasal,tim
+ʋ,0.067599403595068, ɩnʋn,2,2,N,root,no,no,nasal,tim
+i,0.11851443708599163, iyi  ,1,2,N,pref,yes,no,not nasal,tim
+i,0.12066924503312748, iyi,2,2,N,root,no,yes,not nasal,tim
+i,0.1379077086093048, iyi  ,1,2,N,pref,yes,no,not nasal,tim
+i,0.14437213245037128, iyi,2,2,N,root,no,yes,not nasal,tim
+i,0.14221732450334912, iyi  ,1,2,N,pref,yes,no,not nasal,tim
+i,0.13359809271526046, iyi,2,2,N,root,no,yes,not nasal,tim
+i,0.13818475534526442, ipini  ,1,3,N,pref,yes,no,not nasal,tim
+i,0.10931032885525838, ipini,2,3,N,root,no,no,nasal,tim
+i,0.10724786982018486, ipini  ,3,3,N,root,no,yes,not nasal,tim
+i,0.15262196859043797, ipini,1,3,N,pref,yes,no,not nasal,tim
+i,0.12168508306524473, ipini  ,2,3,N,root,no,no,nasal,tim
+i,0.08456082043517199, ipini,3,3,N,root,no,yes,not nasal,tim
+i,0.1196226240302849, ipini,1,3,N,pref,yes,no,not nasal,tim
+i,0.09487311561019851, ipini  ,2,3,N,root,no,no,nasal,tim
+i,0.08043590236513865, ipini,3,3,N,root,no,yes,not nasal,tim
+ɔ,0.07837344333017882, ɔsɔ  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.10931032885514469, ɔsɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.0763109842951053, ɔsɔ  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.10724786982018486, ɔsɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.10209906679267533, ɔsɔ  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.09487311561019851, ɔsɔ,2,2,N,root,no,yes,not nasal,tim
+ɩ,0.11434680189211122, ɩsɔ  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.10931032885525838, ɩsɔ,2,2,N,root,no,yes,not nasal,tim
+ɩ,0.11166407568578052, ɩsɔ  ,1,2,N,pref,yes,no,not nasal,tim
+ɔ,0.11105668722802875, ɩsɔ,2,2,N,root,no,yes,not nasal,tim
+ɔ,0.0912407250709748, bʋtɔwɩ  ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.10724786982029855, bʋtɔwɩ,2,3,N,root,no,no,not nasal,tim
+ɔ,0.07363286584666184, bʋtɔwɩ  ,2,3,N,root,no,no,not nasal,tim
+ɩ,0.07162835193946648, bʋtɔwɩ,3,3,N,root,no,yes,not nasal,tim
+ʋ,0.03521571844839855, bʋtɔwɩ  ,1,3,N,root,no,no,not nasal,tim
+ɔ,0.08003572374639134, bʋtɔwɩ,2,3,N,root,no,no,not nasal,tim
+ɩ,0.04802143424785754, bʋtɔwɩ,3,4,N,root,no,no,not nasal,tim
+ɩ,0.07553547019847429, ɩbʋtɔwɩ,1,4,N,pref,yes,no,not nasal,tim
+ʋ,0.04321929082311726, ɩbʋtɔwɩ  ,2,4,N,root,no,no,not nasal,tim
+ɔ,0.07363286584677553, ɩbʋtɔwɩ,3,4,N,root,no,no,not nasal,tim
+ɩ,0.08643858164623453, ɩbʋtɔwɩ  ,4,4,N,root,no,yes,not nasal,tim
+ɩ,0.061218349290356855, ɩbʋtɔwɩ  ,1,4,N,pref,yes,no,not nasal,tim
+ʋ,0.05122286319772229, ɩbʋtɔwɩ,2,4,N,root,no,no,not nasal,tim
+ɔ,0.08643858164623453, ɩbʋtɔwɩ  ,3,4,N,root,no,no,not nasal,tim
+ɩ,0.04962214872273307, ɩbʋtɔwɩ,4,4,N,root,no,yes,not nasal,tim
+o,0.09604286849582877, moli  ,1,2,N,root,no,no,not nasal,tim
+i,0.08323715269625609, moli,2,2,N,root,no,yes,not nasal,tim
+o,0.09444215402072587, moli  ,1,2,N,root,no,no,not nasal,tim
+i,0.06723000794704603, moli,2,2,N,root,no,yes,not nasal,tim
+o,0.10724786982029855, moli  ,1,2,N,root,no,no,not nasal,tim
+i,0.07363286584666184, moli,2,2,N,root,no,yes,not nasal,tim
+i,0.13325050066225685, imoli  ,1,3,N,pref,yes,no,nasal,tim
+o,0.10244572639544458, imoli,2,3,N,root,no,no,nasal,tim
+i,0.0912407250709748, imoli  ,3,3,N,root,no,yes,nasal,tim
+i,0.14726573169343737, imoli,1,3,N,pref,yes,no,nasal,tim
+o,0.11365072771991436, imoli  ,2,3,N,root,no,no,nasal,tim
+i,0.09604286849571508, imoli,3,3,N,root,no,yes,nasal,tim
+i,0.14444835723747929, imoli  ,1,3,N,pref,yes,no,nasal,tim
+o,0.08643858164623453, imoli,2,3,N,root,no,no,nasal,tim
+a,0.05762572109745179, faca  ,1,2,N,root,no,no,not nasal,tim
+a,0.06723000794693235, faca,2,2,N,root,no,yes,not nasal,tim
+a,0.0576257210973381, faca  ,1,2,N,root,no,no,not nasal,tim
+a,0.09604286849571508, faca,2,2,N,root,no,yes,not nasal,tim
+a,0.05931878448438965, faca  ,1,2,N,root,no,no,not nasal,tim
+a,0.05208478637655389, faca,2,2,N,root,no,yes,not nasal,tim
+a,0.0964786988203028, aba  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.11072292649584692, aba  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.09070941608328553, afu,1,2,pref,N,yes,no,not nasal,emm
+a,0.06489050217595604, afu,1,2,pref,N,yes,no,not nasal,emm
+a,0.08326271100762028, apa  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.075956980132446, apa  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.07899725191914797, apa  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.08465316934723433, apu  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.08220592317883302, apu  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.09473055364239258, apu  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.08071294910121196, apu  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.06279726017027087, apu  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.09174989744559525, apu  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.09046022596572811, ba  ,1,1,root,V,no,yes,not nasal,emm
+a,0.08370946283395142, ba  ,1,1,root,V,no,yes,not nasal,emm
+aa,0.1446799621569994, baa  ,1,1,root,V,no,yes,not nasal,emm
+aa,0.17812395260381209, baa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.0707240670269016,﻿ bali  ,1,2,root,DEM,no,no,not nasal,emm
+a,0.08944514359285449, bali  ,1,2,root,DEM,no,no,not nasal,emm
+a,0.11199165483770912, bali  ,1,2,root,DEM,no,no,not nasal,emm
+ɔ,0.17730991106907368, bɔ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.18716046168407274, bɔ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.1379077086093048, bɔ  ,1,1,root,V,no,yes,not nasal,emm
+i,0.10312295175023678, bili  ,1,2,root,V,no,no,not nasal,emm
+i,0.10204554777669728, bili  ,1,2,root,V,no,no,not nasal,emm
+i,0.05125364616839079, biri  ,1,2,root,V,no,no,not nasal,emm
+i,0.07504888249764008, biri  ,1,2,root,V,no,no,not nasal,emm
+i,0.08668484541152566, biri  ,1,2,root,V,no,no,not nasal,emm
+o,0.12082315988646997,﻿ boli  ,1,2,root,V,no,no,not nasal,emm
+o,0.08773146641442509, boli  ,1,2,root,V,no,no,not nasal,emm
+o,0.10004465468307444, boli  ,1,2,root,V,no,no,not nasal,emm
+u,0.14628067663198863, bu  ,1,1,root,V,no,yes,not nasal,emm
+u,0.14129383538312368, bu  ,1,1,root,V,no,yes,not nasal,emm
+u,0.1529297982970661, bu  ,1,1,root,V,no,yes,not nasal,emm
+ʋ,0.03878654304639895, butowɛ,1,3,root,N,no,no,not nasal,emm
+ʋ,0.04268927152315882, butowɛ  ,1,3,root,N,no,no,not nasal,emm
+ʋ,0.03601607568600684, butowɛ  ,1,3,root,N,no,no,not nasal,emm
+ʋ,0.044621972419236045, butowɛ  ,1,3,root,N,no,no,not nasal,emm
+a,0.12756463046358135, ca  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.09204108230841968, ɔba  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.08071294910122973, ɔba  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.08637701570482292, ɔba  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.08554534266789915, ɔbu  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.09701660700093839, ɔbu  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.1477582592242257, cɔ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.1413554013245033, cɔ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.18568287909177172, cɔ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.08569979035007691, ɔci  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.07535671220432505, ɔci  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.08802694418164947, ɔcu  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.08192009687792279, ɔcu  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.08702222909988677, ɔcu  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.10527775969728737, ɔdun  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.08422220775781852, ɔdun  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.10572715231796792, ɔdun  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.0848133509933291, ɔjaŋ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.0827236813622676, ɔjaŋ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.08317147396869018, ɔkɛ  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.07523358032166527, ɔkɛ  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.09285038789043654, ɔkɛ  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.0679687992431326, ɔko  ,1,2,pref,NUM,yes,no,not nasal,emm
+ɔ,0.09029093358560658, ɔko  ,1,2,pref,NUM,yes,no,not nasal,emm
+ɔ,0.07831187738884182, ɔko  ,1,2,pref,NUM,yes,no,not nasal,emm
+ɔ,0.0847763012298941, ɔkpa,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.08554534266792757, ɔkpa,1,2,pref,N,yes,no,not nasal,emm
+ɛ,0.09919888319002723, ɔkpɛ  ,1,2,pref,N,yes,no,not nasal,emm
+ɛ,0.1192126929564381, ɔkpɛ  ,1,2,pref,N,yes,no,not nasal,emm
+ɛ,0.10355161974069205, ɔkpɛ  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.06599868912013562, ɔlɔbu,1,3,pref,V,yes,no,not nasal,emm
+ɔ,0.07781813282878147, ɔlɔbu,1,3,pref,V,yes,no,not nasal,emm
+ɔ,0.0748641846736291, ɔlɔbu  ,1,3,pref,V,yes,no,not nasal,emm
+ɔ,0.08352959091769208, ɔnɔbu,1,3,pref,N,yes,no,nasal,emm
+ɔ,0.07527975477762539, ɔnɔbu  ,1,3,pref,N,yes,no,nasal,emm
+ɔ,0.0857204253547934, ɔnɔbu  ,1,3,pref,N,yes,no,nasal,emm
+ɔ,0.08803929612109585, ɔŋaŋ  ,1,2,pref,N,yes,no,nasal,emm
+ɔ,0.08643858164617768, ɔŋaŋ  ,1,2,pref,N,yes,no,nasal,emm
+ɔ,0.08163643822138056, ɔŋaŋ  ,1,2,pref,N,yes,no,nasal,emm
+ɛ,0.1132813320719066, ɔŋɛ  ,2,2,pref,N,yes,no,nasal,emm
+ɛ,0.13963155496688273, ɔŋɛ  ,2,2,pref,N,yes,no,nasal,emm
+ɛ,0.11746781608324852, ɔŋɛ  ,2,2,pref,N,yes,no,nasal,emm
+ɔ,0.07688092359410348, ɔŋmaŋ  ,1,2,pref,N,yes,no,nasal,emm
+ɔ,0.08547017142856817, ɔŋmaŋ  ,1,2,pref,N,yes,no,nasal,emm
+ɔ,0.07535671220435347, ɔŋmaŋ  ,1,2,pref,N,yes,no,nasal,emm
+ɔ,0.08964001059602822, ɔpa  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.08323715269631293, ɔpa  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.08323715269631293, ɔpa  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.08591769982501774, ɔsɔ  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.09861092753067169, ɔsɔ  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.0940647417216951, ɔsɔ  ,1,2,pref,V,yes,no,not nasal,emm
+ɔ,0.059447360403851235, ɔsuwul,1,3,pref,N,yes,no,not nasal,emm
+ɔ,0.05316025268314206, ɔsuwul,1,3,pref,N,yes,no,not nasal,emm
+ɔ,0.07096791969064498, ɔsuwul  ,1,3,pref,N,yes,no,not nasal,emm
+ɔ,0.0630435239356757, ɔsuwul  ,1,3,pref,N,yes,no,not nasal,emm
+ɔ,0.12381214758750048, ɔwɔl  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.12175772942282492, ɔwɔl  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.12083602649022396, ɔwɔl  ,1,2,pref,N,yes,no,not nasal,emm
+ɔ,0.07957397918630704, ewɔl  ,2,2,pref,N,yes,no,not nasal,emm
+a,0.07074553533084327, faca  ,1,2,root,N,no,no,not nasal,emm
+a,0.07969037313125682, faca  ,1,2,root,N,no,no,not nasal,emm
+a,0.07155870240364948, faca  ,1,2,root,N,no,no,not nasal,emm
+o,0.08340439735098926, fol  ,1,1,root,N,no,no,not nasal,emm
+o,0.05717813183451881, fol  ,1,1,root,N,no,no,not nasal,emm
+o,0.08055401442774723, fol  ,1,1,root,N,no,no,not nasal,emm
+ɔ,0.04108291390730301, foroto,1,3,root,N,no,no,not nasal,emm
+ɔ,0.04712819526957901, foroto  ,1,3,root,N,no,no,not nasal,emm
+ʋ,0.08846204464057905, ful  ,1,1,root,N,no,no,not nasal,emm
+ʋ,0.06811013483940087, ful  ,1,1,root,N,no,no,not nasal,emm
+a,0.07929693245033143, gapa  ,1,2,pref,N,no,no,not nasal,emm
+a,0.059472699337748125, gapa  ,1,2,pref,N,no,no,not nasal,emm
+a,0.06560564154983695, gapɛ  ,1,2,pref,N,no,no,not nasal,emm
+a,0.07092396442760673, gapɛ  ,1,2,pref,N,no,no,not nasal,emm
+a,0.06074060482899313, gapɛ  ,1,2,pref,N,no,no,not nasal,emm
+a,0.05516308344363097, gayuwa,1,3,pref,N,no,no,not nasal,emm
+a,0.05902634626306735, gayuwa  ,1,3,pref,N,no,no,not nasal,emm
+a,0.14262446212558189, gba  ,1,1,root,V,no,yes,not nasal,emm
+a,0.1628772113240302, gba  ,1,1,root,V,no,yes,not nasal,emm
+ɛ,0.1263333116367562, gbɛ,1,1,root,V,no,yes,not nasal,emm
+ɛ,0.16413479962159272, gbɛ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.09274909063387327, gɔlɔ  ,1,2,pref,N,no,no,not nasal,emm
+ɔ,0.09696635761589434, gɔlɔ  ,1,2,pref,N,no,no,not nasal,emm
+ɔ,0.11220392809839197, gɔlɔ  ,1,2,pref,N,no,no,not nasal,emm
+ɔ,0.09816041905325079, gɔnɔ  ,1,2,pref,N,no,no,nasal,emm
+ɔ,0.09351866490066385, gɔnɔ  ,1,2,pref,N,no,no,nasal,emm
+ɔ,0.08920904900661952, gɔnɔ  ,1,2,pref,N,no,no,nasal,emm
+ɔ,0.07929693245034741, gɔwɔl  ,1,2,pref,N,no,no,not nasal,emm
+ɔ,0.07929693245034741, gɔwɔl  ,1,2,pref,N,no,no,not nasal,emm
+ɔ,0.06796879924320365, gɔwɔl  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.05947269933773214, gəbi  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.07449478902555029, gəbi  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.05947269933778898, gəbi  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.0339843996215734, gəbil  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.046697766508998484, gəbil  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.04100291693472968, gəbil  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.05882625695363686, gəbu  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.05279279470198617, gəbu  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.06088871598865353, gəgba  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.057871984862828185, gəgba  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.07843500927157265, gəki  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.07831187738884182, gəki  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.05249183684472314, gəkpa  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.06408350611526714, gəkpa  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.05276225229414422, gəkpa  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.04672016096461107, gəkpa  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.06569628650251502, gəkpa  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.05603506789918811, gəkpa  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.040633521286650875, gəŋməl  ,1,2,pref,N,no,no,nasal,emm
+ə,0.050299374077582115, gəŋməl  ,1,2,pref,N,no,no,nasal,emm
+ə,0.051623041816469595, gəŋməl  ,1,2,pref,N,no,no,nasal,emm
+ə,0.05216791425567635, gəse  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.04375373453700604, gəse  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.045436570480717364, gəse  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.04814456613053153, gəsɛ  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.06519544767269281, gəsɛ  ,1,2,pref,N,no,no,not nasal,emm
+ə,0.04644814425950017, gəsɛ  ,1,2,pref,N,no,no,not nasal,emm
+ʋ,0.06378535477779224, gujo  ,1,2,pref,N,no,no,not nasal,emm
+ʋ,0.06122732866606384, gujo  ,1,2,pref,N,no,no,not nasal,emm
+ʋ,0.0502378081362167, gujo  ,1,2,pref,N,no,no,not nasal,emm
+i,0.09839366054873722, ibu  ,1,2,pref,V,yes,no,not nasal,emm
+i,0.06566007644275373, ibu  ,1,2,pref,V,yes,no,not nasal,emm
+i,0.08429743349103092, ibu  ,1,2,pref,V,yes,no,not nasal,emm
+i,0.08358211087985978, ibu mi,1,3,pref,V,yes,no,not nasal,emm
+i,0.08337377483445607, ibu mi,1,3,pref,V,yes,no,not nasal,emm
+i,0.07778543046359232, ibu mi  ,1,3,pref,V,yes,no,not nasal,emm
+ɩ,0.05762572109745179, ibutowɛ,1,4,pref,N,yes,no,not nasal,emm
+ɩ,0.05063086776351611, ibutowɛ  ,1,4,pref,N,yes,no,not nasal,emm
+i,0.06830603411265201, ifaca,1,3,pref,N,yes,no,not nasal,emm
+i,0.053669026802708686, ifaca,1,3,pref,N,yes,no,not nasal,emm
+i,0.08131670727686924, ifaca  ,1,3,pref,N,yes,no,not nasal,emm
+ɩ,0.04443158560786742, iforoto,1,4,pref,N,yes,no,not nasal,emm
+ɩ,0.03925307830354541, iforoto  ,1,4,pref,N,yes,no,not nasal,emm
+ɩ,0.04734497258243664, iforoto  ,1,4,pref,N,yes,no,not nasal,emm
+i,0.08394462819296678, ifu,1,2,pref,N,yes,no,not nasal,emm
+i,0.0941530951580205, ifu,1,2,pref,N,yes,no,not nasal,emm
+i,0.0736047772941788, ijaŋ  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.08865495553453684, ijaŋ  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.08420126395446914, ijaŋ  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.09851452790917392, ijo  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.1062138429517745, ijo  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.09877329498579002, ijo  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.06464423841066491, ikutu,1,3,pref,N,yes,no,not nasal,emm
+i,0.06695296121097272, ikutu,1,3,pref,N,yes,no,not nasal,emm
+i,0.06002679280982193, ikutu  ,1,3,pref,N,yes,no,not nasal,emm
+ɩ,0.07825286660363418, imamatɔ,1,4,pref,N,yes,no,not nasal,emm
+ɩ,0.0743518940399781, imamatɔ  ,1,4,pref,N,yes,no,not nasal,emm
+ɩ,0.06809627246923355, imamatɔ  ,1,4,pref,N,yes,no,not nasal,emm
+i,0.07683429479652659, imole,1,3,pref,N,yes,no,not nasal,emm
+i,0.07831187738884182, imole,1,3,pref,N,yes,no,not nasal,emm
+i,0.07683429479664028, imole  ,1,3,pref,N,yes,no,not nasal,emm
+i,0.09317024938502527, inuŋ,1,2,pref,N,yes,no,nasal,emm
+i,0.08606474172177059, inuŋ,1,2,pref,N,yes,no,nasal,emm
+ɩ,0.11463578278141995, ipini,1,3,pref,N,yes,no,not nasal,emm
+ɩ,0.13938901494793754, ipini,1,3,pref,N,yes,no,not nasal,emm
+ɩ,0.10644751258269025, ipini  ,1,3,pref,N,yes,no,not nasal,emm
+i,0.06883072242194999, ipu  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.07919044541152687, ipu  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.07064691769157605, ipu  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.09390725449372894, isɔ  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.08606474172188428, isɔ  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.07668037994324095, isɔ  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.07134078789022169, isən  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.07064691769153342, isən  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.07535671220432505, isən  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.07463975551110025, isuwɔl,1,3,pref,N,yes,no,not nasal,emm
+ɩ,0.06973731711389064, isuwɔl,1,3,pref,N,yes,no,not nasal,emm
+ɩ,0.07534743560910329, isuwul  ,1,3,pref,N,yes,no,not nasal,emm
+ɩ,0.09467050141927302, iwol  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.09805305581835455, iwol  ,1,2,pref,N,yes,no,not nasal,emm
+ɩ,0.08359220435204406, iwol  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.062047835869179835, iyuwa,1,3,pref,N,yes,no,not nasal,emm
+i,0.09396050221903352, iyuwa,1,3,pref,N,yes,no,not nasal,emm
+i,0.05145186787160583, iyuwa  ,1,3,pref,N,yes,no,not nasal,emm
+ii,0.15708549933775373, kii,1,1,root,V,no,yes,not nasal,emm
+ii,0.1633652253547666, kii  ,1,1,root,V,no,yes,not nasal,emm
+a,0.12153116821193066, kpa,1,1,root,V,no,yes,not nasal,emm
+a,0.12319344862820003, kpa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.1419402777672758, kpa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.07314033831596589, kpal,1,1,root,V,no,no,not nasal,emm
+a,0.07843500927151581, kpal  ,1,1,root,V,no,no,not nasal,emm
+a,0.06562929347211366, kpal  ,1,1,root,V,no,no,not nasal,emm
+u,0.051946263008517235, kutu  ,1,2,root,N,no,no,not nasal,emm
+u,0.06926168401128052, kutu  ,1,2,root,N,no,no,not nasal,emm
+u,0.06695296121097272, kutu  ,1,2,root,N,no,no,not nasal,emm
+a,0.1456342342478365, lale  ,1,2,root,V,no,no,not nasal,emm
+a,0.14563423424789335, lale  ,1,2,root,V,no,no,not nasal,emm
+a,0.12088472582780696, lale  ,1,2,root,V,no,no,not nasal,emm
+ɔ,0.1241169377483402, lɔngɔ  ,1,2,root,N,no,no,nasal,emm
+ɔ,0.10638594664143852, lɔngɔ  ,1,2,root,N,no,no,nasal,emm
+ɔ,0.11266567265846561, lɔngɔ  ,1,2,root,N,no,no,nasal,emm
+o,0.05231223729101231, longɔ  ,1,2,root,N,no,no,nasal,emm
+o,0.047882910879849305, longɔ  ,1,2,root,N,no,no,nasal,emm
+a,0.14083209082309622, mali  ,1,2,root,V,no,no,not nasal,emm
+a,0.14956543918981424, mali  ,1,2,root,V,no,no,not nasal,emm
+a,0.15825525222328451, mali  ,1,2,root,V,no,no,not nasal,emm
+a,0.05993444389787328, mamatɔ,1,3,root,N,no,no,not nasal,emm
+a,0.047744387511784225, mamatɔ,1,3,root,N,no,no,not nasal,emm
+a,0.04571271144743605, mamatɔ  ,1,3,root,N,no,no,not nasal,emm
+o,0.1333518289499125, mole  ,1,2,root,N,no,no,not nasal,emm
+o,0.1122962770103868, mole  ,1,2,root,N,no,no,not nasal,emm
+o,0.11377385960258835, mole  ,1,2,root,N,no,no,not nasal,emm
+ɛ,0.1482507867549998, ɲɛ  ,1,1,root,V,no,yes,not nasal,emm
+ɛ,0.1588401286660428, ɲɛ  ,1,1,root,V,no,yes,not nasal,emm
+ɛ,0.14030878032167493, ɲɛ  ,1,1,root,V,no,yes,not nasal,emm
+a,0.12854968552508694, nkpa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.09629043585147201, nkpa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.09127530898422265, nkpa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.08595525533991122, nmal  ,1,1,root,V,no,no,not nasal,emm
+a,0.0923227688981001, nmal  ,1,1,root,V,no,no,not nasal,emm
+a,0.0816589919834314, nmal  ,1,1,root,V,no,no,not nasal,emm
+a,0.14300707772088117, npa  ,1,1,root,N,no,yes,not nasal,emm
+a,0.13523610881168224, npa  ,1,1,root,N,no,yes,not nasal,emm
+a,0.10364626225162965, ŋmal  ,1,1,root,V,no,no,not nasal,emm
+ɛ,0.1241477207190087, ŋmɛ,1,1,root,N,no,yes,not nasal,emm
+ɛ,0.10343078145695017, ŋmɛ  ,1,1,root,N,no,yes,not nasal,emm
+o,0.10474388344363206, oge  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.09105602724690698, oge  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.08310702743614229, oge  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.08709452412495011, ogo  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.09622079091764135, ogo  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.08422079091769774, ogo  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.09474472809839085, oko  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.07698820964995434, oko  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.0732326872279998, oko  ,1,2,pref,N,yes,no,not nasal,emm
+i,0.07333528098376974, opini,1,3,pref,N,yes,no,not nasal,emm
+o,0.0701851731315628, opini  ,1,3,pref,N,yes,no,not nasal,emm
+o,0.09382238940395382, osən  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.09061677653721745, osən  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.09513657521279129, osən  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.07812717956483084, oyi  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.08635284465469795, oyi  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.08629093358558748, oyi  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.07455939451278937, oyu  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.10790539262069387, oyu  ,1,2,pref,N,yes,no,not nasal,emm
+o,0.1023662440870794, oyu  ,1,2,pref,N,yes,no,not nasal,emm
+a,0.12411693774836863, pa,1,1,root,V,no,yes,not nasal,emm
+a,0.15268353453171812, pa,1,1,root,V,no,yes,not nasal,emm
+a,0.14123226944184353, pa,1,1,root,V,no,yes,not nasal,emm
+a,0.12836498770101912, pa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.1189453986754927, pa  ,1,1,root,V,no,yes,not nasal,emm
+a,0.1355066368968778, pa  ,1,1,root,V,no,yes,not nasal,emm
+u,0.0913330739829803, pul,1,1,root,V,no,no,not nasal,emm
+u,0.11967818340971803, pul  ,1,1,root,V,no,no,not nasal,emm
+u,0.09899803368020343, pul  ,1,1,root,V,no,no,not nasal,emm
+u,0.05133060359509045, pul  ,1,1,root,V,no,no,not nasal,emm
+u,0.04642249697255352, pul  ,1,1,root,V,no,no,not nasal,emm
+ɛ,0.10589341911068573, wɛ,1,1,root,V,no,yes,not nasal,emm
+ɛ,0.12882673226111763, wɛ  ,1,1,root,V,no,yes,not nasal,emm
+ɛ,0.1300272681173169, wɛ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.15751646092715177, yɔ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.1391390274361406, yɔ  ,1,1,root,V,no,yes,not nasal,emm
+ɔ,0.14646537445601027, yɔ  ,1,1,root,V,no,yes,not nasal,emm
+a,0.1536685895931882,ca  ,1,1,root,V,no,yes,not nasal,emm
+a,0.07504888249763475,gapa  ,1,2,pref,N,no,no,not nasal,emm
+i,0.08249549139071633,ifu,1,2,pref,N,yes,no,not nasal,emm
+a,0.13273616953642886,npa  ,1,1,root,N,no,yes,not nasal,emm
+a,0.1414139832023616, ﻿ aba,2,2,root,N,no,yes,not nasal,emm
+u,0.13236677388835005, ﻿ apu,2,2,root,N,no,yes,not nasal,emm
+i,0.10053718221377039, ﻿ bali,2,2,root,DEM,no,yes,not nasal,emm
+i,0.090809763481559, ﻿ boli,2,2,root,N,no,yes,not nasal,emm
+a,0.11752938202459795, ﻿ gapa,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.13788642573321397, ﻿ longɔ,2,2,root,N,no,yes,not nasal,emm
+a,0.13447042015717714, aba,2,2,root,N,no,yes,not nasal,emm
+u,0.113035068306516, afu  ,2,2,root,N,no,yes,not nasal,emm
+u,0.11932309555342613, afu  ,2,2,root,N,no,yes,not nasal,emm
+u,0.12293990085146334, afu  ,2,2,root,N,no,yes,not nasal,emm
+a,0.1457097442633426, apa,2,2,root,N,no,yes,not nasal,emm
+a,0.14540336196782278, apa,2,2,root,N,no,yes,not nasal,emm
+a,0.14299502562580813, apa,2,2,root,N,no,yes,not nasal,emm
+u,0.12406306754965613, apu,2,2,root,N,no,yes,not nasal,emm
+u,0.1191608794702006, apu,2,2,root,N,no,yes,not nasal,emm
+u,0.14301768174078688, apu,2,2,root,N,no,yes,not nasal,emm
+u,0.12402458883633471, apu,2,2,root,N,no,yes,not nasal,emm
+u,0.13658404087033205, apu,2,2,root,N,no,yes,not nasal,emm
+i,0.10631388711448153, bali,2,2,root,DEM,no,yes,not nasal,emm
+i,0.10224785242940015, bali,2,2,root,DEM,no,yes,not nasal,emm
+i,0.09080976348153058, bili,2,2,root,V,no,yes,not nasal,emm
+i,0.08948609574267152, bili,2,2,root,V,no,yes,not nasal,emm
+i,0.10666299337748342, biri,2,2,root,V,no,yes,not nasal,emm
+i,0.07788091579942602, biri,2,2,root,V,no,yes,not nasal,emm
+i,0.08803929612105321, biri,2,2,root,V,no,yes,not nasal,emm
+i,0.12467103122043, boli,2,2,root,V,no,yes,not nasal,emm
+i,0.07233998107852813, boli,2,2,root,V,no,yes,not nasal,emm
+ɔ,0.084499254493835, butowɛ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.07203215137178631, butowɛ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.06909208632657737, butowɛ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.08034355345307631, butowɛ  ,2,3,root,N,no,no,not nasal,emm
+a,0.1500977649952695, ɔba,2,2,root,N,no,yes,not nasal,emm
+a,0.14301768174077623, ɔba,2,2,root,N,no,yes,not nasal,emm
+a,0.14584971504257283, ɔba,2,2,root,N,no,yes,not nasal,emm
+u,0.08803929612111006, ɔbu,2,2,root,N,no,yes,not nasal,emm
+u,0.102445726395473, ɔbu,2,2,root,N,no,yes,not nasal,emm
+ɩ,0.09604286849577193, ɔci,2,2,root,N,no,yes,not nasal,emm
+ɩ,0.10786352923366849, ɔci,2,2,root,N,no,yes,not nasal,emm
+ʋ,0.10158380321661298, ɔcu,2,2,root,N,no,yes,not nasal,emm
+ʋ,0.09456528590351354, ɔcu,2,2,root,N,no,yes,not nasal,emm
+ʋ,0.11144092115000603, ɔcu,2,2,root,N,no,yes,not nasal,emm
+ʋ,0.05965739716179996, ɔdun,2,2,root,N,no,no,nasal,emm
+ʋ,0.05439350917691854, ɔdun,2,2,root,N,no,no,nasal,emm
+ʋ,0.04617445600752035, ɔdun,2,2,root,N,no,no,nasal,emm
+a,0.06649121665088842, ɔjaŋ  ,2,2,root,N,no,no,nasal,emm
+a,0.09161012071905361, ɔjaŋ  ,2,2,root,N,no,no,nasal,emm
+a,0.07535671220438189, ɔjaŋ  ,2,2,root,N,no,no,nasal,emm
+ɛ,0.13343994724645825, ɔkɛ,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.1472657316934729, ɔkɛ,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.1316959583343973, ɔkɛ,2,2,root,N,no,yes,not nasal,emm
+ʋ,0.13889276367076775, ɔko,2,2,root,NUM,no,yes,not nasal,emm
+ʋ,0.13150485070956108, ɔko,2,2,root,NUM,no,yes,not nasal,emm
+ʋ,0.12854968552507273, ɔko,2,2,root,NUM,no,yes,not nasal,emm
+a,0.11968418997162189, ɔkpa  ,2,2,root,N,no,yes,not nasal,emm
+a,0.1246710312204442, ɔkpa  ,2,2,root,N,no,yes,not nasal,emm
+a,0.11205001324503883, ɔkpa  ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.07135358264545744, ɔkpɛ,1,2,root,N,no,yes,not nasal,emm
+ɔ,0.0768007846410157, ɔkpɛ,1,2,root,N,no,yes,not nasal,emm
+ɔ,0.09160491352884037, ɔkpɛ,1,2,root,N,no,yes,not nasal,emm
+ɔ,0.05417802838223906, ɔlɔbu,2,3,root,N,no,no,not nasal,emm
+ɔ,0.06187377105015912, ɔlɔbu  ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.06008835875115892, ɔlɔbu  ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.08126704257330175, ɔnɔbu,2,3,root,N,no,no,not nasal,emm
+ɔ,0.07631098429516214, ɔnɔbu  ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.07012360719011213, ɔnɔbu  ,2,3,root,N,no,no,not nasal,emm
+a,0.11044929877010645, ɔŋaŋ,2,2,root,N,no,no,nasal,emm
+a,0.11845287114475411, ɔŋaŋ,2,2,root,N,no,no,nasal,emm
+a,0.10675534228950312, ɔŋaŋ,2,2,root,N,no,no,nasal,emm
+ɔ,0.09308770331125515, ɔŋɛ,1,2,root,N,no,yes,nasal,emm
+ɔ,0.09952134418165315, ɔŋɛ,1,2,root,N,no,yes,nasal,emm
+a,0.08953221481844764, ɔŋmaŋ,2,2,root,N,no,no,nasal,emm
+a,0.10518541078523924, ɔŋmaŋ,2,2,root,N,no,no,nasal,emm
+a,0.11146513680226633, ɔŋmaŋ,2,2,root,N,no,no,nasal,emm
+a,0.15206787511826292, ɔpa,2,2,root,N,no,yes,not nasal,emm
+a,0.15046716064333054, ɔpa,2,2,root,N,no,yes,not nasal,emm
+a,0.14566501721854763, ɔpa,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.1383727165602977, ɔsɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.13867728287607406, ɔsɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.15906656877962178, ɔsɔ,2,2,root,N,no,yes,not nasal,emm
+ʋ,0.05312612052040322, ɔsuwul,2,3,root,N,no,no,not nasal,emm
+ʋ,0.05018065014184003, ɔsuwul,2,3,root,N,no,no,not nasal,emm
+ʋ,0.058504775365690875, ɔsuwul  ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.054855253736946, ɔsuwul  ,1,3,root,N,no,no,not nasal,emm
+ɔ,0.08157487228004356, ɔwɔl,2,2,root,N,no,no,not nasal,emm
+ɔ,0.08157487228004356, ɔwɔl,2,2,root,N,no,no,not nasal,emm
+ɔ,0.06926168401128052, ɔwɔl,2,2,root,N,no,no,not nasal,emm
+ɛ,0.08102077880789693, ewɔl,2,2,root,N,no,no,not nasal,emm
+ɛ,0.07233998107858497, ewɔl  ,2,2,root,N,no,no,not nasal,emm
+a,0.12360139506085943, faca,2,2,root,N,no,yes,not nasal,emm
+a,0.11384339018763967, faca,2,2,root,N,no,yes,not nasal,emm
+a,0.08456937556798039, faca,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.0704314368967971, foroto,2,3,root,N,no,no,not nasal,emm
+ɔ,0.05925721854305266, foroto  ,2,3,root,N,no,no,not nasal,emm
+a,0.12319344862819293, gapa,2,2,root,N,no,yes,not nasal,emm
+a,0.11894539867549625, gapa,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.14283759932368412, gapɛ,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.1182066073793635, gapɛ,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.11732089425879622, gapɛ,2,2,root,N,no,yes,not nasal,emm
+u,0.08263688476824882, gayuwa,2,3,root,N,no,no,not nasal,emm
+u,0.09222578013236671, gayuwa  ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.10124519053926306, gɔlɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.10250729233680289, gɔlɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.09281065657521381, gɔlɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.08923674459386177, gɔnɔ,2,2,root,N,no,yes,nasal,emm
+ɔ,0.1191608794702006, gɔnɔ,2,2,root,N,no,yes,nasal,emm
+ɔ,0.11469734872279957, gɔnɔ,2,2,root,N,no,yes,nasal,emm
+ɔ,0.07363286584666184, gɔwɔl,2,2,root,N,no,no,not nasal,emm
+ɔ,0.07080083254493275, gɔwɔl,2,2,root,N,no,no,not nasal,emm
+ɔ,0.06796879924320365, gɔwɔl,2,2,root,N,no,no,not nasal,emm
+i,0.12540982251653077, gəbi,2,2,root,N,no,yes,not nasal,emm
+i,0.1300272681173169, gəbi,2,2,root,N,no,yes,not nasal,emm
+i,0.11765251390727371, gəbi,2,2,root,N,no,yes,not nasal,emm
+i,0.055224649385053226, gəbil,2,2,root,N,no,no,not nasal,emm
+i,0.05011467625354271, gəbil,2,2,root,N,no,no,not nasal,emm
+i,0.061504375402080314, gəbil,2,2,root,N,no,no,not nasal,emm
+u,0.13876963178807955, gəbu,2,2,root,N,no,yes,not nasal,emm
+u,0.09804376158939476, gəbu,2,2,root,N,no,yes,not nasal,emm
+a,0.10053718221379881, gəgba,2,2,root,N,no,yes,not nasal,emm
+a,0.08825477691578954, gəgba,2,2,root,N,no,yes,not nasal,emm
+i,0.13273616953642886, gəki,2,2,root,N,no,yes,not nasal,emm
+i,0.13076605941341768, gəki,2,2,root,N,no,yes,not nasal,emm
+a,0.10132145251422742, gəkpa,2,2,root,N,no,yes,not nasal,emm
+a,0.11804856389653651, gəkpa,2,2,root,N,no,yes,not nasal,emm
+a,0.09168522529803624, gəkpa,2,2,root,N,no,yes,not nasal,emm
+a,0.08774274132375126, gəkpa,2,2,root,N,no,yes,not nasal,emm
+a,0.12173135440167471, gəkpa,2,2,root,N,no,yes,not nasal,emm
+a,0.09452252232446767, gəkpa,2,2,root,N,no,yes,not nasal,emm
+ə,0.06636808476821443, gəŋməl,2,2,root,N,no,no,not nasal,emm
+ə,0.0794200643330214, gəŋməl,2,2,root,N,no,no,not nasal,emm
+ə,0.08074373207190888, gəŋməl,2,2,root,N,no,no,not nasal,emm
+ɛ,0.12867281740778935, gəse,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.11783721173134154, gəse,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.14357177521293352, gəse,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.13593759848623677, gəsɛ,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.14825266183106578, gəsɛ,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.1463554734213517, gəsɛ,2,2,root,N,no,yes,not nasal,emm
+o,0.11543614001891456, gujo,2,2,root,N,no,yes,not nasal,emm
+o,0.11460499981069461, gujo,2,2,root,N,no,yes,not nasal,emm
+o,0.1287343833490695, gujo,2,2,root,N,no,yes,not nasal,emm
+u,0.11303506830654442, ibu,2,2,root,N,no,yes,not nasal,emm
+u,0.11054164768211194, ibu,2,2,root,N,no,yes,not nasal,emm
+u,0.09225656310312047, ibu,2,2,root,N,no,yes,not nasal,emm
+u,0.07503349101230583, ibu mi,2,3,root,V,no,no,not nasal,emm
+u,0.06264334531695681, ibu mi  ,2,3,root,V,no,no,not nasal,emm
+u,0.06356683443706857, ibu mi  ,2,3,root,V,no,no,not nasal,emm
+ʋ,0.03721661154213507, ibutowɛ,2,4,root,N,no,no,not nasal,emm
+ʋ,0.02463123296604408, ibutowɛ,2,4,root,N,no,no,not nasal,emm
+a,0.06993236825815075, ifaca,2,3,root,N,no,no,not nasal,emm
+a,0.07481137069476063, ifaca  ,2,3,root,N,no,no,not nasal,emm
+a,0.07481137069476063, ifaca  ,2,3,root,N,no,no,not nasal,emm
+ɔ,0.038063591082277526, iforoto,2,4,root,N,no,no,not nasal,emm
+ɔ,0.04180563466388776, iforoto,2,4,root,N,no,no,not nasal,emm
+ɔ,0.0385050284294266, iforoto  ,2,4,root,N,no,no,not nasal,emm
+u,0.13424453509932732, ifu  ,2,2,root,N,no,yes,not nasal,emm
+u,0.1424635882686971, ifu  ,2,2,root,N,no,yes,not nasal,emm
+u,0.14712089877858148, ifu  ,2,2,root,N,no,yes,not nasal,emm
+a,0.06649121665088842, ijaŋ,2,2,root,N,no,no,nasal,emm
+a,0.07831187738884182, ijaŋ,2,2,root,N,no,no,nasal,emm
+a,0.06649121665088842, ijaŋ,2,2,root,N,no,no,nasal,emm
+o,0.11774486281933605, ijo,2,2,root,N,no,yes,not nasal,emm
+o,0.11146513680228054, ijo,2,2,root,N,no,yes,not nasal,emm
+o,0.12402458883627787, ijo,2,2,root,N,no,yes,not nasal,emm
+u,0.04848317880794184, ikutu,2,3,root,N,no,no,not nasal,emm
+u,0.05310062440867114, ikutu  ,2,3,root,N,no,no,not nasal,emm
+u,0.07157040681170201, ikutu  ,2,3,root,N,no,no,not nasal,emm
+a,0.04802143424785754, imamatɔ,2,4,root,N,no,no,not nasal,emm
+a,0.043096158940443274, imamatɔ,2,4,root,N,no,no,not nasal,emm
+a,0.040633521286622454, imamatɔ,2,4,root,N,no,no,not nasal,emm
+o,0.10934111182587003, imole,2,3,root,N,no,no,not nasal,emm
+o,0.09752045108791663, imole  ,2,3,root,N,no,no,not nasal,emm
+o,0.09456528590351354, imole  ,2,3,root,N,no,no,not nasal,emm
+u,0.09299535439924966, inuŋ  ,2,2,root,N,no,no,nasal,emm
+u,0.07668037994324095, inuŋ  ,2,2,root,N,no,no,nasal,emm
+u,0.06689139526963572, inuŋ  ,2,2,root,N,no,no,nasal,emm
+i,0.08188270198672853, ipini,2,3,root,N,no,no,nasal,emm
+i,0.07193980245983767, ipini,2,3,root,N,no,no,nasal,emm
+u,0.13125858694418469, ipu,2,2,root,N,no,yes,not nasal,emm
+u,0.12088472582780696, ipu,2,2,root,N,no,yes,not nasal,emm
+u,0.13187424635761147, ipu,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.12399380586566622, isɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.13541428798475863, isɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.13867728287607406, isɔ,2,2,root,N,no,yes,not nasal,emm
+ə,0.07378678070017486, isən,2,2,root,N,no,no,nasal,emm
+ə,0.08320636972564444, isən,2,2,root,N,no,no,nasal,emm
+ə,0.09296918524125886, isən,2,2,root,N,no,no,nasal,emm
+ʋ,0.06463894299923823, isuwɔl  ,2,3,root,N,no,no,not nasal,emm
+ʋ,0.06004785105915289, isuwɔl  ,2,3,root,N,no,no,not nasal,emm
+ʋ,0.05855355540325036, isuwul,2,3,root,N,no,no,not nasal,emm
+o,0.08465316934723433, iwol,2,2,root,N,no,no,not nasal,emm
+o,0.05694849574263117, iwol,2,2,root,N,no,no,not nasal,emm
+o,0.07695742667920058, iwol,2,2,root,N,no,no,not nasal,emm
+u,0.06380038022825829, iyuwa,2,3,root,N,no,no,not nasal,emm
+u,0.10500479245911265, iyuwa  ,2,3,root,N,no,no,not nasal,emm
+u,0.07975047528532286, iyuwa  ,2,3,root,N,no,no,not nasal,emm
+u,0.08888582781457899, kutu,2,2,root,N,no,yes,not nasal,emm
+u,0.11543614001891456, kutu,2,2,root,N,no,yes,not nasal,emm
+u,0.11543614001891456, kutu,2,2,root,N,no,yes,not nasal,emm
+e,0.1122962770103868, lale,2,2,root,V,no,yes,not nasal,emm
+e,0.07193980245978082, lale,2,2,root,V,no,yes,not nasal,emm
+e,0.10047561627249024, lale,2,2,root,V,no,yes,not nasal,emm
+ɔ,0.12608704787133718, lɔngɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.1241169377483402, lɔngɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.12956552355724682, lɔngɔ,2,2,root,N,no,yes,not nasal,emm
+ɔ,0.10636285941343715, longɔ,2,2,root,N,no,yes,not nasal,emm
+i,0.04318850785239192, mali,2,2,root,V,no,yes,not nasal,emm
+i,0.09971029279319055, mali,2,2,root,V,no,yes,not nasal,emm
+i,0.0790376991485573, mali,2,2,root,V,no,yes,not nasal,emm
+a,0.07517201438031407, mamatɔ,2,3,root,N,no,no,not nasal,emm
+a,0.06196611996210777, mamatɔ  ,2,3,root,N,no,no,not nasal,emm
+a,0.05993444389775959, mamatɔ  ,2,3,root,N,no,no,not nasal,emm
+e,0.10878701835383708, mole,2,2,root,N,no,yes,not nasal,emm
+e,0.0912407250709748, mole,2,2,root,N,no,yes,not nasal,emm
+e,0.1004756162724334, mole,2,2,root,N,no,yes,not nasal,emm
+e,0.14480309403973024, oge,2,2,root,N,no,yes,not nasal,emm
+e,0.14443369839170828, oge,2,2,root,N,no,yes,not nasal,emm
+e,0.14323316253546636, oge,2,2,root,N,no,yes,not nasal,emm
+o,0.11851443708610532, ogo,2,2,root,N,no,yes,not nasal,emm
+o,0.17269246546828754, ogo,2,2,root,N,no,yes,not nasal,emm
+o,0.17777165562915798, ogo,2,2,root,N,no,yes,not nasal,emm
+o,0.13895432961211895, oko,2,2,root,N,no,yes,not nasal,emm
+o,0.13332104597918715, oko,2,2,root,N,no,yes,not nasal,emm
+o,0.13519880719016442, oko,2,2,root,N,no,yes,not nasal,emm
+i,0.06316665581834968, opini,2,3,root,N,no,no,not nasal,emm
+i,0.07954319621569539, opini,2,3,root,N,no,no,nasal,emm
+ə,0.10971050747400568, osən,2,2,root,N,no,no,nasal,emm
+ə,0.06649121665088842, osən,2,2,root,N,no,no,nasal,emm
+ə,0.09650461305579938, osən,2,2,root,N,no,no,nasal,emm
+i,0.08825477691578954, oyi,2,2,root,N,no,yes,not nasal,emm
+i,0.1063859466414101, oyi,2,2,root,N,no,yes,not nasal,emm
+i,0.10648882497639534, oyi,2,2,root,N,no,yes,not nasal,emm
+u,0.11081869441818526, oyu,2,2,root,N,no,yes,not nasal,emm
+u,0.07080083254493275, oyu,2,2,root,N,no,yes,not nasal,emm
+u,0.08465316934717748, oyu,2,2,root,N,no,yes,not nasal,emm
+ɛ,0.09419589025549158, butowɛ,3,3,root,N,no,yes,not nasal,emm
+ɛ,0.09973682497627578, butowɛ  ,3,3,root,N,no,yes,not nasal,emm
+ɛ,0.08865495553459368, butowɛ  ,3,3,root,N,no,yes,not nasal,emm
+ɛ,0.07628917865224594, butowɛ  ,3,3,root,N,no,yes,not nasal,emm
+ʋ,0.06393623008511895, ɔlɔbu,3,3,root,N,no,yes,not nasal,emm
+ʋ,0.09013253812673838, ɔlɔbu,3,3,root,N,no,yes,not nasal,emm
+ʋ,0.0738791296121235, ɔlɔbu  ,3,3,root,N,no,yes,not nasal,emm
+ʋ,0.06702991863761554, ɔnɔbu,3,3,root,N,no,yes,not nasal,emm
+ʋ,0.08939374683063761, ɔnɔbu,3,3,root,N,no,yes,not nasal,emm
+ʋ,0.09074819754022201, ɔnɔbu  ,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.04582400697796629, ɔsuwul,3,3,root,N,no,no,not nasal,emm
+ɔ,0.10804822705767947, ɔsuwul,3,3,root,N,no,no,not nasal,emm
+ɔ,0.05987918223900124, ɔsuwul  ,3,3,root,N,no,no,not nasal,emm
+ɔ,0.061073413812721355, ɔsuwul  ,3,3,root,N,no,no,not nasal,emm
+ɔ,0.11928401135287459, foroto,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.14157034929053225, foroto  ,3,3,root,N,no,yes,not nasal,emm
+a,0.06512955481639438, gayuwa,3,3,root,N,no,yes,not nasal,emm
+a,0.1401956995269984, gayuwa  ,3,3,root,N,no,yes,not nasal,emm
+i,0.06866475351284862, ibu mi,3,3,root,N,no,yes,not nasal,emm
+i,0.09256821684257943, ibu mi,3,3,root,N,no,yes,not nasal,emm
+i,0.04190316593133048, ibu mi  ,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.07563375894039837, ibutowɛ  ,3,4,root,N,no,no,not nasal,emm
+ɔ,0.07663050256087445, ibutowɛ  ,3,4,root,N,no,no,not nasal,emm
+a,0.13010673164296804, ifaca,3,3,root,N,no,yes,not nasal,emm
+a,0.1268540633518569, ifaca,3,3,root,N,no,yes,not nasal,emm
+a,0.14149107066180022, ifaca  ,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.05207946984069167, iforoto,3,4,root,N,no,no,not nasal,emm
+ɔ,0.04923500026814054, iforoto,3,4,root,N,no,no,not nasal,emm
+ɔ,0.04639000163149376, iforoto  ,3,4,root,N,no,no,not nasal,emm
+u,0.13852336802267473, ikutu,3,3,root,N,no,yes,not nasal,emm
+u,0.14544953642382552, ikutu,3,3,root,N,no,yes,not nasal,emm
+u,0.12236230842006535, ikutu  ,3,3,root,N,no,yes,not nasal,emm
+a,0.07141649195841637, imamatɔ,3,4,root,N,no,no,not nasal,emm
+a,0.06772253547774199, imamatɔ  ,3,4,root,N,no,no,not nasal,emm
+a,0.06279726017021403, imamatɔ  ,3,4,root,N,no,no,not nasal,emm
+e,0.1196841899715082, imole,3,3,root,N,no,yes,not nasal,emm
+e,0.10195319886463494, imole,3,3,root,N,no,yes,not nasal,emm
+e,0.09752045108803031, imole  ,3,3,root,N,no,yes,not nasal,emm
+i,0.0748641846736291, ipini  ,3,3,root,N,no,yes,not nasal,emm
+i,0.09016704484395177, ipini  ,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.07325753781645972, isuwɔl,3,3,root,N,no,no,not nasal,emm
+ɔ,0.038742953952180414, isuwɔl,3,3,root,N,no,no,not nasal,emm
+ɔ,0.06440990463357821, isuwɔl  ,3,3,root,N,no,no,not nasal,emm
+a,0.08952127851569003, iyuwa,3,3,root,N,no,yes,not nasal,emm
+a,0.0877255228137983, iyuwa,3,3,root,N,no,yes,not nasal,emm
+a,0.07177542775673373, iyuwa  ,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.13002726811737375, mamatɔ,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.11072634550612293, mamatɔ,3,3,root,N,no,yes,not nasal,emm
+ɔ,0.1127580215704711, mamatɔ  ,3,3,root,N,no,yes,not nasal,emm
+i,0.1169752885524531, opini  ,3,3,root,N,no,yes,nasal,emm
+ɛ,0.09890488552514398, ibutowɛ,4,4,root,N,no,yes,not nasal,emm
+ɛ,0.08347251171801418, ibutowɛ,4,4,root,N,no,yes,not nasal,emm
+ɔ,0.10705384991888423, iforoto,4,4,root,N,no,yes,not nasal,emm
+ɔ,0.12355138085092676, iforoto  ,4,4,root,N,no,yes,not nasal,emm
+ɔ,0.10133277520594675, iforoto  ,4,4,root,N,no,yes,not nasal,emm
+ɔ,0.11820660737942035, imamatɔ,4,4,root,N,no,yes,not nasal,emm
+ɔ,0.10219946262998292, imamatɔ,4,4,root,N,no,yes,not nasal,emm
+ɔ,0.126825839167509, imamatɔ  ,4,4,root,N,no,yes,not nasal,emm
+o,0.09558112393566698,oko,1,2,N,pref,yes,no,not nasal,chef
+o,0.1005679651844843,oko,2,2,N,root,no,yes,not nasal,chef
+o,0.12507814266792794,oko,1,2,N,pref,yes,no,not nasal,chef
+o,0.12716445184484426,oko,2,2,N,root,no,yes,not nasal,chef
+a,0.11137278789025551,bali,1,2,DEM,root,no,no,not nasal,chef
+a,0.10887936726584613,bali,2,2,DEM,root,no,yes,not nasal,chef
+ɔ,0.11071031608815929,ɔba,1,2,N,pref,yes,no,not nasal,chef
+a,0.08112393851287614,ɔba,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.09234891201513662,ɔba,1,2,N,pref,yes,no,not nasal,chef
+a,0.13852336802270493,ɔba,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.08637063868869888,ɔba,1,2,N,pref,yes,no,not nasal,chef
+a,0.10319608778389977,ɔba,2,2,N,root,no,yes,not nasal,chef
+ɛ,0.09646590814582012,gbɛ,1,1,V,root,no,yes,not nasal,chef
+ɛ,0.09422251493312572,gbɛ,1,1,V,root,no,yes,not nasal,chef
+ɛ,0.07739706583792483,gbɛ,1,1,V,root,no,yes,not nasal,chef
+e,0.10768287420928502,gbe,1,1,V,root,no,yes,not nasal,chef
+e,0.11329135724102102,gbe,1,1,V,root,no,yes,not nasal,chef
+e,0.10656117760293782,gbe,1,1,V,root,no,yes,not nasal,chef
+u,0.08188385226331363,fwul,1,1,N,root,no,no,not nasal,chef
+u,0.08412724547600448,fwul,1,1,N,root,no,no,not nasal,chef
+u,0.056084830317338685,fwul,1,1,N,root,no,no,not nasal,chef
+u,0.09372469919672,ful,1,1,V,root,no,no,not nasal,chef
+u,0.062154274204146986,ful,1,1,V,root,no,no,not nasal,chef
+u,0.08287236560552458,ful,1,1,V,root,no,no,not nasal,chef
+a,0.10852333591199681,aba,1,2,N,pref,yes,no,not nasal,chef
+a,0.0917515476346864,aba,2,2,N,root,no,yes,not nasal,chef
+a,0.10916321485489533,aba,1,2,N,pref,yes,no,not nasal,chef
+a,0.10359045700690217,aba,2,2,N,root,no,yes,not nasal,chef
+a,0.10660213083694714,aba,1,2,N,pref,yes,no,not nasal,chef
+a,0.07596633513839635,aba,2,2,N,root,no,yes,not nasal,chef
+o,0.11838909372217188,oba,1,2,N,pref,yes,no,not nasal,chef
+a,0.09668442653978104,oba,2,2,N,root,no,yes,not nasal,chef
+o,0.10457703278792252,oba,1,2,N,pref,yes,no,not nasal,chef
+a,0.10457703278792252,oba,2,2,N,root,no,yes,not nasal,chef
+o,0.09105175479141536,oba,1,2,N,pref,yes,no,not nasal,chef
+a,0.10063072966384823,oba,2,2,N,root,no,yes,not nasal,chef
+a,0.10852333591199681,ba,1,1,V,root,no,yes,not nasal,chef
+aa,0.1104964874740304,baa,1,1,V,root,no,yes,not nasal,chef
+aa,0.14206691246661052,baa,1,1,V,root,no,yes,not nasal,chef
+o,0.11611336537369965,boli,1,2,V,root,no,no,not nasal,chef
+i,0.11752938202459973,boli,2,2,V,root,no,yes,not nasal,chef
+o,0.11611336537369965,boli,1,2,V,root,no,no,not nasal,chef
+i,0.12036141532639988,boli,2,2,V,root,no,yes,not nasal,chef
+o,0.07788091579943313,boli,1,2,V,root,no,no,not nasal,chef
+i,0.09345709895931975,boli,2,2,V,root,no,yes,not nasal,chef
+ɩ,0.09236864484389429,ɩbʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.11044929877010645,ɩbʋ,2,2,N,root,no,yes,not nasal,chef
+ɩ,0.077040511636703,ɩbʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.09770514891201287,ɩbʋ,2,2,N,root,no,yes,not nasal,chef
+ɩ,0.0736328658467329,ɩbʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.09487311561021983,ɩbʋ,2,2,N,root,no,yes,not nasal,chef
+a,0.04956058278146003,gapɛ,1,2,N,pref,no,no,not nasal,chef
+ɛ,0.13310556518448635,gapɛ,2,2,N,root,no,yes,not nasal,chef
+a,0.052392616083253074,gapɛ,1,2,N,pref,no,no,not nasal,chef
+ɛ,0.11186531542100653,gapɛ,2,2,N,root,no,yes,not nasal,chef
+a,0.052392616083253074,gapɛ,1,2,N,pref,no,no,not nasal,chef
+ɛ,0.07080083254493985,gapɛ,2,2,N,root,no,yes,not nasal,chef
+a,0.04956058278146003,gapa,1,2,N,pref,no,no,not nasal,chef
+a,0.06655278259223962,gapa,2,2,N,root,no,yes,not nasal,chef
+a,0.06655278259223962,gapa,1,2,N,pref,no,no,not nasal,chef
+a,0.06938481589403978,gapa,2,2,N,root,no,yes,not nasal,chef
+a,0.06513676594134665,gapa,1,2,N,pref,no,no,not nasal,chef
+a,0.10336921551561318,gapa,2,2,N,root,no,yes,not nasal,chef
+a,0.07646489914853305,ba,1,1,N,root,no,yes,not nasal,chef
+ɔ,0.07646489914853305,ɔkpa,1,2,N,pref,yes,no,not nasal,chef
+a,0.11186531542101363,ɔkpa,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.1280000000000001,ɔkpa,1,2,N,pref,yes,no,not nasal,chef
+a,0.11469734872279957,ɔkpa,2,2,N,root,no,yes,not nasal,chef
+ə,0.06513676594134665,gəsɛ,1,2,N,pref,no,no,not nasal,chef
+ɛ,0.10336921551561318,gəsɛ,2,2,N,root,no,yes,not nasal,chef
+ə,0.052392616083267285,gəsɛ,1,2,N,pref,no,no,not nasal,chef
+ɛ,0.09204108230841257,gəse,2,2,N,root,no,yes,not nasal,chef
+ə,0.055224649385053226,gəse,1,2,N,pref,no,no,not nasal,chef
+ɛ,0.10620124881739912,gəse,2,2,N,root,no,yes,not nasal,chef
+ə,0.06372074929045368,gəse,1,2,N,pref,no,no,not nasal,chef
+e,0.17275403140965295,gəse,2,2,N,root,no,yes,not nasal,chef
+ə,0.05947269933774635,gəse,1,2,N,pref,no,no,not nasal,chef
+e,0.1699219981078528,gəse,2,2,N,root,no,yes,not nasal,chef
+ə,0.05097659943234589,gəse,1,2,N,pref,no,no,not nasal,chef
+e,0.16183484730370878,gəse,2,2,N,root,no,yes,not nasal,chef
+aa,0.16567394815515968,baa,1,1,N,root,no,yes,not nasal,chef
+aa,0.17841809801325326,baa,1,1,N,root,no,yes,not nasal,chef
+aa,0.1529297982970661,baa,1,1,N,root,no,yes,not nasal,chef
+a,0.09204108230842678,ba,1,1,N,root,no,yes,not nasal,chef
+a,0.08779303235571945,ba,1,1,N,root,no,yes,not nasal,chef
+a,0.10336921551561318,ba,1,1,N,root,no,yes,not nasal,chef
+ə,0.06655278259223962,gəkɩ,1,2,N,pref,no,no,not nasal,chef
+ɩ,0.06938481589403978,gəkɩ,2,2,N,root,no,yes,not nasal,chef
+ə,0.06230473263956071,gəkɩ,1,2,N,pref,no,no,not nasal,chef
+ɩ,0.08920904900662663,gəkɩ,2,2,N,root,no,yes,not nasal,chef
+ə,0.06655278259223962,gəkɩ,1,2,N,pref,no,no,not nasal,chef
+ɩ,0.07080083254493275,gəkɩ,2,2,N,root,no,yes,not nasal,chef
+ə,0.06513676594134665,gəkii,1,2,N,pref,no,no,not nasal,chef
+ə,0.07972789403973479,gəkii,1,2,N,pref,no,no,not nasal,chef
+ə,0.05791815931883093,gəkii,1,2,N,pref,no,no,not nasal,chef
+ɔ,0.06993890936612957,dɔ,1,1,V,root,no,yes,not nasal,chef
+ɔ,0.15517695515610797,dɔ,1,1,V,root,no,yes,not nasal,chef
+ɔ,0.10709395496689922,dɔ,1,1,V,root,no,yes,not nasal,chef
+a,0.08305245487227353,ca,1,1,V,root,no,yes,not nasal,chef
+a,0.12020750047302897,ca,1,1,V,root,no,yes,not nasal,chef
+a,0.09388806054872134,ca,1,1,V,root,no,yes,not nasal,chef
+ɔ,0.10349234739830138,cɔ,1,1,V,root,no,yes,not nasal,chef
+ɔ,0.1186375689687793,cɔ,1,1,V,root,no,yes,not nasal,chef
+ɔ,0.10349234739830138,cɔ,1,1,V,root,no,yes,not nasal,chef
+o,0.09844394020812786,odi,1,2,N,pref,yes,no,not nasal,chef
+i,0.10854075458846069,odi,2,2,N,root,no,yes,not nasal,chef
+o,0.1076403708609206,odi,1,2,N,pref,yes,no,not nasal,chef
+i,0.09653539602648209,odi,2,2,N,root,no,yes,not nasal,chef
+o,0.12271173509932964,odi,1,2,N,pref,yes,no,not nasal,chef
+i,0.09825924238411687,odi,2,2,N,root,no,yes,not nasal,chef
+ɩ,0.12411693774835442,ɔcɩ,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.0823088741721989,ɔcɩ,1,2,N,pref,yes,no,not nasal,chef
+ɩ,0.13187424635761147,ɔcɩ,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.09328898543047615,ɔcɩ,1,2,N,pref,yes,no,not nasal,chef
+ɩ,0.13187424635762568,ɔcɩ,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.09705290596026828,ɔcʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.10084501192052642,ɔcʋ,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.09717425165564464,ɔcʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.09890568476821215,ɔcʋ,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.06809208249762833,ɔcʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.07147805789971073,ɔcʋ,2,2,N,root,no,yes,not nasal,chef
+o,0.11495811996212524,ogu,1,2,N,pref,yes,no,not nasal,chef
+u,0.12971943841060352,ogu,2,2,N,root,no,yes,not nasal,chef
+o,0.09850550614947906,ogu,1,2,N,pref,yes,no,not nasal,chef
+u,0.07233998107852813,ogu,2,2,N,root,no,yes,not nasal,chef
+o,0.10004465468307444,ogu,1,2,N,pref,yes,no,not nasal,chef
+u,0.10620124881739912,ogu,2,2,N,root,no,yes,not nasal,chef
+o,0.09542720908231672,ogu,1,2,N,pref,yes,no,not nasal,chef
+u,0.09850550614947906,ogu,2,2,N,root,no,yes,not nasal,chef
+o,0.10927954588458988,ogu,1,2,N,pref,yes,no,not nasal,chef
+u,0.10312295175023678,ogu,2,2,N,root,no,yes,not nasal,chef
+o,0.13544507095554081,ogu,1,2,N,pref,yes,no,not nasal,chef
+u,0.1138969914853476,ogu,2,2,N,root,no,yes,not nasal,chef
+a,0.08003572374644818,apʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.0784965752128528,apʋ,2,2,N,root,no,yes,not nasal,chef
+a,0.08619231788080128,apʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.12313188268686304,apʋ,2,2,N,root,no,yes,not nasal,chef
+a,0.08003572374644818,apʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.13698421948910777,apʋ,2,2,N,root,no,yes,not nasal,chef
+a,0.1138969914853476,npa,1,1,N,root,no,yes,not nasal,chef
+a,0.12621017975402538,npa,1,1,N,root,no,yes,not nasal,chef
+a,0.1077403973509945,npa,1,1,N,root,no,yes,not nasal,chef
+ɔ,0.1122007190161014,ɔba,1,2,N,pref,yes,no,not nasal,chef
+a,0.07541827814569047,ɔba,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.10004465468307444,ɔba,1,2,N,pref,yes,no,not nasal,chef
+a,0.09388806054872134,ɔba,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.08773146641439666,ɔba,1,2,N,pref,yes,no,not nasal,chef
+a,0.08619231788080128,ɔba,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.08403750993377912,ɔpa,1,2,N,pref,yes,no,not nasal,chef
+a,0.12374754210028982,ɔpa,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.07110866225167456,ɔpa,1,2,N,pref,yes,no,not nasal,chef
+a,0.12928847682118771,ɔpa,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.0794200643330214,ɔpa,1,2,N,pref,yes,no,not nasal,chef
+a,0.11174218353832543,ɔpa,2,2,N,root,no,yes,not nasal,chef
+a,0.0794200643330214,apu,1,2,N,pref,yes,no,not nasal,chef
+u,0.10989520529801666,apu,2,2,N,root,no,yes,not nasal,chef
+a,0.08126704257330175,apo,1,2,N,pref,yes,no,not nasal,chef
+o,0.14591128098390982,apo,2,2,N,root,no,yes,not nasal,chef
+a,0.09234891201515438,apu,1,2,N,pref,yes,no,not nasal,chef
+u,0.13298243330180526,apu,2,2,N,root,no,yes,not nasal,chef
+a,0.07387912961209509,apu,1,2,N,pref,yes,no,not nasal,chef
+u,0.12928847682121614,apu,2,2,N,root,no,yes,not nasal,chef
+a,0.09234891201515438,apu,1,2,N,pref,yes,no,not nasal,chef
+u,0.12744149858087894,apu,2,2,N,root,no,yes,not nasal,chef
+a,0.09234891201512596,apu,1,2,N,pref,yes,no,not nasal,chef
+u,0.12744149858087894,apu,2,2,N,root,no,yes,not nasal,chef
+a,0.10712473793756772,apa,1,2,N,pref,yes,no,not nasal,chef
+a,0.16622804162724947,apa,2,2,N,root,no,yes,not nasal,chef
+a,0.11081869441815684,apa,1,2,N,pref,yes,no,not nasal,chef
+a,0.21424947587513543,apa,2,2,N,root,no,yes,not nasal,chef
+a,0.090871329422896,apa,1,2,N,pref,yes,no,not nasal,chef
+a,0.12744149858087894,apa,2,2,N,root,no,yes,not nasal,chef
+ə,0.048760225543986735,gəbɩ,1,2,N,pref,no,no,not nasal,chef
+ɩ,0.11192688136233642,gəbɩ,2,2,N,root,no,yes,not nasal,chef
+ə,0.05540934720906421,gəbɩ,1,2,N,pref,no,no,not nasal,chef
+ɩ,0.1296578724692381,gəbɩ,2,2,N,root,no,yes,not nasal,chef
+ə,0.04876022554401516,gəbɩ,1,2,N,pref,no,no,not nasal,chef
+ɩ,0.13963155496688273,gəbɩ,2,2,N,root,no,yes,not nasal,chef
+ʋ,0.05208478637655389,gʋbʋ,1,2,N,pref,no,no,not nasal,chef
+ʋ,0.10084501192054063,gʋbʋ,2,2,N,root,no,yes,not nasal,chef
+ʋ,0.06538302970673726,gʋbʋ,1,2,N,pref,no,no,not nasal,chef
+ʋ,0.10416957275307936,gʋbʋ,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.11635962913905473,ɔdʋn,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.08089764692527979,ɔdʋn,2,2,N,root,no,no,nasal,chef
+ɔ,0.11081869441815684,ɔdʋn,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.1008450119205122,ɔdʋn,2,2,N,root,no,no,nasal,chef
+ɔ,0.08976314247871642,ɔdʋn,1,2,N,pref,yes,no,not nasal,chef
+a,0.08422220775781852,pal,1,1,V,root,no,no,not nasal,chef
+a,0.09862863803215305,pal,1,1,V,root,no,no,not nasal,chef
+a,0.10084501192054063,pal,1,1,V,root,no,no,not nasal,chef
+a,0.09973682497636105,mal,1,1,V,root,no,no,not nasal,chef
+a,0.08976314247871642,mal,1,1,V,root,no,no,not nasal,chef
+a,0.06981577748342716,mal,1,1,V,root,no,no,not nasal,chef
+o,0.10330959084583924,oge,1,2,N,pref,yes,no,not nasal,chef
+e,0.08283381608362106,oge,2,2,N,root,no,yes,not nasal,chef
+o,0.12657751671204664,oge,1,2,N,pref,yes,no,not nasal,chef
+e,0.12378536560811426,oge,2,2,N,root,no,yes,not nasal,chef
+o,0.11447819526162561,oge,1,2,N,pref,yes,no,not nasal,chef
+e,0.11540891229628869,oge,2,2,N,root,no,yes,not nasal,chef
+o,0.10630833442988319,ogo,1,2,N,pref,yes,no,not nasal,chef
+o,0.11168604415766481,ogo,2,2,N,root,no,yes,not nasal,chef
+o,0.12471608264274892,ogo,1,2,N,pref,yes,no,not nasal,chef
+o,0.11820106340019265,ogo,2,2,N,root,no,yes,not nasal,chef
+o,0.10796317601906935,ogo,1,2,N,pref,yes,no,not nasal,chef
+o,0.12378536560808584,ogo,2,2,N,root,no,yes,not nasal,chef
+o,0.09214098643008128,ofu,1,2,N,pref,yes,no,not nasal,chef
+u,0.11913178043488415,ofu,2,2,N,root,no,yes,not nasal,chef
+o,0.09772528863794605,ofu,1,2,N,pref,yes,no,not nasal,chef
+u,0.13495397002387222,ofu,2,2,N,root,no,yes,not nasal,chef
+o,0.09493313753401367,ofu,1,2,N,pref,yes,no,not nasal,chef
+u,0.1405382722317654,ofu,2,2,N,root,no,yes,not nasal,chef
+i,0.0609018426329726,ifu,1,2,N,pref,yes,no,not nasal,chef
+u,0.11820106340022107,ifu,2,2,N,root,no,yes,not nasal,chef
+i,0.08359467228649464,ifu,1,2,N,pref,yes,no,not nasal,chef
+u,0.10796317601909777,ifu,2,2,N,root,no,yes,not nasal,chef
+i,0.06328875835603753,ifu,1,2,N,pref,yes,no,not nasal,chef
+u,0.10331583005392986,ifu,2,2,N,root,no,yes,not nasal,chef
+o,0.10804822705770789,bo,1,1,V,root,no,yes,not nasal,chef
+o,0.1412938353831521,bo,1,1,V,root,no,yes,not nasal,chef
+o,0.13852336802270315,bo,1,1,V,root,no,yes,not nasal,chef
+ɩ,0.07618785241248816,ɩpʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.14406430274360105,ɩpʋ,2,2,N,root,no,yes,not nasal,chef
+ɩ,0.07341738505203921,ɩpʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.12882673226110342,ɩpʋ,2,2,N,root,no,yes,not nasal,chef
+ɩ,0.07203215137181473,ɩpʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.14822000378427447,ɩpʋ,2,2,N,root,no,yes,not nasal,chef
+ɔ,0.08865495553453684,ɔdʋŋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.08172878713338605,ɔdʋŋ,2,2,N,root,no,no,nasal,chef
+ɔ,0.09281065657521026,ɔdʋŋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.09142542289498579,ɔdʋŋ,2,2,N,root,no,no,nasal,chef
+ɔ,0.10804822705770789,ɔdʋŋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.10527775969725894,ɔdʋŋ,2,2,N,root,no,no,nasal,chef
+ii,0.19177790728477362,fii,1,1,V,root,no,yes,not nasal,chef
+ii,0.22194521854302707,fii,1,1,V,root,no,yes,not nasal,chef
+ii,0.22840964238409356,fii,1,1,V,root,no,yes,not nasal,chef
+ɛɛ,0.18315867549668496,sɛɛ,1,1,V,root,no,yes,not nasal,chef
+ɛɛ,0.16161059602649175,sɛɛ,1,1,V,root,no,yes,not nasal,chef
+ɛɛ,0.18531348344370713,sɛɛ,1,1,V,root,no,yes,not nasal,chef
+o,0.10352313036895566,opa,1,2,V,pref,yes,no,not nasal,chef
+a,0.13076605941341768,opa,2,2,V,root,no,yes,not nasal,chef
+o,0.07628020132449365,opa,1,2,V,pref,yes,no,not nasal,chef
+a,0.09262595875117086,opa,2,2,V,root,no,yes,not nasal,chef
+o,0.10897171617784807,opa,1,2,V,pref,yes,no,not nasal,chef
+a,0.145235914474938,opa,2,2,V,root,no,yes,not nasal,chef
+a,0.07252467890253911,afʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.09924429744557983,afʋ,2,2,N,root,no,yes,not nasal,chef
+a,0.09121786792803732,afʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.15739601135277326,afʋ,2,2,N,root,no,yes,not nasal,chef
+a,0.07613242611159876,afʋ,1,2,N,pref,yes,no,not nasal,chef
+ʋ,0.10496992999054555,afʋ,2,2,N,root,no,yes,not nasal,chef
+a,0.08779303235576208,nkpa,1,1,N,root,no,yes,not nasal,chef
+a,0.10496992999048871,nkpa,1,1,N,root,no,yes,not nasal,chef
+a,0.08588448817408789,nkpa,1,1,N,root,no,yes,not nasal,chef
+a,0.16222625543991853,malɩ,1,2,V,root,no,no,not nasal,chef
+ɩ,0.13359809271526046,malɩ,2,2,V,root,no,yes,not nasal,chef
+a,0.17940315307475885,malɩ,1,2,V,root,no,no,not nasal,chef
+ɩ,0.09733575326396249,malɩ,2,2,V,root,no,yes,not nasal,chef
+a,0.14123226944184353,malɩ,1,2,V,root,no,no,not nasal,chef
+a,0.1164211950803633,malɩ,1,2,V,root,no,no,not nasal,chef
+a,0.11642119508042015,lalɩ,1,2,V,root,no,no,not nasal,chef
+a,0.14591128098390982,lalɩ,1,2,V,root,no,no,not nasal,chef
+ɩ,0.059103303689710174,lalɩ,2,2,V,root,no,yes,not nasal,chef
+u,0.0701548340757654, afu,2,2,root,N,no,yes,not nasal,atch
+u,0.0739814613889962, afu,2,2,root,N,no,yes,not nasal,atch
+u,0.0816347160154578, afu,2,2,root,N,no,yes,not nasal,atch
+a,0.0816347160154578, afu  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0688792916379839, afu  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0727059189512715, afu  ,1,2,pref,N,yes,no,not nasal,atch
+u,0.0906894029074578, apu,2,2,root,N,no,yes,not nasal,atch
+u,0.0698553508882469, apu,2,2,root,N,no,yes,not nasal,atch
+u,0.0814804017628034, apu,2,2,root,N,no,yes,not nasal,atch
+a,0.0857872730205713, apu  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0784340781902983, apu  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0689449553377699, apu  ,1,2,pref,N,yes,no,not nasal,atch
+ʋ,0.105294164600195, apʋ,2,2,root,N,no,yes,not nasal,atch
+ʋ,0.0933148211313437, apʋ,2,2,root,N,no,yes,not nasal,atch
+ʋ,0.103012384891826, apʋ,2,2,root,N,no,yes,not nasal,atch
+a,0.0795078385756369, apʋ  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0831963465508351, apʋ  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0875605271580752, apʋ  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.134871057849977, ba  ,1,1,root,V,no,yes,not nasal,atch
+a,0.110841992683504, ba  ,1,1,root,V,no,yes,not nasal,atch
+a,0.103835272455512, ba  ,1,1,root,V,no,yes,not nasal,atch
+a,0.103897005673388, ba  ,1,1,root,V,no,yes,not nasal,atch
+aa,0.11727918073916, baa  ,1,1,root,V,no,yes,not nasal,atch
+aa,0.136825710862353, baa  ,1,1,root,V,no,yes,not nasal,atch
+i,0.0560294923541278, baali,2,2,root,V,no,yes,not nasal,atch
+i,0.0595313356262749, baali,2,2,root,V,no,yes,not nasal,atch
+i,0.0592524179170368, baali,2,2,root,V,no,yes,not nasal,atch
+aa,0.128288691596935, baali  ,1,2,root,V,no,no,not nasal,atch
+aa,0.116728109071004, baali  ,1,2,root,V,no,no,not nasal,atch
+aa,0.143671985286459, baali  ,1,2,root,V,no,no,not nasal,atch
+i,0.0498684124881947, bali,2,2,root,DEM,no,yes,not nasal,atch
+i,0.0764648991485046, bali,2,2,root,DEM,no,yes,not nasal,atch
+i,0.0504840719015646, bali,2,2,root,DEM,no,yes,not nasal,atch
+a,0.10472366622514, bali  ,1,2,root,DEM,no,no,not nasal,atch
+a,0.132982433301776, bali  ,1,2,root,DEM,no,no,not nasal,atch
+a,0.116113365373621, bali  ,1,2,root,DEM,no,no,not nasal,atch
+ɔ,0.159578919962086, bɔ  ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.137661444843956, bɔ  ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.158840128666042, bɔ  ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.0453740987700825, bɔrɔdɛ,1,3,root,N,no,no,not nasal,atch
+ɔ,0.0473543931882431, bɔrɔdɛ,1,3,root,N,no,no,not nasal,atch
+ɔ,0.0515614758750757, bɔrɔdɛ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.090748197540222, bɔrɔdɛ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0722168491957973, bɔrɔdɛ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0659986891201356, bɔrɔdɛ ,1,3,root,N,no,no,not nasal,atch
+ɔ,0.0618737710501591, bɔrɔdɛ ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.043896516177881, bɔrɔdɛ ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0989980336802318, bɔrɔdɛ ,3,3,root,N,no,yes,not nasal,atch
+i,0.0927850062971629, bili  ,1,2,root,V,no,no,not nasal,atch
+i,0.0721005579734992, bili  ,1,2,root,V,no,no,not nasal,atch
+i,0.0930329780301235, bili  ,1,2,root,V,no,no,not nasal,atch
+i,0.0494853366917595, bili  ,2,2,root,V,no,yes,not nasal,atch
+i,0.0569826990433739, bili  ,2,2,root,V,no,yes,not nasal,atch
+i,0.0744263824240079, bili  ,2,2,root,V,no,yes,not nasal,atch
+i,0.148891469836144, biri  ,1,2,root,V,no,no,not nasal,atch
+i,0.144419072355049, biri  ,1,2,root,V,no,no,not nasal,atch
+i,0.144949117179976, biri  ,1,2,root,V,no,no,not nasal,atch
+i,0.0722095361775245, biri  ,2,2,root,V,no,yes,not nasal,atch
+i,0.119941263481223, biri  ,2,2,root,V,no,yes,not nasal,atch
+i,0.101680723992103, biri  ,2,2,root,V,no,yes,not nasal,atch
+u,0.0591648696310471, butɔwi,1,3,root,N,no,no,not nasal,atch
+u,0.0475706038555472, butɔwi,1,3,root,N,no,no,not nasal,atch
+u,0.041310746641443, butɔwi,1,3,root,N,no,no,not nasal,atch
+ɔ,0.0985824635761218, butɔwi,2,3,root,N,no,no,not nasal,atch
+i,0.0839759439924705, butɔwi,3,3,root,N,no,yes,not nasal,atch
+i,0.0486768969685158, butɔwi,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0667990463576302, butɔwi,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0885034490336238, butɔwi,2,3,root,N,no,no,not nasal,atch
+i,0.0694771648060168, butɔwi,3,3,root,N,no,yes,not nasal,atch
+ʋ,0.112296277010386, bʋ  ,1,1,root,V,no,yes,not nasal,atch
+ʋ,0.11820660737942, bʋ  ,1,1,root,V,no,yes,not nasal,atch
+ʋ,0.0925951757805023, bʋ  ,1,1,root,V,no,yes,not nasal,atch
+a,0.103280917529446, bwal  ,1,1,root,V,no,no,not nasal,atch
+a,0.129991499649122, bwal  ,1,1,root,V,no,no,not nasal,atch
+a,0.0806818616947566, bwal  ,1,1,root,V,no,no,not nasal,atch
+a,0.0824123201095972, ɔba,2,2,root,N,no,yes,not nasal,atch
+a,0.0819750690455975, ɔba,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0843514335239206, ɔba ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0688005043774637, ɔba ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0817595701040545, ɔbɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.07204463435869, ɔbɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.070869506403028, ɔbɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0654490035951766, ɔbɔ ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0586140908459356, ɔbɔ ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0549853476587713, ɔbɔ ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0758244495599171, ɔci,2,2,root,N,no,yes,not nasal,atch
+i,0.0817627634747566, ɔci,2,2,root,N,no,yes,not nasal,atch
+i,0.094865093108865, ɔci,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0962387244414628, ɔci ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0863908444261483, ɔci ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0991127838450438, ɔci ,1,2,pref,N,yes,no,not nasal,atch
+u,0.0768695887402088, ɔcu,2,2,root,N,no,yes,not nasal,atch
+u,0.0852977770029497, ɔcu,2,2,root,N,no,yes,not nasal,atch
+u,0.0688451625619279, ɔcu,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0929585724300352, ɔcu ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.112233917109108, ɔcu ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.080319356322235, ɔcu ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.11831917351003, ɔdun,1,2,root,V,yes,no,not nasal,atch
+ɔ,0.114135593348919, ɔdun,1,2,root,V,yes,no,not nasal,atch
+ɔ,0.0965353960265247, ɔdun,1,2,root,V,yes,no,not nasal,atch
+u,0.100598748155221, ɔdun  ,2,2,root,V,no,no,nasal,atch
+u,0.0678764503311413, ɔdun  ,2,2,root,V,no,no,nasal,atch
+u,0.0555790715437751, ɔdun  ,2,2,root,V,no,no,nasal,atch
+u,0.0764648991485046, ɔfʋl,2,2,root,N,no,no,not nasal,atch
+ʋ,0.0637207492904963, ɔfʋl,2,2,root,N,no,no,not nasal,atch
+ʋ,0.0541123328032426, ɔfʋl,2,2,root,N,no,no,not nasal,atch
+ɔ,0.0821289657520765, ɔfʋl ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0722168491957973, ɔfʋl ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0435538288415955, ɔfʋl ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.105154627814613, ɔjaŋ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.088100862062447, ɔjaŋ,1,2,pref,N,yes,no,not nasal,atch
+i,0.112446728718055, ɔjaŋ,1,2,pref,N,yes,no,not nasal,atch
+a,0.106878474172162, ɔjaŋ  ,2,2,root,N,no,no,not nasal,atch
+a,0.115497705960251, ɔjaŋ  ,2,2,root,N,yes,no,nasal,atch
+a,0.118021909555409, ɔjaŋ  ,2,2,root,N,yes,no,nasal,atch
+ɔ,0.0660457370694302, ɔkɛ  ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0861671981838299, ɔkɛ  ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0929401082973981, ɔkɛ  ,1,2,pref,N,yes,no,not nasal,atch
+ɛ,0.0660457370694302, ɔkɛ  ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.088218798140474, ɔkɛ  ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0753568445654764, ɔkɛ  ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0813039134950486, ɔkpɛ  ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0980650279693691, ɔkpɛ  ,1,2,pref,N,yes,no,not nasal,atch
+ɛ,0.0900597195636692, ɔkpɛ  ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0868575962015256, ɔkpɛ  ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0534545876361676, ɔkpɛrɛ,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.0305454786492305, ɔkpɛrɛ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.0458182179738742, ɔkpɛrɛ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0591818648828734, ɔkpɛrɛ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0451981838489246, ɔkpɛrɛ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0763636966231615, ɔkpɛrɛ ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.0400909407271115, ɔkpɛrɛ ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0400909407271683, ɔkpɛrɛ ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0362727558959932, ɔkpɛrɛ ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0600883587511589, ɔkʋfɛ,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.0873300126759204, ɔkʋfɛ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.0525773139072498, ɔkʋfɛ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0504876635782238, ɔkʋfɛ,3,3,root,N,no,yes,not nasal,atch
+u,0.0469440302742896, ɔkʋfɛ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0657216423841191, ɔkʋfɛ ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.0619661199621077, ɔkʋfɛ ,3,3,root,N,no,yes,not nasal,atch
+ʋ,0.0375552242194316, ɔkʋfɛ ,2,3,root,N,no,no,not nasal,atch
+ʋ,0.0327487547534701, ɔkʋfɛ ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0938390172011622, ɔlɔ̰,2,2,root,V,no,no,nasal,atch
+ɔ,0.0823485252992668, ɔlɔ̰,2,2,root,V,no,no,nasal,atch
+ɔ,0.0914254228950994, ɔlɔ̰,2,2,root,V,no,no,nasal,atch
+ɔ,0.083315091009581, ɔlɔ̰ ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.0878829746359315, ɔlɔ̰ ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.0975204510880303, ɔlɔ̰ ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.0860441248817416, ɔlɔbu,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.158328522232736, ɔlɔbu,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.0661833869441821, ɔlɔbu,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0584876442762549, ɔlɔbu,2,3,root,N,no,no,not nasal,atch
+u,0.0477136045411548, ɔlɔbu,3,3,root,N,no,yes,not nasal,atch
+u,0.0752760673604484, ɔlɔbu,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0680180132450303, ɔlɔbu ,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.077435610217595, ɔlɔbu ,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.0677225354777668, ɔlɔbu ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.118021909555352, ɔlɔbu ,2,3,root,N,no,no,not nasal,atch
+u,0.0538701986754972, ɔlɔbu ,3,3,root,N,no,yes,not nasal,atch
+u,0.0538701986754937, ɔlɔbu ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.122181845424847, ɔlọŋ,2,2,root,N,no,no,nasal,atch
+ɔ,0.10428750411188, ɔlọŋ,2,2,root,N,no,no,nasal,atch
+ɔ,0.0998319088491825, ɔlọŋ,2,2,root,N,no,no,nasal,atch
+ɔ,0.105890932701186, ɔlọŋ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0925131084864006, ɔlọŋ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.118279109397235, ɔlọŋ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.100462024902995, ɔnɔbu,1,3,pref,N,yes,no,nasal,atch
+u,0.0688238530482721, ɔnɔbu,3,3,root,N,no,yes,nasal,atch
+ɔ,0.107365210755318, ɔnɔbu ,2,3,root,N,no,no,nasal,atch
+a,0.0954272090822314, ɔŋaŋ  ,2,2,root,N,yes,no,nasal,atch
+a,0.0831140208135821, ɔŋaŋ  ,2,2,root,N,yes,no,nasal,atch
+a,0.0987791325553644, ɔŋaŋ  ,2,2,root,N,yes,no,nasal,atch
+ɔ,0.0708008325450464, ɔŋaŋ  ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.065674239461714, ɔŋaŋ  ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.100653303900003, ɔŋaŋ  ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.0947098681804163, ɔŋɛ  ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.0749101263534157, ɔŋɛ  ,1,2,pref,N,yes,no,nasal,atch
+ɛ,0.0993615170818884, ɔŋɛ  ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0814771600965968, ɔŋɛ  ,2,2,root,N,no,yes,not nasal,atch
+a,0.0794200643330214, ɔŋmaŋ  ,2,2,root,N,no,no,nasal,atch
+a,0.0794200643330214, ɔŋmaŋ  ,2,2,root,N,no,no,nasal,atch
+a,0.0792832511300503, ɔŋmaŋ  ,2,2,root,N,yes,no,nasal,atch
+ɔ,0.0888945468306019, ɔŋmaŋ  ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.0795455078314262, ɔŋmaŋ  ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.0837568733312537, ɔŋmaŋ  ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.0886549555345368, ɔpini,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.0775730860927126, ɔpini,1,3,pref,N,yes,no,not nasal,atch
+i,0.0920883587511838, ɔpini,2,3,root,N,no,no,nasal,atch
+i,0.0788044049195804, ɔpini,3,3,root,N,no,yes,not nasal,atch
+i,0.0782503114474906, ɔpini,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0895256946073743, ɔpini  ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0748641846736006, ɔpini  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0768342947965976, ɔpini  ,2,3,root,N,no,no,nasal,atch
+i,0.0795124132450268, ɔpini  ,2,3,root,N,no,no,nasal,atch
+ɔ,0.086684845411554, ɔsɔ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0812670425733301, ɔsɔ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0729183310589576, ɔsɔ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0737389714285541, ɔsɔ  ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.0853303947019981, ɔsɔ  ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.0816249974540141, ɔsɔ  ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.0533776711447444, ɔsuwɔl,3,3,root,N,no,no,not nasal,atch
+ɔ,0.0549476026490083, ɔsuwɔl,3,3,root,N,no,no,not nasal,atch
+u,0.0486678766319528, ɔsuwɔl,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0619211988647521, ɔsuwɔl  ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0699550758752138, ɔsuwɔl  ,1,3,pref,N,yes,no,not nasal,atch
+u,0.0612273286660638, ɔsuwɔl  ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0528235776726546, ɔwɔl,2,2,root,N,no,no,not nasal,atch
+ɔ,0.0549783856196768, ɔwɔl,2,2,root,N,no,no,not nasal,atch
+ɔ,0.0446968734153188, ɔwɔl,2,2,root,N,no,no,not nasal,atch
+ɔ,0.098974546830675, ɔwɔl  ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0917577263954285, ɔwɔl  ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0867952075685707, ɔwɔl  ,1,2,pref,N,yes,no,not nasal,atch
+u,0.0919687265845823, ebu,2,2,root,N,no,yes,not nasal,atch
+u,0.0774499542098965, ebu,2,2,root,N,no,yes,not nasal,atch
+u,0.0732634701985261, ebu,2,2,root,N,no,yes,not nasal,atch
+e,0.0870381229897248, ebu ,1,2,pref,N,yes,no,not nasal,atch
+e,0.0816060730367098, ebu ,1,2,pref,N,yes,no,not nasal,atch
+e,0.0921026482496927, ebu ,1,2,pref,N,yes,no,not nasal,atch
+a,0.111224933076755, ekabwi,2,3,root,N,no,no,not nasal,atch
+e,0.070205143002795, ekabwi,1,3,pref,N,yes,no,not nasal,atch
+e,0.0671349472445399, ekabwi,1,3,pref,N,yes,no,not nasal,atch
+i,0.055161183787959, ekabwi,3,3,root,N,no,yes,not nasal,atch
+i,0.0783241051187815, ekabwi,3,3,root,N,no,yes,not nasal,atch
+a,0.100293061432466, ekabwi ,2,3,root,N,no,no,not nasal,atch
+a,0.0839186840557886, ekabwi ,2,3,root,N,no,no,not nasal,atch
+e,0.057668510323765, ekabwi ,1,3,pref,N,yes,no,not nasal,atch
+i,0.060175836859571, ekabwi ,3,3,root,N,no,yes,not nasal,atch
+a,0.0504137630607601, eyewal,3,3,root,N,no,no,not nasal,atch
+e,0.0648176953638994, eyewal,2,3,root,N,no,no,not nasal,atch
+e,0.0777812344365429, eyewal,2,3,root,N,no,no,not nasal,atch
+a,0.0547349427517929, eyewal  ,3,3,root,N,no,no,not nasal,atch
+a,0.0688064766170555, eyewal  ,3,3,root,N,no,no,not nasal,atch
+e,0.071424319057769, eyewal  ,1,3,pref,N,yes,no,not nasal,atch
+e,0.06913939426272, eyewal  ,1,3,pref,N,yes,no,not nasal,atch
+e,0.0746475643409212, eyewal  ,1,3,pref,N,yes,no,not nasal,atch
+e,0.0705792682852006, eyewal  ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0826214932828861, ɛlɔ̰,2,2,root,N,no,no,nasal,atch
+ɔ,0.0703824650897786, ɛlɔ̰,2,2,root,N,no,no,nasal,atch
+ɔ,0.0650913665090229, ɛlɔ̰,2,2,root,N,no,no,nasal,atch
+ɛ,0.0818656756860036, ɛlɔ̰ ,1,2,pref,N,yes,no,not nasal,atch
+ɛ,0.0640577877009036, ɛlɔ̰ ,1,2,pref,N,yes,no,not nasal,atch
+ɛ,0.0601211398297891, ɛlɔ̰ ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.075110448438977, ɛnɔ  ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0976913007463053, ɛnɔ  ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0525379585829455, ɛnɔ  ,2,2,root,V,no,yes,not nasal,atch
+ɛ,0.0793486168400932, ɛnɔ  ,1,2,pref,V,yes,no,nasal,atch
+ɛ,0.0673152174918527, ɛnɔ  ,1,2,pref,V,yes,no,nasal,atch
+ɛ,0.0542481236203684, ɛnɔ  ,1,2,pref,V,yes,no,nasal,atch
+a,0.0806664655303848, ɛpa,2,2,root,N,no,yes,not nasal,atch
+a,0.0792259929316969, ɛpa,2,2,root,N,no,yes,not nasal,atch
+a,0.0864283559255909, ɛpa,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0576189039502423, ɛpa ,1,2,pref,N,yes,no,not nasal,atch
+ɛ,0.0792259929316969, ɛpa ,1,2,pref,N,yes,no,not nasal,atch
+ɛ,0.074904575135406, ɛpa ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0492527530745974, ɛyɛwa,3,3,root,N,no,yes,not nasal,atch
+a,0.0556490384556127, ɛyɛwa,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0661833869442034, ɛyɛwa,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0773657363895381, ɛyɛwa,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0528003027436625, ɛyɛwa,1,3,pref,N,yes,no,not nasal,atch
+a,0.0569484957427448, ɛyɛwa  ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0677225354777419, ɛyɛwa  ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0837942857142479, ɛyɛwa  ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.0534594543046296, ɛyɛwa  ,1,3,pref,N,yes,no,not nasal,atch
+a,0.0788904446546325, faca,2,2,root,N,no,yes,not nasal,atch
+a,0.0581511089280866, faca,2,2,root,N,no,yes,not nasal,atch
+a,0.0763945940819894, faca,2,2,root,N,no,yes,not nasal,atch
+a,0.0877314664143682, faca  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0809554653704935, faca  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0832359010147456, faca  ,1,2,pref,N,no,no,not nasal,atch
+ɔ,0.0598420949858109, fɔrɔtɔ,1,3,root,N,no,no,not nasal,atch
+ɔ,0.0627087483599098, fɔrɔtɔ,1,3,root,N,no,no,not nasal,atch
+ɔ,0.0622872885526248, fɔrɔtɔ,1,3,root,N,no,no,not nasal,atch
+ɔ,0.0581798145694847, fɔrɔtɔ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0598420949858109, fɔrɔtɔ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0845838931367097, fɔrɔtɔ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0681534970672146, fɔrɔtɔ  ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0448815712393297, fɔrɔtɔ  ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0627087483600234, fɔrɔtɔ  ,2,3,root,N,no,no,not nasal,atch
+o,0.0783745192391052, fwol  ,1,1,root,V,no,no,not nasal,atch
+o,0.0622041033575726, fwol  ,1,1,root,V,no,no,not nasal,atch
+o,0.0773760009790578, fwol  ,1,1,root,V,no,no,not nasal,atch
+o,0.0797321724709263, fwol  ,1,1,root,V,no,no,not nasal,atch
+o,0.0715050311076765, fwol  ,1,1,root,V,no,no,not nasal,atch
+a,0.0644441491010638, gayɛwa,1,3,pref,N,no,no,not nasal,atch
+a,0.0653830297067088, gayɛwa,1,3,pref,N,no,no,not nasal,atch
+a,0.0693386414379801, gayɛwa,3,3,root,N,no,yes,not nasal,atch
+a,0.0716343280985256, gayɛwa,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0538394157049424, gayɛwa,2,3,root,N,no,no,not nasal,atch
+a,0.0668913952697494, gayɛwa  ,1,3,pref,N,no,no,not nasal,atch
+a,0.0783118773888418, gayɛwa  ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0693386414379801, gayɛwa  ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0708316155155444, gayɛwa  ,2,3,root,N,no,no,not nasal,atch
+a,0.145584939381706, gba  ,1,1,root,V,no,yes,not nasal,atch
+a,0.145584939381706, gba  ,1,1,root,V,no,yes,not nasal,atch
+a,0.137021119418136, gba  ,1,1,root,V,no,yes,not nasal,atch
+a,0.140686111267086, gba  ,1,1,root,V,no,yes,not nasal,atch
+a,0.127459211917198, gba  ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.0551630834437446, gbɔnɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0569484957426311, gbɔnɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0660602550614157, gbɔnɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0748641846736291, gbɔnɔ ,1,2,pref,N,no,no,nasal,atch
+ɔ,0.0785889241249151, gbɔnɔ ,1,2,pref,N,no,no,nasal,atch
+ɔ,0.0774499542100102, gbɔnɔ ,1,2,pref,N,no,no,nasal,atch
+ɛ,0.106433452948749, gbɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.0840375099337507, gbɛ ,1,1,pref,V,no,yes,not nasal,atch
+ɛ,0.0866232794702455, gbɛgbɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0594726993377889, gbɛgbɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.084278697859645, gbɛgbɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0995521271522648, gbɛgbɛ ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.0969663576158836, gbɛgbɛ ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.132704363511152, gbɛgbɛ ,1,2,pref,N,no,no,not nasal,atch
+ɔ,0.0465164890150617, gɔlɔ  ,1,2,pref,N,no,no,not nasal,atch
+ɔ,0.0902967139703605, gɔlɔ  ,1,2,pref,N,no,no,not nasal,atch
+ɔ,0.0930329780300667, gɔlɔ  ,1,2,pref,N,no,no,not nasal,atch
+ɔ,0.0588296772837111, gɔlɔ  ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0684066014926543, gɔlɔ  ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0615659413434173, gɔlɔ  ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.137428862398792, gɔnɔ  ,1,2,pref,N,no,no,nasal,atch
+ɔ,0.0921778955114405, gɔnɔ  ,1,2,pref,N,no,no,nasal,atch
+ɔ,0.0711428655524741, gɔnɔ  ,1,2,pref,N,no,no,nasal,atch
+ɔ,0.0871500103016842, gɔnɔ  ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0905019337748171, gɔnɔ  ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.066154081362356, gɔnɔ  ,2,2,root,N,no,yes,not nasal,atch
+a,0.0767858625189319, gəba,2,2,root,N,no,yes,not nasal,atch
+a,0.0663150630845166, gəba,2,2,root,N,no,yes,not nasal,atch
+a,0.0802761289969566, gəba,2,2,root,N,no,yes,not nasal,atch
+ə,0.0442100420563065, gəba ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0604979522876192, gəba ,1,2,pref,N,no,no,not nasal,atch
+ə,0.05577214142113, gəba ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0428478551013995, gəbəl  ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0537862506314468, gəbəl  ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0410364010647299, gəbəl  ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0533217752374639, gəbəl  ,2,2,root,N,no,no,not nasal,atch
+ə,0.0459424224143276, gəbəl  ,2,2,root,N,no,no,not nasal,atch
+ə,0.0561550751413051, gəbəl  ,2,2,root,N,no,no,not nasal,atch
+i,0.117837211731341, gəbi,2,2,root,N,no,yes,not nasal,atch
+i,0.0975204510879734, gəbi,2,2,root,N,no,yes,not nasal,atch
+i,0.12596391598862, gəbi,2,2,root,N,no,yes,not nasal,atch
+ə,0.0866848454115825, gəbi ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0853303947019412, gəbi ,1,2,pref,N,no,no,not nasal,atch
+ə,0.076447872847666, gəbi ,1,2,pref,N,no,no,not nasal,atch
+a,0.0966252001412613, gəgba  ,2,2,root,N,no,yes,not nasal,atch
+a,0.0742193566302376, gəgba  ,2,2,root,N,no,yes,not nasal,atch
+ə,0.0714186261914164, gəgba  ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0602157044357909, gəgba  ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0852221880794701, gəibi,1,3,pref,N,no,no,not nasal,atch
+i,0.0663680847682144, gəibi,2,3,root,N,no,no,not nasal,atch
+i,0.0817070198675509, gəibi,3,3,root,N,no,yes,not nasal,atch
+ə,0.073909912582792, gəibi ,1,3,pref,N,no,no,not nasal,atch
+i,0.117652513907287, gəibi ,3,3,root,N,no,yes,not nasal,atch
+i,0.092010299337744, gəibi ,2,3,root,N,no,no,not nasal,atch
+i,0.0814782142022636, gəki,2,2,root,N,no,yes,not nasal,atch
+i,0.0709431958987352, gəki,2,2,root,N,no,yes,not nasal,atch
+i,0.0555449119693776, gəki,2,2,root,N,no,yes,not nasal,atch
+ə,0.067567299582322, gəki ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0799723299221568, gəki ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0933154521086407, gəki ,1,2,pref,N,no,no,not nasal,atch
+a,0.0851296642738361, gəkpa  ,2,2,root,N,no,yes,not nasal,atch
+a,0.102326880218129, gəkpa  ,2,2,root,N,no,yes,not nasal,atch
+ə,0.0684738603940786, gəkpa  ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0438543772363573, gəkpa  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0709628120512491, gənanbi  ,2,3,root,N,yes,no,nasal,atch
+a,0.0756161112021516, gənanbi  ,2,3,root,N,no,no,nasal,atch
+a,0.0884126838670908, gənanbi  ,2,3,root,N,no,no,nasal,atch
+a,0.0769574266792574, gənanbi  ,2,3,root,N,no,no,nasal,atch
+a,0.0615659413434173, gənanbi  ,2,3,root,N,no,no,nasal,atch
+ə,0.0388363761353218, gənanbi  ,1,3,pref,N,no,no,nasal,atch
+ə,0.0632559532486141, gənanbi  ,1,3,pref,N,no,no,nasal,atch
+ə,0.0407163675703827, gənanbi  ,1,3,pref,N,no,no,nasal,atch
+ə,0.0622462062440831, gənanbi  ,1,3,pref,N,no,no,nasal,atch
+ə,0.0615659413434173, gənanbi  ,1,3,pref,N,no,no,nasal,atch
+i,0.0872493590793794, gənanbi  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0639828633248669, gənanbi  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0500229658721878, gənanbi  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0569484957426311, gənanbi  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0784965752128528, gənanbi  ,3,3,root,N,no,yes,not nasal,atch
+ə,0.0681522295806189, gəŋməl  ,1,2,pref,N,no,no,nasal,atch
+ə,0.0658359874901179, gəŋməl  ,1,2,pref,N,no,no,nasal,atch
+ə,0.0703897628563936, gəŋməl  ,1,2,pref,N,no,no,nasal,atch
+ə,0.0962480883003991, gəŋməl  ,2,2,root,N,no,no,not nasal,atch
+ə,0.072732368955485, gəŋməl  ,2,2,root,N,no,no,not nasal,atch
+ə,0.0684539943110849, gəŋməl  ,2,2,root,N,no,no,not nasal,atch
+a,0.0863159503350061, gəpa,2,2,root,N,no,yes,not nasal,atch
+a,0.106498188904197, gəpa,2,2,root,N,no,yes,not nasal,atch
+ə,0.0742317172881712, gəpa ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0863002565258739, gəpa ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.0979360211920834, gəsɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.102784339072854, gəsɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.085172155963562, gəsɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0809419905975232, gəsɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0883370229611273, gəsɛ,2,2,root,N,no,yes,not nasal,atch
+ə,0.0562404874172557, gəsɛ ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0543011602648562, gəsɛ ,1,2,pref,N,no,no,not nasal,atch
+ə,0.054454329222608, gəsɛ ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0790596187231358, gəsɛ ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0459836557879498, gəsɛ ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.0763101585637286, gɛpɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0855200052868667, gɛpɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.095060497217787, gɛpɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.08157292811984, gɛpɛ ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.0657846194513922, gɛpɛ ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.070978504589334, gɛpɛ ,1,2,pref,N,no,no,not nasal,atch
+ɔ,0.0865295018793403, gujɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0821482612780073, gujɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.103905947654766, gujɔ,2,2,root,N,no,yes,not nasal,atch
+u,0.0679092293230496, gujɔ  ,1,2,pref,N,no,no,not nasal,atch
+u,0.097482603383014, gujɔ  ,1,2,pref,N,no,no,not nasal,atch
+u,0.0836024866187017, gujɔ  ,1,2,pref,N,no,no,not nasal,atch
+u,0.0598215730053581, gunuŋ  ,2,2,root,N,no,no,nasal,atch
+u,0.0639293748569116, gunuŋ  ,2,2,root,N,no,no,nasal,atch
+u,0.0718959584929237, gunuŋ  ,2,2,root,N,no,no,nasal,atch
+u,0.0485344837590666, gunuŋ  ,1,2,pref,N,no,no,nasal,atch
+u,0.0741580748340169, gunuŋ  ,1,2,pref,N,no,no,nasal,atch
+u,0.0902223792852439, gunuŋ  ,1,2,pref,N,no,no,nasal,atch
+u,0.0968387448683643, gwayul,2,2,root,N,no,no,not nasal,atch
+u,0.0879193867883714, gwayul,2,2,root,N,no,no,not nasal,atch
+u,0.0802742227197086, gwayul,2,2,root,N,no,no,not nasal,atch
+a,0.0700806706283856, gwayul  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0713548646399431, gwayul  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0560645365026175, gwayul  ,1,2,pref,N,no,no,not nasal,atch
+ɔ,0.0824983614002121, ɩbɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0972741873225686, ɩbɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0849609990539193, ɩbɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0975204510879166, ɩbɔ,2,2,root,N,no,yes,not nasal,atch
+ɩ,0.0682667473982974, ɩbɔ ,1,2,pref,N,yes,no,not nasal,atch
+ɩ,0.0536979375591499, ɩbɔ ,1,2,pref,N,yes,no,not nasal,atch
+ɩ,0.0580111258279885, ɩbɔ ,1,2,pref,N,yes,no,not nasal,atch
+ɩ,0.0872834785240002, ɩbɔ ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0504985693585808, ɩbɔrɔdɛ,2,4,root,N,no,no,not nasal,atch
+ɔ,0.0524282200918833, ɩbɔrɔdɛ,2,4,root,N,no,no,not nasal,atch
+ɔ,0.062164350877083, ɩbɔrɔdɛ,2,4,root,N,no,no,not nasal,atch
+ɛ,0.0711570750053169, ɩbɔrɔdɛ,4,4,root,N,no,yes,not nasal,atch
+ɛ,0.0734524645216083, ɩbɔrɔdɛ,4,4,root,N,no,yes,not nasal,atch
+ɛ,0.0745972210524996, ɩbɔrɔdɛ,4,4,root,N,no,yes,not nasal,atch
+ɔ,0.0550893483911636, ɩbɔrɔdɛ ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.0527939588749291, ɩbɔrɔdɛ ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.0559479157893747, ɩbɔrɔdɛ ,3,4,root,N,no,no,not nasal,atch
+ɩ,0.0596801274238032, ɩbɔrɔdɛ ,1,4,pref,N,yes,no,not nasal,atch
+ɩ,0.0504985693586377, ɩbɔrɔdɛ ,1,4,pref,N,yes,no,not nasal,atch
+ɩ,0.0828858011694251, ɩbɔrɔdɛ ,1,4,pref,N,yes,no,not nasal,atch
+a,0.101686108701031, ibu,2,2,root,N,no,yes,not nasal,atch
+u,0.120986589823171, ibu,2,2,root,N,no,yes,not nasal,atch
+u,0.0982835970658051, ibu,2,2,root,N,no,yes,not nasal,atch
+i,0.0872266923959017, ibu  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0750624356324962, ibu  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.087571245967247,﻿ ibu  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0784350092715158, ido,1,2,pref,N,yes,no,not nasal,atch
+i,0.0656292934720568, ido,1,2,pref,N,yes,no,not nasal,atch
+i,0.0656292934722841, ido,1,2,pref,N,yes,no,not nasal,atch
+o,0.0887522835284926, ido ,2,2,root,N,no,yes,not nasal,atch
+o,0.0704314368967971, ido ,2,2,root,N,no,yes,not nasal,atch
+o,0.0784350092715158, ido ,2,2,root,N,no,yes,not nasal,atch
+a,0.0750995013273154, ifaca,2,3,root,N,no,no,not nasal,atch
+a,0.0682372328049609, ifaca,3,3,root,N,no,yes,not nasal,atch
+a,0.073627842718281, ifaca,3,3,root,N,no,yes,not nasal,atch
+i,0.0743027646098539, ifaca,1,3,pref,N,yes,no,not nasal,atch
+i,0.048646967510308, ifaca,1,3,pref,N,yes,no,not nasal,atch
+a,0.0701587446610005, ifaca  ,3,3,root,N,no,yes,not nasal,atch
+a,0.0697536157562126, ifaca  ,2,3,root,N,no,no,not nasal,atch
+a,0.068368711095502, ifaca  ,2,3,root,N,no,no,not nasal,atch
+i,0.0982063823466887, ifaca  ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0410487832734816, ifɔrɔtɔ,1,4,pref,N,yes,no,not nasal,atch
+i,0.0377205035483712, ifɔrɔtɔ,1,4,pref,N,yes,no,not nasal,atch
+i,0.0509226797905739, ifɔrɔtɔ,1,4,pref,N,yes,no,not nasal,atch
+ɔ,0.062474584002075, ifɔrɔtɔ,2,4,root,N,no,no,not nasal,atch
+ɔ,0.0671896469457351, ifɔrɔtɔ,4,4,root,N,no,yes,not nasal,atch
+ɔ,0.0374431469047067, ifɔrɔtɔ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.046595916148135, ifɔrɔtɔ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.0636533497379332, ifɔrɔtɔ  ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.0524204056666803, ifɔrɔtɔ  ,2,4,root,N,no,no,not nasal,atch
+ɔ,0.0644022126762138, ifɔrɔtɔ  ,4,4,root,N,no,yes,not nasal,atch
+ɔ,0.0477053427230202, ifɔrɔtɔ  ,2,4,root,N,no,no,not nasal,atch
+ɔ,0.046595916148135, ifɔrɔtɔ  ,4,4,root,N,no,yes,not nasal,atch
+u,0.0913922065492442, ifu,2,2,root,N,no,yes,not nasal,atch
+u,0.0947155595146682, ifu,2,2,root,N,no,yes,not nasal,atch
+u,0.07332769538624, ifu,2,2,root,N,no,yes,not nasal,atch
+i,0.102096684614878, ifu  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0814221476529724, ifu  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0869068982355543, ifu  ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0819825569572003, ɩgbɔnɔ,2,3,root,N,no,no,nasal,atch
+ɔ,0.0793078302626781, ɩgbɔnɔ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0688632058474922, ɩgbɔnɔ,3,3,root,N,no,yes,not nasal,atch
+ɩ,0.0345700798579855, ɩgbɔnɔ,1,3,pref,N,yes,no,not nasal,atch
+ɩ,0.0344316029237461, ɩgbɔnɔ,1,3,pref,N,yes,no,not nasal,atch
+ɔ,0.0915090349184311, ɩgbɔnɔ ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0794641022716859, ɩgbɔnɔ ,2,3,root,N,no,no,nasal,atch
+ɔ,0.0742997747302069, ɩgbɔnɔ ,2,3,root,N,no,no,nasal,atch
+ɩ,0.0488048186231253, ɩgbɔnɔ ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.0864385816461208, ɩgbɛgbɛ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0842222077578753, ɩgbɛgbɛ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.107247869820184, ɩgbɛgbɛ,3,3,root,N,no,yes,not nasal,atch
+ɩ,0.0724598009461487, ɩgbɛgbɛ,1,3,pref,N,yes,no,not nasal,atch
+ɩ,0.0684570883632886, ɩgbɛgbɛ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.0775730860926842, ɩgbɛgbɛ ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0953040771996711, ɩgbɛgbɛ ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.100029263197711, ɩgbɛgbɛ ,2,3,root,N,no,no,not nasal,atch
+ɩ,0.0786812730369774, ɩgbɛgbɛ ,1,3,pref,N,yes,no,not nasal,atch
+ʋ,0.0724015470199219, ɩgʋ,2,2,root,N,no,yes,not nasal,atch
+ʋ,0.0995521271523784, ɩgʋ,2,2,root,N,no,yes,not nasal,atch
+ʋ,0.0775858070024924, ɩgʋ,2,2,root,N,no,yes,not nasal,atch
+ɩ,0.0600441218542755, ɩgʋ ,1,2,pref,N,yes,no,not nasal,atch
+ɩ,0.0724015470198082, ɩgʋ ,1,2,pref,N,yes,no,not nasal,atch
+ɩ,0.0564260414563477, ɩgʋ ,1,2,pref,N,yes,no,not nasal,atch
+i,0.118069065153918, ijaŋ,1,2,pref,N,yes,no,not nasal,atch
+i,0.111919634677178, ijaŋ,1,2,pref,N,yes,no,not nasal,atch
+a,0.101202055846215, ijaŋ  ,2,2,root,N,no,no,nasal,atch
+a,0.106824392282192, ijaŋ  ,2,2,root,N,no,no,nasal,atch
+a,0.0788005591093679, ijaŋ  ,2,2,root,N,no,no,nasal,atch
+ɔ,0.0975204510879841, ijɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.103430781456953, ijɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0886549555345315, ijɔ,2,2,root,N,no,yes,not nasal,atch
+i,0.105320168022705, ijɔ  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.109994166130558, ijɔ  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0966959228003787,﻿ ijɔ  ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0925628434681584, ɩkandɛ,2,3,root,N,no,no,nasal,atch
+ɛ,0.0552319602386432, ɩkandɛ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.102352410616504, ɩkandɛ,3,3,root,N,no,yes,not nasal,atch
+a,0.0777756174788919, ɩkandɛ ,2,3,root,N,no,no,nasal,atch
+ɩ,0.0541047773767786, ɩkandɛ ,1,3,pref,N,yes,no,not nasal,atch
+ɩ,0.0506891761849601, ɩkandɛ ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.036335791298427, ɩkpɛrɛ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.064020203716268, ɩkpɛrɛ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0545206135681723, ɩkpɛrɛ,3,3,root,N,no,yes,not nasal,atch
+ɩ,0.0570991006118219, ɩkpɛrɛ,1,3,pref,N,yes,no,not nasal,atch
+ɩ,0.0420587590383547, ɩkpɛrɛ,1,3,pref,N,yes,no,not nasal,atch
+ɛ,0.048447721731236, ɩkpɛrɛ ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0323776102043211, ɩkpɛrɛ ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.032712368140892, ɩkpɛrɛ ,2,3,root,N,no,no,not nasal,atch
+ɩ,0.070941306820714, ɩkpɛrɛ ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0818781676229036, ikuɔu,1,3,pref,N,yes,no,not nasal,atch
+i,0.0806964785404034, ikuɔu,1,3,pref,N,yes,no,not nasal,atch
+i,0.0660243915330056, ikuɔu  ,1,3,pref,N,yes,no,not nasal,atch
+u,0.0623563697811277, ikutu,2,3,root,N,no,no,not nasal,atch
+u,0.0709150872021382, ikutu,3,3,root,N,no,yes,not nasal,atch
+u,0.0843645002921675, ikutu,3,3,root,N,no,yes,not nasal,atch
+u,0.0806964785404034, ikutu  ,3,3,root,N,no,yes,not nasal,atch
+u,0.0586883480293636, ikutu  ,2,3,root,N,no,no,not nasal,atch
+u,0.0611336958639867, ikutu  ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0467901154210039, ɩkʋfɛ,3,3,root,N,no,yes,not nasal,atch
+ɛ,0.0446082974395949, ɩkʋfɛ,3,3,root,N,no,yes,not nasal,atch
+ɩ,0.0596573971617999, ɩkʋfɛ,1,3,pref,N,yes,no,not nasal,atch
+ɩ,0.0495647749328327, ɩkʋfɛ,1,3,pref,N,yes,no,not nasal,atch
+ʋ,0.0389312882556396, ɩkʋfɛ,2,3,root,N,no,no,not nasal,atch
+ɛ,0.0371205306622641, ɩkʋfɛ ,3,3,root,N,no,yes,not nasal,atch
+ɩ,0.0660926521549072, ɩkʋfɛ ,1,3,pref,N,yes,no,not nasal,atch
+ʋ,0.0374320923367577, ɩkʋfɛ ,2,3,root,N,no,no,not nasal,atch
+ʋ,0.0227997964691439, ɩkʋfɛ ,2,3,root,N,no,no,not nasal,atch
+ə,0.0497760635761608, ilən,2,2,root,N,no,no,nasal,atch
+ə,0.0467593324503354, ilən,2,2,root,N,no,no,nasal,atch
+ə,0.0392175046357579, ilən,2,2,root,N,no,no,nasal,atch
+i,0.104743883443717, ilən ,1,2,pref,N,yes,no,not nasal,atch
+i,0.134473154966883, ilən ,1,2,pref,N,yes,no,not nasal,atch
+i,0.103456423841038, ilən ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0861923178806591, ilo,1,2,pref,N,yes,no,not nasal,atch
+i,0.0858844881740878, ilo,1,2,pref,N,yes,no,not nasal,atch
+i,0.0859615969725382, ilo,1,2,pref,N,yes,no,not nasal,atch
+o,0.0900094062442349, ilo,2,2,root,N,no,yes,not nasal,atch
+o,0.116975288552566, ilo ,2,2,root,N,no,yes,not nasal,atch
+o,0.0886549555345936, ilo ,2,2,root,N,no,yes,not nasal,atch
+i,0.0829279788079473, imamaɔɔ,1,4,pref,N,yes,no,not nasal,atch
+i,0.101023007000945, imamaɔɔ ,1,4,pref,N,yes,no,not nasal,atch
+i,0.122485609839167, imamaɔɔ ,1,4,pref,N,yes,no,not nasal,atch
+a,0.0746640953642383, imamatɔ,2,4,root,N,no,no,not nasal,atch
+a,0.0777116094607381, imamatɔ,2,4,root,N,no,no,not nasal,atch
+a,0.097520451087985, imamatɔ,3,4,root,N,no,no,not nasal,atch
+a,0.0868541517502361, imamatɔ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.0883779087984864, imamatɔ,4,4,root,N,no,yes,not nasal,atch
+ɔ,0.105139236329233, imamatɔ,4,4,root,N,no,yes,not nasal,atch
+a,0.0868541517502365, imamatɔ ,3,4,root,N,no,no,not nasal,atch
+a,0.0807591235572369, imamatɔ ,2,4,root,N,no,no,not nasal,atch
+ɔ,0.120376806811731, imamatɔ ,4,4,root,N,no,yes,not nasal,atch
+a,0.0969663576158978, iman,2,2,root,N,no,no,nasal,atch
+a,0.0892090490066266, iman,2,2,root,N,no,no,nasal,atch
+a,0.111865315420999, iman,2,2,root,N,no,no,nasal,atch
+a,0.109587375591289, iman,2,2,root,N,no,no,nasal,atch
+i,0.0514721665089865, iman ,1,2,pref,N,yes,no,nasal,atch
+i,0.0424804995269596, iman ,1,2,pref,N,yes,no,nasal,atch
+i,0.0722963617786121, iman ,1,2,pref,N,yes,no,nasal,atch
+i,0.0485656461683987, iman ,1,2,pref,N,yes,no,nasal,atch
+ɔ,0.090809763481559, imɔli,2,3,root,N,no,no,not nasal,atch
+i,0.0750263099337757, imɔli,1,3,pref,N,yes,no,not nasal,atch
+i,0.049905123178803, imɔli,1,3,pref,N,yes,no,not nasal,atch
+i,0.0744640060548817, imɔli,3,3,root,N,no,yes,not nasal,atch
+i,0.0526388798486436, imɔli,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0944421540207827, imɔli  ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0877314664143682, imɔli  ,2,3,root,N,no,no,not nasal,atch
+i,0.0926259587511708, imɔli  ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0653830297067088, imɔli  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0538701986754972, imuɔi,1,3,pref,N,yes,no,not nasal,atch
+i,0.0744858278146125, imuɔi,1,3,pref,N,yes,no,not nasal,atch
+i,0.0663963313706403, imuɔi ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0818827019867285, imuti,3,3,root,N,no,yes,not nasal,atch
+i,0.0667990463576302, imuti,3,3,root,N,no,yes,not nasal,atch
+u,0.0721650845989643, imuti,2,3,root,N,no,no,not nasal,atch
+i,0.0856960379612132, imuti ,3,3,root,N,no,yes,not nasal,atch
+u,0.0958264370861456, imuti ,2,3,root,N,no,no,not nasal,atch
+u,0.078083390728409, imuti ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0727211151055939, inɔ  ,2,2,root,NUM,no,yes,not nasal,atch
+ɔ,0.0502765714285828, inɔ  ,2,2,root,NUM,no,yes,not nasal,atch
+i,0.0749101263534726, inɔ  ,1,2,pref,NUM,yes,no,nasal,atch
+i,0.0696698429517255, inɔ  ,1,2,pref,NUM,yes,no,nasal,atch
+i,0.0694980662251651, inun,1,2,pref,N,yes,no,nasal,atch
+u,0.0863462327341544, inun,2,2,root,N,no,no,nasal,atch
+i,0.105185410785239, inun  ,1,2,pref,N,yes,no,nasal,atch
+i,0.0899131579943315, inun  ,1,2,pref,N,yes,no,nasal,atch
+u,0.0627972601702921, inun  ,2,2,root,N,no,no,nasal,atch
+a,0.0532547105050298, ipeya,3,3,root,N,no,yes,not nasal,atch
+a,0.0622695585589099, ipeya,3,3,root,N,no,yes,not nasal,atch
+e,0.132925275307457, ipeya,2,3,root,N,no,no,not nasal,atch
+i,0.0596625322156114, ipeya,1,3,pref,N,yes,no,not nasal,atch
+a,0.066983744181698, ipeya ,3,3,root,N,no,yes,not nasal,atch
+e,0.126746211002114, ipeya ,2,3,root,N,no,no,not nasal,atch
+e,0.106451998182137, ipeya ,2,3,root,N,no,no,not nasal,atch
+i,0.0532547105050298, ipeya ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0788044049195946, ipeya ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0656751470198173, ipini,1,3,pref,N,yes,no,not nasal,atch
+i,0.0767735610719455, ipini,1,3,pref,N,yes,no,not nasal,atch
+i,0.0725246789025391, ipini,2,3,root,N,no,no,nasal,atch
+i,0.0744332230841848, ipini,3,3,root,N,no,yes,not nasal,atch
+i,0.0829154459576955, ipini,3,3,root,N,no,yes,not nasal,atch
+i,0.082910928287589, ipini  ,1,3,pref,N,yes,no,not nasal,atch
+i,0.064890502175956, ipini  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0820673998107679, ipini  ,2,3,root,N,no,no,nasal,atch
+i,0.069584155444204, ipini  ,2,3,root,N,no,no,nasal,atch
+a,0.0849504385614636, isabule,2,4,root,N,no,no,not nasal,atch
+a,0.0905113845727783, isabule,2,4,root,N,no,no,not nasal,atch
+e,0.08400234760893, isabule,4,4,root,N,no,yes,not nasal,atch
+e,0.0664674545506613, isabule,4,4,root,N,no,yes,not nasal,atch
+e,0.0773474727222947, isabule,4,4,root,N,no,yes,not nasal,atch
+i,0.0540048068223768, isabule,1,4,pref,N,yes,no,not nasal,atch
+u,0.0370129155286349, isabule,3,4,root,N,no,no,not nasal,atch
+a,0.100293061432466, isabule ,2,4,root,N,no,no,not nasal,atch
+a,0.0726987784147468, isabule ,2,4,root,N,no,no,not nasal,atch
+e,0.0608922158697851, isabule ,4,4,root,N,no,yes,not nasal,atch
+i,0.0415421590940923, isabule ,1,4,pref,N,yes,no,not nasal,atch
+i,0.0714563290254091, isabule ,1,4,pref,N,yes,no,not nasal,atch
+u,0.0290795113659214, isabule ,3,4,root,N,no,no,not nasal,atch
+u,0.0253554715897053, isabule ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.110449298770106, isɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.111999999999994, isɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.120000000000004, isɔ,2,2,root,N,no,yes,not nasal,atch
+i,0.0863770157048406, isɔ  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0693848158940397, isɔ  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0332456083254726, isɔ  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.126456443519373, isɩ̰,2,2,root,N,no,no,nasal,atch
+i,0.110449298770163, isɩ̰,2,2,root,N,no,no,nasal,atch
+i,0.0864385816461208, isɩ̰  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0736328658467755, isɩ̰  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0651059829706355, isɩ̰n,2,2,root,N,no,no,nasal,atch
+i,0.067192231598824, isɩ̰n  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0376456945178915, isokuli,4,4,root,N,no,yes,not nasal,atch
+i,0.0430388298830166, isokuli,4,4,root,N,no,yes,not nasal,atch
+o,0.0460114044108195, isokuli,2,4,root,N,no,no,not nasal,atch
+o,0.0609836795929368, isokuli,2,4,root,N,no,no,not nasal,atch
+i,0.0362514095357937, isokuli ,1,4,pref,N,yes,no,not nasal,atch
+i,0.0352350148759796, isokuli ,1,4,pref,N,yes,no,not nasal,atch
+u,0.039039979500103, isokuli ,3,4,root,N,no,no,not nasal,atch
+u,0.0451370493367448, isokuli ,3,4,root,N,no,no,not nasal,atch
+ɔ,0.0620584688741701, isuwɔl,3,3,root,N,no,no,not nasal,atch
+ɔ,0.0624609111623613, isuwɔl,3,3,root,N,no,no,not nasal,atch
+i,0.0852303682120236, isuwɔl,1,3,pref,N,yes,no,not nasal,atch
+i,0.0517533263916902, isuwɔl,1,3,pref,N,yes,no,not nasal,atch
+u,0.0742331337748964, isuwɔl,2,3,root,N,no,no,not nasal,atch
+ɔ,0.041603184862879, isuwɔl  ,3,3,root,N,no,no,not nasal,atch
+i,0.0769935863766022, isuwɔl  ,1,3,pref,N,yes,no,not nasal,atch
+u,0.0620584688741701, isuwɔl  ,2,3,root,N,no,no,not nasal,atch
+u,0.0517533263918039, isuwɔl  ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0567945808892886, iwɔl,2,2,root,N,no,no,not nasal,atch
+ɔ,0.0542703772943014, iwɔl,2,2,root,N,no,no,not nasal,atch
+ɔ,0.0578719848627997, iwɔl,2,2,root,N,no,no,not nasal,atch
+i,0.0813323322610699, iwɔl  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0939533502365748, iwɔl  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.0719607038788581, iwɔl  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.105647155345309, iyi,2,2,root,N,no,yes,not nasal,atch
+i,0.102938253926197, iyi,2,2,root,N,no,yes,not nasal,atch
+i,0.0839759439924279, iyi,2,2,root,N,no,yes,not nasal,atch
+i,0.125885323746459, iyi  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.120467520908235, iyi  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.1254699473983, iyi  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.130596704635735, iyibi,1,3,pref,N,yes,no,not nasal,atch
+i,0.102400121097446, iyibi,1,3,pref,N,yes,no,not nasal,atch
+i,0.0708931814569524, iyibi,2,3,root,N,no,no,not nasal,atch
+i,0.132736169536428, iyibi,3,3,root,N,no,yes,not nasal,atch
+i,0.0286281627246864, iyibi,2,3,root,N,no,no,not nasal,atch
+i,0.107124737937567, iyibi,3,3,root,N,no,yes,not nasal,atch
+ə,0.0802389192052857, iyibi ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0913791999999773, iyibi ,1,3,pref,N,yes,no,not nasal,atch
+i,0.0767237509933806, iyibi ,3,3,root,N,no,yes,not nasal,atch
+i,0.105585589403972, iyibi ,2,3,root,N,no,no,not nasal,atch
+i,0.0954272090823167, iyibi ,3,3,root,N,no,yes,not nasal,atch
+i,0.0609502819299905, iyibi ,2,3,root,N,no,no,not nasal,atch
+a,0.0782571521076533, ja  ,1,1,root,V,no,yes,not nasal,atch
+a,0.101849652077703, ja  ,1,1,root,V,no,yes,not nasal,atch
+a,0.072827901609628, ja  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0842812194107978, jan  ,1,1,root,V,no,no,nasal,atch
+a,0.0922217536904668, jan  ,1,1,root,V,no,no,nasal,atch
+a,0.0577271201660209, jan  ,1,1,root,V,no,no,nasal,atch
+i,0.0773602574416827, ji  ,1,1,root,V,no,yes,not nasal,atch
+i,0.0820177486818352, ji  ,1,1,root,V,no,yes,not nasal,atch
+i,0.073282864955388, ji  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0903717806957047, kabwi,1,2,root,N,no,no,not nasal,atch
+a,0.0953040771994437, kabwi,1,2,root,N,no,no,not nasal,atch
+a,0.0886549555345936, kabwi,1,2,root,N,no,no,not nasal,atch
+i,0.0310292344370282, kabwi,2,3,root,N,no,no,not nasal,atch
+i,0.0505018774476866, kabwi ,2,2,root,N,no,yes,not nasal,atch
+i,0.0465438516557696, kabwi ,2,2,root,N,no,yes,not nasal,atch
+a,0.07663253408532, kandɛ,1,2,root,N,no,no,nasal,atch
+ɛ,0.0806658253532077, kandɛ,2,2,root,N,no,yes,not nasal,atch
+a,0.0823906626953885, kandɛ ,1,2,root,N,no,no,nasal,atch
+a,0.0826824709870379, kandɛ ,1,2,root,N,no,no,nasal,atch
+ɛ,0.0967989904236219, kandɛ ,1,2,root,N,no,no,not nasal,atch
+ii,0.134421474234954, kii  ,1,1,root,V,no,yes,not nasal,atch
+ii,0.136341781009718, kii  ,1,1,root,V,no,yes,not nasal,atch
+a,0.108561276568934, kpa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.110134628403102, kpa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0931840210489554, kpa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.109997815200358, kpal  ,1,1,root,V,no,no,not nasal,atch
+a,0.104121330217139, kpal  ,1,1,root,V,no,no,not nasal,atch
+u,0.0711763170475023,kutu,1,2,root,N,no,no,not nasal,atch
+u,0.0618924496064892,kutu,1,2,root,N,no,no,not nasal,atch
+u,0.049584164297471,kutu,1,2,root,N,no,no,not nasal,atch
+u,0.10212254185069, kutu,2,2,root,N,no,yes,not nasal,atch
+u,0.0974806081302404, kutu,2,2,root,N,no,yes,not nasal,atch
+u,0.0619802053718103, kutu,2,2,root,N,no,yes,not nasal,atch
+e,0.0874852026490771, lale,2,2,root,N,no,yes,not nasal,atch
+e,0.0829601059602964, lale,2,2,root,N,no,yes,not nasal,atch
+e,0.0832063697256444, lale,2,2,root,N,no,yes,not nasal,atch
+a,0.133905922422059, lale  ,1,2,root,N,no,no,not nasal,atch
+a,0.115128310312229, lale  ,1,2,root,N,no,no,not nasal,atch
+a,0.109895205298016, lale  ,1,2,root,N,no,no,not nasal,atch
+a,0.099215615152616, maka  ,2,2,root,N,no,yes,not nasal,atch
+a,0.0739833864952856, maka  ,2,2,root,N,no,yes,not nasal,atch
+a,0.0840175704936427, maka  ,2,2,root,N,no,yes,not nasal,atch
+a,0.0607442541750629, maka  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0842272400100228, maka  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0896187418599083, maka  ,1,2,pref,N,no,no,not nasal,atch
+a,0.0870850240302729, mal  ,1,1,root,V,no,no,not nasal,atch
+a,0.128734383349069, mal  ,1,1,root,V,no,no,not nasal,atch
+a,0.094657634815519, mal  ,1,1,root,V,no,no,not nasal,atch
+e,0.0734173850520392, male,2,2,root,N,no,yes,not nasal,atch
+e,0.0701543901608374, male,2,2,root,N,no,yes,not nasal,atch
+e,0.0764648991486183, male,2,2,root,N,no,yes,not nasal,atch
+a,0.11257332374646, male  ,1,2,root,N,no,no,not nasal,atch
+a,0.102784339072854, male  ,1,2,root,N,no,no,not nasal,atch
+a,0.118021909555295, male  ,1,2,root,N,no,no,not nasal,atch
+a,0.0808052980131606, mamatɔ,1,3,root,N,no,no,not nasal,atch
+a,0.0614120264900748, mamatɔ  ,1,3,root,N,no,no,not nasal,atch
+a,0.0956734728476931, mamatɔ  ,1,3,root,N,no,no,not nasal,atch
+a,0.0764956821192299, mamatɔ,2,3,root,N,no,no,not nasal,atch
+a,0.0774499542100102, mamatɔ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0786504900662521, mamatɔ,3,3,root,N,no,yes,not nasal,atch
+ɔ,0.0615043754020234, mamatɔ,3,3,root,N,no,yes,not nasal,atch
+a,0.10343078145695, mamatɔ  ,2,3,root,N,no,no,not nasal,atch
+ɔ,0.0818827019867285, mamatɔ  ,3,3,root,N,no,yes,not nasal,atch
+i,0.0679687992431468, mɔli,2,2,root,N,no,yes,not nasal,atch
+i,0.0722168491958541, mɔli,2,2,root,N,no,yes,not nasal,atch
+i,0.0764648991485614, mɔli,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0892090490066266, mɔli  ,1,2,root,N,no,no,not nasal,atch
+ɔ,0.0934570989593339, mɔli  ,1,2,root,N,no,no,not nasal,atch
+ɔ,0.0892090490066266, mɔli  ,1,2,root,N,no,no,not nasal,atch
+a,0.127050578488535, məka  ,2,2,root,NGEN,no,yes,not nasal,atch
+a,0.10672248593039, məka  ,2,2,root,NGEN,no,yes,not nasal,atch
+a,0.0915121777971421, məka  ,2,2,root,NGEN,no,yes,not nasal,atch
+ə,0.0788025111763204, məka  ,1,2,pref,NGEN,no,no,not nasal,atch
+ə,0.0533612429651952, məka  ,1,2,pref,NGEN,no,no,not nasal,atch
+ə,0.0635501234702928, məka  ,1,2,pref,NGEN,no,no,not nasal,atch
+u,0.077231585241293, muti ,1,2,root,N,no,no,not nasal,atch
+u,0.0780989396404834, muti ,1,2,root,N,no,no,not nasal,atch
+u,0.0908359447493012, muti ,1,2,root,N,no,no,not nasal,atch
+i,0.0820694524124405, muti,2,2,root,N,no,yes,not nasal,atch
+i,0.104000000000041, muti,2,2,root,N,no,yes,not nasal,atch
+i,0.0766803799432409, muti,2,2,root,N,no,yes,not nasal,atch
+a,0.10343078145695, na  ,1,1,root,V,no,yes,not nasal,atch
+a,0.125540934720888, na  ,1,1,root,V,no,yes,not nasal,atch
+a,0.127413123962668, na  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0921957083875497, nkpa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0862838859649741, nkpa  ,1,1,root,V,no,yes,not nasal,atch
+u,0.0979548150702953, nkpa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0824269139072839, nna  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0975678284452499, nna  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0677225354777704, nna  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0744947890255218, nna  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0801383336487049, nna  ,1,1,root,V,no,yes,not nasal,atch
+a,0.082395751497927, nna  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0932280764496233, nŋmali  ,1,2,root,V,no,no,not nasal,atch
+a,0.0932280764496229, nŋmali  ,1,2,root,V,no,no,not nasal,atch
+i,0.0514361801101369, nŋmali  ,2,2,root,V,no,yes,not nasal,atch
+i,0.0835837926789726, nŋmali  ,2,2,root,V,no,yes,not nasal,atch
+i,0.0691173670229967, nŋmali  ,2,2,root,V,no,yes,not nasal,atch
+a,0.088975345113397, npa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0729882691401542, npa  ,1,1,root,V,no,yes,not nasal,atch
+u,0.0744947890255502, nun  ,1,1,root,V,no,no,nasal,atch
+u,0.103909627667405, nun  ,1,1,root,V,no,no,nasal,atch
+a,0.10490443645537, ŋa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.106075287291076, ŋa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0918434176389837, ŋa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.0886549555345936, ŋmal  ,1,1,root,V,no,no,not nasal,atch
+a,0.0861923178807728, ŋmal  ,1,1,root,V,no,no,not nasal,atch
+a,0.0938538572478364, ŋmal  ,1,1,root,V,no,no,not nasal,atch
+ɛ,0.0908439667823586, ŋmɛ  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.0930329780301235, ŋmɛ  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.0831824274150676, ŋmɛ  ,1,1,root,V,no,yes,not nasal,atch
+u,0.0763417672658306, obu,2,2,root,N,no,yes,not nasal,atch
+u,0.0911175931880734, obu,2,2,root,N,no,yes,not nasal,atch
+u,0.0591033036896533, obu,2,2,root,N,no,yes,not nasal,atch
+o,0.0793486168404342, obu ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0849609990539193, obu ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0751104484388633, obu ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0672178577215163, odo,1,2,pref,N,yes,no,not nasal,atch
+o,0.0774821522870752, odo,1,2,pref,N,yes,no,not nasal,atch
+o,0.0802996850973158, odo,1,2,pref,N,yes,no,not nasal,atch
+o,0.0991738884415553, odo ,2,2,root,N,no,yes,not nasal,atch
+o,0.08875228352872, odo ,2,2,root,N,no,yes,not nasal,atch
+u,0.10028493378661, ofu,2,2,root,N,no,yes,not nasal,atch
+u,0.101109451682418, ofu,2,2,root,N,no,yes,not nasal,atch
+u,0.0781642965243349, ofu,2,2,root,N,no,yes,not nasal,atch
+o,0.114278180361452, ofu  ,1,2,pref,N,yes,no,not nasal,atch
+o,0.146434378298693, ofu  ,1,2,pref,N,yes,no,not nasal,atch
+o,0.10049695267412, ofu  ,1,2,pref,N,yes,no,not nasal,atch
+e,0.0815643360335798, oge,2,2,root,N,no,yes,not nasal,atch
+e,0.108346655328205, oge,2,2,root,N,no,yes,not nasal,atch
+o,0.0742600671350146, oge ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0998250082799359, oge ,1,2,pref,N,yes,no,not nasal,atch
+o,0.126615063383269, ogo,2,2,root,N,no,yes,not nasal,atch
+o,0.0862298551080584, ogo,2,2,root,N,no,yes,not nasal,atch
+o,0.117956608297276, ogo,2,2,root,N,no,yes,not nasal,atch
+o,0.117236169799411, ogo ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0792382452343645, ogo ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0896470223059395, ogo ,1,2,pref,N,yes,no,not nasal,atch
+ə,0.056917712771991, olən,2,2,root,N,no,no,nasal,atch
+ə,0.0410336999053981, olən,2,2,root,N,no,no,nasal,atch
+ə,0.0516230418164695, olən,2,2,root,N,no,no,nasal,atch
+o,0.111773117880801, olən ,1,2,pref,N,yes,no,not nasal,atch
+o,0.108856631220419, olən ,1,2,pref,N,yes,no,not nasal,atch
+o,0.119532963481503, olən ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0937550510739129, olo,1,2,pref,N,yes,no,not nasal,atch
+o,0.0761676917277327, olo,1,2,pref,N,yes,no,not nasal,atch
+o,0.0816082411365641, olo,2,2,root,N,no,yes,not nasal,atch
+o,0.0816364382214942, olo ,2,2,root,N,no,yes,not nasal,atch
+o,0.0572627885103429, olo ,2,2,root,N,no,yes,not nasal,atch
+a,0.0978898467360451, oman,2,2,root,N,no,no,nasal,atch
+a,0.0881008620624435, oman,2,2,root,N,no,no,nasal,atch
+a,0.110941826300852, oman,2,2,root,N,no,no,nasal,atch
+o,0.0969794300851454, oman ,1,2,pref,N,yes,no,nasal,atch
+o,0.10416870085146, oman ,1,2,pref,N,yes,no,nasal,atch
+o,0.0725907315042562, oman ,1,2,pref,N,yes,no,nasal,atch
+a,0.0745385610467792, oŋasi,2,3,root,N,no,no,not nasal,atch
+i,0.0654484926265013, oŋasi,3,3,root,N,no,yes,not nasal,atch
+i,0.0727205473627918, oŋasi,3,3,root,N,no,yes,not nasal,atch
+o,0.0490863694699328, oŋasi,1,3,pref,N,yes,no,nasal,atch
+o,0.0464897641331845, oŋasi,1,3,pref,N,yes,no,nasal,atch
+a,0.0618124652582992, oŋasi ,2,3,root,N,no,no,not nasal,atch
+a,0.0709025336786908, oŋasi ,2,3,root,N,no,no,not nasal,atch
+i,0.0618124652584128, oŋasi ,3,3,root,N,no,yes,not nasal,atch
+o,0.0662520089026657, oŋasi ,1,3,pref,N,yes,no,nasal,atch
+a,0.127118742160291, opa  ,2,2,root,V,no,yes,not nasal,atch
+a,0.10569423505467, opa  ,2,2,root,V,no,yes,not nasal,atch
+a,0.0908583398115752, opa  ,2,2,root,V,no,yes,not nasal,atch
+o,0.058560319422213, opa  ,1,2,pref,V,yes,no,not nasal,atch
+o,0.0728433241592938, opa  ,1,2,pref,V,yes,no,not nasal,atch
+o,0.0734883630830154, opa  ,1,2,pref,V,yes,no,not nasal,atch
+ɩ,0.0965046130557993, osɩn,2,2,root,N,no,no,nasal,atch
+ɩ,0.0795739791864207, osɩn,2,2,root,N,no,no,nasal,atch
+ɩ,0.0694155988646798, osɩn,2,2,root,N,no,no,nasal,atch
+o,0.0854014607380122, osɩn  ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0969132563859602, osɩn  ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0964479394513091, osɩn  ,1,2,pref,N,yes,no,not nasal,atch
+i,0.107063171996216, oyi,2,2,root,N,no,yes,not nasal,atch
+i,0.109956771239367, oyi,2,2,root,N,no,yes,not nasal,atch
+i,0.0998291738883665, oyi,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.129404615326393, oyi ,1,2,pref,N,yes,no,not nasal,atch
+o,0.101090670198658, oyi ,1,2,pref,N,yes,no,not nasal,atch
+o,0.101005466035957, oyi ,1,2,pref,N,yes,no,not nasal,atch
+u,0.116174931315043, oyu,2,2,root,N,no,yes,not nasal,atch
+u,0.0879161642384076, oyu,2,2,root,N,no,yes,not nasal,atch
+u,0.0580566826868675, oyu,2,2,root,N,no,yes,not nasal,atch
+o,0.118438733017995, oyu ,1,2,pref,N,yes,no,not nasal,atch
+o,0.109462130558171, oyu ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0939533502365179, oyu ,1,2,pref,N,yes,no,not nasal,atch
+a,0.127188029004628, pa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.141581972612357, pa  ,1,1,root,V,no,yes,not nasal,atch
+a,0.139722834756412, pa  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.132058944181665, peya,1,2,root,N,no,no,not nasal,atch
+ɛ,0.120053585619672, peya,1,2,root,N,no,no,not nasal,atch
+a,0.079235366508982, peya ,2,2,root,N,no,yes,not nasal,atch
+a,0.0744332230841848, peya ,2,2,root,N,no,yes,not nasal,atch
+e,0.138349659643495, peya ,1,2,root,N,no,no,not nasal,atch
+o,0.0920048704111309, pul  ,1,1,root,V,no,no,not nasal,atch
+u,0.0727186387133542, pul  ,1,1,root,V,no,no,not nasal,atch
+u,0.0637108267093253, pul  ,1,1,root,V,no,no,not nasal,atch
+u,0.0798911835055946, pul  ,1,1,root,V,no,no,not nasal,atch
+u,0.0997171205887923, pul  ,1,1,root,V,no,no,not nasal,atch
+a,0.111999999999966, sabule,1,3,root,N,no,no,not nasal,atch
+e,0.0538667186912107, sabule,3,3,root,N,no,yes,not nasal,atch
+u,0.0430062390698822, sabule,2,3,root,N,no,no,not nasal,atch
+a,0.0684190167019096, sabule ,1,3,root,N,no,no,not nasal,atch
+e,0.0498481407399822, sabule ,3,3,root,N,no,yes,not nasal,atch
+u,0.0454193491252681, sabule ,2,3,root,N,no,no,not nasal,atch
+u,0.0870910507360349, səpʋ,2,2,root,N,no,yes,not nasal,atch
+ʋ,0.0914059046859847, səpʋ,2,2,root,N,no,yes,not nasal,atch
+ʋ,0.0767548939533071, səpʋ,2,2,root,N,no,yes,not nasal,atch
+ə,0.0465835852774034, səpʋ ,1,2,root,N,no,no,not nasal,atch
+ə,0.0383904799680294, səpʋ ,1,2,root,N,no,no,not nasal,atch
+ə,0.0426416077518752, səpʋ ,1,2,root,N,no,no,not nasal,atch
+i,0.0474269437329439, sokuli,3,3,root,N,no,yes,not nasal,atch
+i,0.0560737141937579, sokuli,3,3,root,N,no,yes,not nasal,atch
+o,0.0525344607503939, sokuli,1,3,root,N,no,no,not nasal,atch
+o,0.0527092913421256, sokuli,1,3,root,N,no,no,not nasal,atch
+u,0.032773676268107, sokuli,2,3,root,N,no,no,not nasal,atch
+u,0.0347045831623518, sokuli,2,3,root,N,no,no,not nasal,atch
+i,0.0405948105797051, sokuli ,3,3,root,N,no,yes,not nasal,atch
+i,0.0642748427625292, sokuli ,3,3,root,N,no,yes,not nasal,atch
+o,0.0752197960742933, sokuli ,1,3,root,N,no,no,not nasal,atch
+o,0.0520568747434708, sokuli ,1,3,root,N,no,no,not nasal,atch
+u,0.0424653502702767, sokuli ,2,3,root,N,no,no,not nasal,atch
+u,0.0405907134270364, sokuli ,2,3,root,N,no,no,not nasal,atch
+i,0.125184080731628, wi  ,1,1,root,V,no,yes,not nasal,atch
+i,0.1056881993062, wi  ,1,1,root,V,no,yes,not nasal,atch
+i,0.104662100283917, wi  ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.106543281824883, yɔ  ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.104149050772605, yɔ  ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.107740397350994, yɔ  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.102987827183824, ye  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.0700142104489032, yɛ  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.098158857983833, yɛ  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.0996000117734183, yɛ  ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.104788344370831, yɛ  ,1,1,root,V,no,yes,not nasal,atch
+i,0.149297407757785, yi  ,1,1,root,V,no,yes,not nasal,atch
+i,0.121592734153239, yi  ,1,1,root,V,no,yes,not nasal,atch
+i,0.131201265157471, yi  ,1,1,root,V,no,yes,not nasal,atch
+a,0.104337922435263,apa,2,2,root,N,no,yes,not nasal,atch
+a,0.0639069774915981,apa,1,2,pref,N,yes,no,not nasal,atch
+a,0.135059920580907,ca ,1,1,root,V,no,yes,not nasal,atch
+a,0.122500995039082,ca ,1,1,root,V,no,yes,not nasal,atch
+a,0.14247174549083,ca ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.0838506643475369,cɔ ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.121283996645544,cɔ ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.176797351333972,ɔdun,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.114039128693242,ɔdun,1,2,pref,N,yes,no,not nasal,atch
+u,0.0951985737952156,ɔdun,2,2,root,N,no,no,nasal,atch
+u,0.0995627049986227,ɔdun,2,2,root,N,no,no,nasal,atch
+ɛ,0.108816475215689,cɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.0756324226485958,cɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.0720732498180041,cɛ,1,1,root,V,no,yes,not nasal,atch
+ɛɛ,0.100208406778847,cɛɛ,1,1,root,V,no,yes,not nasal,atch
+ɛɛ,0.148385525422327,cɛɛ,1,1,root,V,no,yes,not nasal,atch
+ɛɛ,0.122048700563709,cɛɛ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.0926400902869772,ɔkoŋ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0832026319844772,ɔkoŋ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0745301682954959,ɔkoŋ,1,2,pref,N,yes,no,not nasal,atch
+o,0.0869215661950875,ɔkoŋ,2,2,root,N,no,no,nasal,atch
+o,0.0768024295241502,ɔkoŋ,2,2,root,N,no,no,nasal,atch
+o,0.0732879988238437,ɔkoŋ,2,2,root,N,no,no,nasal,atch
+a,0.0676215484622844,ɔkpa,2,2,root,N,no,yes,not nasal,atch
+a,0.0651705905141852,ɔkpa,2,2,root,N,no,yes,not nasal,atch
+a,0.0740258310572699,ɔkpa,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.057218233314245,ɔkpa,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0642395820782439,ɔkpa,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0727039412169574,ɔkpa,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0995993811111475,ɔ́lɔ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0855052109745884,ɔ́lɔ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0736944317879988,ɔ́lɔ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0771301401016444,ɔ́lɔ,2,2,root,V,no,yes,not nasal,atch
+ɔ,0.0793486168399795,ɔ́lɔ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0788904446546894,ɔ́lɔ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.0918215953588514,ɔ́lɔ,1,2,pref,V,yes,no,not nasal,atch
+ɔ,0.105824342430651,ɔ̀lɔ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0807745150425489,ɔlɔŋ ɔlọŋ,2,2,root,N,no,no,nasal,atch
+ɔ,0.0643671916744779,ɔlɔŋ ɔlọŋ,2,2,root,N,no,no,nasal,atch
+ɔ,0.0788081286660826,ɔlɔŋ ɔlọŋ,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.096268727341453,ɔlɔŋ ɔlọŋ,1,2,pref,N,yes,no,not nasal,atch
+a,0.0825743327233965,ɔpa,2,2,root,N,no,yes,not nasal,atch
+a,0.0957540991851146,ɔpa,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0997773187074244,ɔpa,1,2,pref,N,yes,no,not nasal,atch
+ɔ,0.0855674928887992,ɔpa,1,2,pref,N,yes,no,not nasal,atch
+a,0.0791337355265966,ɔpa ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.0722525411329684,ɔpa ,1,2,pref,N,yes,no,not nasal,atch
+ʋ,0.138775878380897,ɔʋ,1,1,root,V,no,yes,not nasal,atch
+ʋ,0.122872279828925,ɔʋ,1,1,root,V,no,yes,not nasal,atch
+ʋ,0.117157290069371,ɔʋ,1,1,root,V,no,yes,not nasal,atch
+a,0.116924303732162,da,1,1,root,V,no,yes,not nasal,atch
+a,0.106902220554957,da,1,1,root,V,no,yes,not nasal,atch
+a,0.10690222055507,da,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.127023692272459,dɔ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.132481948126507,dɔ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.150016323613837,dɔ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.150016323613837,dɔ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.123617347185685,dɔ,1,1,root,V,no,yes,not nasal,atch
+u,0.154831935595098,du,1,1,root,V,no,yes,not nasal,atch
+u,0.131696129126908,du,1,1,root,V,no,yes,not nasal,atch
+e,0.0845104227788056,epu,1,2,pref,N,yes,no,not nasal,atch
+e,0.0845104227788056,epu,1,2,pref,N,yes,no,not nasal,atch
+e,0.0641417870464238,epu,1,2,pref,N,yes,no,not nasal,atch
+u,0.0684131993923529,epu,2,2,root,N,no,yes,not nasal,atch
+u,0.0925590344720035,epu,2,2,root,N,no,yes,not nasal,atch
+u,0.0711137204209535,epu,2,2,root,N,no,yes,not nasal,atch
+a,0.119333951936823,fal,1,1,root,V,no,no,not nasal,atch
+a,0.0929754461015477,fal,1,1,root,V,no,no,not nasal,atch
+a,0.0996023488885953,fal,1,1,root,V,no,no,not nasal,atch
+ɛ,0.141883210549451,fɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.120046510148711,fɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.123797963590902,fɛ,1,1,root,V,no,yes,not nasal,atch
+a,0.0829751169454766,gɤca,2,2,root,N,no,yes,not nasal,atch
+a,0.0940500985367407,gɤca,2,2,root,N,no,yes,not nasal,atch
+ə,0.0617489242384863,gɤca,1,2,pref,N,no,no,not nasal,atch
+ə,0.0806143701743167,gɤca,1,2,pref,N,no,no,not nasal,atch
+ə,0.055683368636096,gɤcɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0518853997427868,gɤcɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0563794107440571,gɤcɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0514811839407229,gɤcɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0638366680865374,gɤcɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0506683231417355,gɤcɛ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.0765646318745894,gɤcɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0807106218220496,gɤcɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.087701305601854,gɤcɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.107080862596831,gɤcɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0844291416628948,gɤcɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.121603975540097,gɤcɛ,2,2,root,N,no,yes,not nasal,atch
+ə,0.0454601444006925,gɤɔɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0502455708272009,gɤɔɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0596870117955745,gɤɔɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0433023418909215,gɤɔɛ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.118259956063241,gɤɔɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.10156019635275,gɤɔɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.118203690026462,gɤɔɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.107670687944903,gɤɔɛ,2,2,root,N,no,yes,not nasal,atch
+ə,0.0494170916616951,gɤfɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0494170916616667,gɤfɛ,1,2,pref,N,no,no,not nasal,atch
+ə,0.0456825175590154,gɤfɛ,1,2,pref,N,no,no,not nasal,atch
+ɛ,0.101799208823081,gɤfɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.097845841490141,gɤfɛ,2,2,root,N,no,yes,not nasal,atch
+ɛ,0.0783128872440102,gɤfɛ,2,2,root,N,no,yes,not nasal,atch
+a,0.0877314664143114,gɤnan,2,2,root,N,no,no,nasal,atch
+a,0.0596573971616862,gɤnan,2,2,root,N,no,no,nasal,atch
+a,0.0874236367076264,gɤnan,2,2,root,N,no,no,nasal,atch
+ə,0.0619969029328331,gɤnan,1,2,pref,N,no,no,nasal,atch
+ə,0.0736315579943038,gɤnan,1,2,pref,N,no,no,nasal,atch
+ə,0.0781172980133533,gɤnan,1,2,pref,N,no,no,nasal,atch
+u,0.108830085351769,gudu,2,2,root,NUM,no,yes,not nasal,atch
+u,0.0801110350506064,gudu,2,2,root,NUM,no,yes,not nasal,atch
+u,0.082736322197249,gudu,2,2,root,NUM,no,yes,not nasal,atch
+u,0.0725533902345176,gudu,1,2,root,NUM,no,no,not nasal,atch
+u,0.0755764481609446,gudu,1,2,root,NUM,no,no,not nasal,atch
+u,0.102041464043281,gudu,1,2,root,NUM,no,no,not nasal,atch
+u,0.0905928853283057,gufu,2,2,root,N,no,yes,not nasal,atch
+u,0.115584026108535,gufu,2,2,root,N,no,yes,not nasal,atch
+u,0.118707918706064,gufu,2,2,root,N,no,yes,not nasal,atch
+u,0.0718495297431474,gufu,1,2,pref,N,no,no,not nasal,atch
+u,0.0827831538344838,gufu,1,2,pref,N,no,no,not nasal,atch
+u,0.0862045600127316,gufu,1,2,pref,N,no,no,not nasal,atch
+a,0.107104220264773,kpali,1,2,root,V,no,no,not nasal,atch
+a,0.110937074087587,kpali,1,2,root,V,no,no,not nasal,atch
+e,0.079832937541596,kpali,2,2,root,V,no,yes,not nasal,atch
+e,0.0764000604565353,kpali,2,2,root,V,no,yes,not nasal,atch
+ɛ,0.130175452852654,kpɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.125794160510395,kpɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.1160101702485,kpɛ,1,1,root,V,no,yes,not nasal,atch
+ɔ,0.116236497256394,loŋɔ ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.116236497256394,loŋɔ ,2,2,root,N,no,yes,not nasal,atch
+ɔ,0.114543433869442,loŋɔ ,2,2,root,N,no,yes,not nasal,atch
+o,0.0719090194891123,loŋɔ ,1,2,root,N,no,no,nasal,atch
+o,0.0807745150425631,loŋɔ ,1,2,root,N,no,no,nasal,atch
+o,0.0826214932828861,loŋɔ ,1,2,root,N,no,no,nasal,atch
+o,0.0842222077578185,loŋo ,2,2,root,N,no,yes,not nasal,atch
+o,0.0684305438032311,loŋo ,2,2,root,N,no,yes,not nasal,atch
+o,0.0807129491012119,loŋo ,1,2,root,N,no,no,nasal,atch
+o,0.0789583197729371,loŋo ,1,2,root,N,no,no,nasal,atch
+a,0.11420579326716,nta,1,1,root,V,no,yes,not nasal,atch
+a,0.09498847228474,nta,1,1,root,V,no,yes,not nasal,atch
+a,0.098349829473932,nta,1,1,root,V,no,yes,not nasal,atch
+a,0.112981258972354,nta,1,1,root,V,no,yes,not nasal,atch
+a,0.0973443828006566,nta,1,1,root,V,no,yes,not nasal,atch
+a,0.0909324773465414,nta,1,1,root,V,no,yes,not nasal,atch
+a,0.116374074631949,nta(li),1,2,root,V,no,no,not nasal,atch
+a,0.116374074631949,nta(li),1,2,root,V,no,no,not nasal,atch
+i,0.0668531918098551,nta(li),2,2,root,V,no,no,not nasal,atch
+i,0.0569490152454363,nta(li),2,2,root,V,no,no,not nasal,atch
+a,0.101264979591832,nŋmali,1,2,root,V,no,no,not nasal,atch
+a,0.121330016063723,npa  ,1,1,root,V,no,yes,not nasal,atch
+ɔɔ,0.100899828510819,nsɔ,1,1,root,N,no,yes,not nasal,atch
+ɔɔ,0.107885420436559,nsɔ,1,1,root,N,no,yes,not nasal,atch
+ɔ,0.0922246335990166,nsɔ,1,1,root,N,no,yes,not nasal,atch
+ɔ,0.0728017256386124,nsɔɔ,1,1,root,V,no,yes,not nasal,atch
+ɔɔ,0.100598748155164,nsɔɔ,1,1,root,V,no,yes,not nasal,atch
+ɔɔ,0.108385490992475,nsɔɔ,1,1,root,V,no,yes,not nasal,atch
+a,0.0763109842953326,ŋmali,1,2,root,V,no,no,not nasal,atch
+a,0.0801935061513177,ŋmali,1,2,root,V,no,no,not nasal,atch
+a,0.0713148609099789,ŋmali,1,2,root,V,no,no,not nasal,atch
+i,0.087534834437065,ŋmali,2,2,root,V,no,yes,not nasal,atch
+i,0.0713148609099789,ŋmali,2,2,root,V,no,yes,not nasal,atch
+o,0.114908850278311,otu,1,2,pref,N,yes,no,not nasal,atch
+o,0.130762584701727,otu,1,2,pref,N,yes,no,not nasal,atch
+o,0.133441742922116,otu,1,2,pref,N,yes,no,not nasal,atch
+o,0.0972111974020322,otu,1,2,pref,N,yes,no,not nasal,atch
+o,0.114681035775788,otu,1,2,pref,N,yes,no,not nasal,atch
+o,0.0897442503552383,otu,1,2,pref,N,yes,no,not nasal,atch
+u,0.100284087515603,otu,2,2,root,N,no,yes,not nasal,atch
+u,0.116752307769388,otu,2,2,root,N,no,yes,not nasal,atch
+u,0.115941186473293,otu,2,2,root,N,no,yes,not nasal,atch
+u,0.0858698910384418,otu,2,2,root,N,no,yes,not nasal,atch
+u,0.0836861612417578,otu,2,2,root,N,no,yes,not nasal,atch
+u,0.0683765716992184,otu,2,2,root,N,no,yes,not nasal,atch
+o,0.120509742363822,oko ,1,2,root,NUM,yes,no,not nasal,atch
+o,0.111619679402565,oko ,1,2,root,NUM,yes,no,not nasal,atch
+o,0.0814922438115957,oko ,1,2,root,NUM,yes,no,not nasal,atch
+ʋ,0.0988179887383466,oko ,2,2,root,NUM,no,yes,not nasal,atch
+ʋ,0.0937605306981765,oko ,2,2,root,NUM,no,yes,not nasal,atch
+ʋ,0.0804056805608013,oko ,2,2,root,NUM,no,yes,not nasal,atch
+a,0.0814222029825941,sa,1,1,root,V,no,no,not nasal,atch
+a,0.0948775670351551,sa,1,1,root,V,no,yes,not nasal,atch
+a,0.0664596928895662,sa,1,1,root,V,no,yes,not nasal,atch
+aa,0.107895563843612,saa,1,1,root,V,no,yes,not nasal,atch
+aa,0.119497070971419,saa,1,1,root,V,no,yes,not nasal,atch
+aa,0.11420958995518,saa,1,1,root,V,no,yes,not nasal,atch
+a,0.150293693173239,sal,1,1,root,V,no,no,not nasal,atch
+a,0.112720269880014,sal,1,1,root,V,no,no,not nasal,atch
+a,0.109304504126043,sal,1,1,root,V,no,no,not nasal,atch
+ɛ,0.142924692125461,sɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.1275065583485,sɛ,1,1,root,V,no,yes,not nasal,atch
+ɛ,0.136350014476079,sɛ,1,1,root,V,no,yes,not nasal,atch
